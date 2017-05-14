@@ -1,9 +1,14 @@
 ---
 title: "Final Manifesto"
-author: "Raju Adhikari"
+author: "Raju Adhikari and Devvart Poddar"
 date: "May 13, 2017"
 output: pdf_document
 ---
+
+#Introduction:
+
+In this paper, we aim to understand the intricate relationship between the political parties and news media based on the topics that political parties and media often touch upon. In a more philosophical sense, different political parties are entities with similar goals but different means of getting there. These means can be construed as the mandates of these parties. For example, the mandate of left-wing parties is to achieve social and economic justice through government intervention and welfare systems, while that of right-wing parties is to achieve social and economic justice through less intervention and allowing the market to function freely. While taking up these different approaches (means), the parties often reach out to the voters through a selection of ideas, topics, and verbiage that is unique to their philosophy. In this paper, we analyze these "contents" of political rhetoric of three main German national parties. We will use the Manifesto Dataset to first see the differences between the three parties in terms of different social and political agendas over the years. Second, we will see which topics do these parties use frequently in order to assess their approach in appealing to the voters. Then, we will combine this data with the topic distribution dataset obtained from newspaper articles to analyze the role of media in facilitating the interaction between political parties and voters.
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -86,8 +91,8 @@ The variable welfare captures equality and welfare state expansion.
 ```{r, echo = FALSE}
 #For welfare
 plot_welfare <- ggplot(df2) +
-  geom_line(aes(x = edate, y = welfare, colour = partyname)) 
-
+  geom_line(aes(x = edate, y = welfare, colour = partyname)) +
+  scale_x_date(date_breaks = "8 years")
 plot_welfare
 ```
 
