@@ -37,11 +37,11 @@ text.data <- import("Data/lemma_text.json") %>%
 # Creating document term matrix
 error <- try({
   temp <- corpus(text.data) %>%
-    dfm(remove = stopwords("german"), removePunct = TRUE) %>%
+    dfm(remove = stopwords("german"), remove_punct = TRUE) %>%
     dfm_trim(min_docfreq = 0.10)
 
   topic.model <- LDA(temp,
-                     k = 10,
+                     k = 100,
                      control = list(seed = 1236,
                                     alpha = 0.8))
   })
