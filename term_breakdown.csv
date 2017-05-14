@@ -1,0 +1,5001 @@
+topic,term,beta,term_eng
+1,sagen,0.0264,say
+1,prozent,0.0163,percent
+1,dass,0.015,that
+1,spd,0.0143,spd
+1,jahr,0.0102,year
+1,geben,0.0095,give
+1,erst,0.0063,first
+1,partei,0.0062,party
+1,berlin,0.0061,Berlin
+1,grüne,0.0061,green
+1,sollen,0.0061,should
+1,kommen,0.0059,come
+1,stehen,0.0059,stand
+1,gehen,0.0058,go
+1,cdu,0.0056,cdu
+1,halten,0.0049,hold
+1,mehr,0.0048,more
+1,politisch,0.0048,politically
+1,spiegel,0.0047,mirror
+1,erklären,0.0044,to explain
+1,lassen,0.0042,to let
+1,union,0.0042,union
+1,sprechen,0.0041,speak
+1,zwei,0.0041,two
+1,seit,0.0039,since
+1,neu,0.0038,New
+1,laut,0.0037,according to
+1,schröder,0.0036,Schroeder
+1,stoiber,0.0035,stoiber
+1,bundestag,0.0034,Bundestag
+1,immer,0.0033,always
+1,gut,0.0032,Good
+1,heute,0.0031,today
+1,etwa,0.0031,about
+1,csu,0.0031,Christian Social Union
+1,wahlkampf,0.0031,electioneering
+1,umfrage,0.003,survey
+1,schon,0.0029,beautiful
+1,entscheidung,0.0029,decision
+1,jung,0.0029,young
+1,wenige,0.0027,few
+1,nehmen,0.0027,to take
+1,liegen,0.0026,lie
+1,kanzler,0.0025,chancellor
+1,bleiben,0.0024,stay
+1,schreiben,0.0024,write
+1,wissen,0.0024,knowledge
+1,tag,0.0023,Day
+1,dagegen,0.0023,on the other hand
+1,dafür,0.0023,for this
+2,sagen,0.0291,say
+2,spd,0.0151,spd
+2,deutschland,0.0111,Germany
+2,müssen,0.008,have to
+2,geben,0.0077,give
+2,gehen,0.0076,go
+2,berlin,0.0074,Berlin
+2,neu,0.0074,New
+2,jahr,0.0068,year
+2,deutsch,0.0067,German
+2,gut,0.0067,Good
+2,sollen,0.0066,should
+2,union,0.0065,union
+2,koalition,0.0059,coalition
+2,erst,0.0056,first
+2,bundestag,0.0054,Bundestag
+2,regierung,0.0047,government
+2,euro,0.0047,Euro
+2,stoiber,0.0045,stoiber
+2,grüne,0.0044,green
+2,halten,0.0043,hold
+2,viele,0.0043,lots
+2,schröder,0.0042,Schroeder
+2,frage,0.0042,question
+2,csu,0.0042,Christian Social Union
+2,groß,0.004,big
+2,stellen,0.004,put
+2,dass,0.0039,that
+2,dürfen,0.0038,allowed
+2,zeigen,0.0038,demonstrate
+2,woche,0.0037,week
+2,tag,0.0034,Day
+2,vergangen,0.0034,past
+2,fall,0.0034,case
+2,treffen,0.0033,to meet
+2,cdu,0.0032,cdu
+2,weit,0.0031,far
+2,wegen,0.0029,because of
+2,wahl,0.0029,choice
+2,online,0.0028,on-line
+2,deshalb,0.0028,that's why
+2,gesetz,0.0028,law
+2,laut,0.0027,according to
+2,fdp,0.0027,fdp
+2,september,0.0025,September
+2,rotgrün,0.0025,Red Green
+2,gelten,0.0024,be valid
+2,bundesregierung,0.0024,federal government
+2,müntefering,0.0024,müntefering
+2,monat,0.0024,month
+3,stimme,0.2355,voice
+3,stimmen,0.1242,be right
+3,köhler,0.0506,köhler
+3,simonis,0.0172,simonis
+3,wahlgang,0.015,ballot
+3,wählen,0.0143,choose
+3,frei,0.014,free
+3,mehrheit,0.0125,majority
+3,wahl,0.0103,choice
+3,wähler,0.0086,voter
+3,bundesrat,0.0074,Federal Council
+3,sitz,0.0074,Seat
+3,dass,0.007,that
+3,abstimmung,0.0069,poll
+3,lager,0.0063,camp
+3,kandidatin,0.006,nominee
+3,cdu,0.0045,cdu
+3,heide,0.0045,pagan
+3,landtag,0.0044,Parliament
+3,wiederwahl,0.0044,re-election
+3,sagen,0.0043,say
+3,bundespräsident,0.0042,bundespräsident
+3,amtsinhaber,0.0042,office bearer
+3,union,0.0039,union
+3,länderkammer,0.0038,country-chamber
+3,bürgerlich,0.0038,civil
+3,mehr,0.0038,more
+3,kiel,0.0037,keel
+3,rotgrün,0.0037,Red Green
+3,koalition,0.0036,coalition
+3,delegiert,0.0035,delegated
+3,erforderlich,0.0034,required
+3,bundestag,0.0033,Bundestag
+3,absolut,0.0033,absolute
+3,kandidat,0.0033,candidate
+3,fdp,0.0032,fdp
+3,enthaltung,0.0032,abstention
+3,wahlkreis,0.003,constituency
+3,peter,0.0027,Peter
+3,schleswigholstein,0.0026,Schleswig holstein
+3,beide,0.0025,both
+3,schon,0.0025,beautiful
+3,spiegel,0.0025,mirror
+3,jahr,0.0024,year
+3,bundestagswahl,0.0023,bundestagswahl
+3,csu,0.0023,Christian Social Union
+3,ministerpräsident,0.0022,prime minister
+3,gehen,0.0022,go
+3,linkspartei,0.0022,left party
+3,erhalten,0.0022,receive
+4,prozent,0.0153,percent
+4,jahr,0.0107,year
+4,sagen,0.0104,say
+4,deutschland,0.0089,Germany
+4,euro,0.0087,Euro
+4,union,0.0079,union
+4,gut,0.0077,Good
+4,erst,0.0076,first
+4,partei,0.0071,party
+4,schon,0.0067,beautiful
+4,mehr,0.0065,more
+4,land,0.0063,country
+4,deutsch,0.0063,German
+4,kommen,0.006,come
+4,geben,0.0058,give
+4,sehen,0.0056,see
+4,sollen,0.0056,should
+4,mensch,0.0054,human
+4,milliarde,0.0054,billion
+4,liegen,0.0053,lie
+4,bereits,0.0048,already
+4,stehen,0.0048,stand
+4,csu,0.0048,Christian Social Union
+4,online,0.0048,on-line
+4,halten,0.0046,hold
+4,viele,0.0045,lots
+4,dürfen,0.0038,allowed
+4,vergangen,0.0037,past
+4,dass,0.0036,that
+4,drei,0.0035,three
+4,nehmen,0.0034,to take
+4,zeit,0.0034,Time
+4,stoiber,0.0034,stoiber
+4,ende,0.0031,The End
+4,seehofer,0.003,seehofer
+4,koalition,0.003,coalition
+4,zwei,0.0029,two
+4,recht,0.0029,Law
+4,lassen,0.0028,to let
+4,bundestagswahl,0.0028,bundestagswahl
+4,immer,0.0028,always
+4,wer,0.0028,who
+4,wegen,0.0027,because of
+4,wahl,0.0027,choice
+4,merkel,0.0026,merkel
+4,allerdings,0.0026,Indeed
+4,vier,0.0025,four
+4,bleiben,0.0025,stay
+4,heute,0.0025,today
+4,leben,0.0025,Life
+5,spd,0.0231,spd
+5,merkel,0.021,merkel
+5,sagen,0.0146,say
+5,cdu,0.0128,cdu
+5,mehr,0.0122,more
+5,union,0.0114,union
+5,prozent,0.0105,percent
+5,kommen,0.0102,come
+5,steinmeier,0.009,steinmeier
+5,gehen,0.0085,go
+5,dass,0.0078,that
+5,steinbrück,0.0078,steinbrück
+5,neu,0.0075,New
+5,deutschland,0.0066,Germany
+5,fdp,0.0063,fdp
+5,groß,0.0061,big
+5,grün,0.0056,green
+5,jahr,0.0054,year
+5,müssen,0.0054,have to
+5,seit,0.0051,since
+5,viele,0.0048,lots
+5,angela,0.0047,angela
+5,mensch,0.0046,human
+5,gabriel,0.0044,gabriel
+5,wahlkampf,0.0044,electioneering
+5,mal,0.0042,times
+5,beide,0.0042,both
+5,frage,0.0041,question
+5,koalition,0.004,coalition
+5,immer,0.0039,always
+5,schon,0.0038,beautiful
+5,erst,0.0035,first
+5,land,0.0035,country
+5,stellen,0.0035,put
+5,liegen,0.0034,lie
+5,ende,0.0033,The End
+5,thema,0.0033,theme
+5,kandidat,0.0032,candidate
+5,vergangen,0.0031,past
+5,sprechen,0.0031,speak
+5,punkt,0.0031,Point
+5,kanzlerin,0.0031,Chancellor
+5,möglich,0.003,possible
+5,ja,0.003,Yes
+5,gemeinsam,0.003,together
+5,grüne,0.003,green
+5,kanzlerkandidat,0.0029,chancellor candidate
+5,dürfen,0.0029,allowed
+5,bundestagswahl,0.0029,bundestagswahl
+5,regierung,0.0028,government
+6,dass,0.0187,that
+6,deutschland,0.0081,Germany
+6,cdu,0.008,cdu
+6,berlin,0.0078,Berlin
+6,union,0.0076,union
+6,sollen,0.0064,should
+6,politisch,0.0064,politically
+6,mehr,0.0062,more
+6,jahr,0.0061,year
+6,kommen,0.006,come
+6,sagen,0.0055,say
+6,merkel,0.0053,merkel
+6,schon,0.0052,beautiful
+6,bleiben,0.0052,stay
+6,seehofer,0.0048,seehofer
+6,prozent,0.0047,percent
+6,neu,0.0046,New
+6,vergangen,0.0046,past
+6,seit,0.0043,since
+6,stehen,0.0043,stand
+6,dabei,0.0041,there
+6,csu,0.004,Christian Social Union
+6,deutsch,0.0038,German
+6,halten,0.0038,hold
+6,immer,0.0037,always
+6,ministerpräsident,0.0037,prime minister
+6,stellen,0.0036,put
+6,groß,0.0036,big
+6,zwei,0.0036,two
+6,land,0.0036,country
+6,drei,0.0035,three
+6,ende,0.0035,The End
+6,viele,0.0034,lots
+6,koalition,0.0034,coalition
+6,grüne,0.0032,green
+6,weit,0.0032,far
+6,kanzlerin,0.0031,Chancellor
+6,beide,0.0031,both
+6,berliner,0.003,Berliner
+6,thema,0.0029,theme
+6,spd,0.0029,spd
+6,fall,0.0029,case
+6,fdp,0.0029,fdp
+6,angela,0.0028,angela
+6,zeitung,0.0027,newspaper
+6,jedoch,0.0026,however
+6,bundestagswahl,0.0026,bundestagswahl
+6,sehen,0.0026,see
+6,steinbrück,0.0026,steinbrück
+6,allerdings,0.0025,Indeed
+7,dass,0.0302,that
+7,sagen,0.0244,say
+7,jahr,0.013,year
+7,spd,0.0093,spd
+7,prozent,0.0087,percent
+7,berlin,0.0083,Berlin
+7,union,0.0077,union
+7,müssen,0.0074,have to
+7,land,0.0071,country
+7,spiegel,0.0063,mirror
+7,sollen,0.0058,should
+7,seit,0.0053,since
+7,bundestag,0.0053,Bundestag
+7,erst,0.0051,first
+7,neu,0.0048,New
+7,lassen,0.0048,to let
+7,bleiben,0.0046,stay
+7,halten,0.0044,hold
+7,gut,0.0042,Good
+7,bereits,0.0041,already
+7,dafür,0.0039,for this
+7,sehen,0.0037,see
+7,weit,0.0037,far
+7,wegen,0.0036,because of
+7,koalition,0.0035,coalition
+7,beide,0.0033,both
+7,fdp,0.0033,fdp
+7,woche,0.0032,week
+7,etwa,0.0032,about
+7,ministerpräsident,0.0031,prime minister
+7,dabei,0.0031,there
+7,deutsch,0.0031,German
+7,laut,0.003,according to
+7,fordern,0.003,demand
+7,allerdings,0.003,Indeed
+7,bundesregierung,0.0029,federal government
+7,groß,0.0029,big
+7,amt,0.0029,office
+7,seehofer,0.0028,seehofer
+7,stoiber,0.0028,stoiber
+7,steinmeier,0.0027,steinmeier
+7,nehmen,0.0027,to take
+7,million,0.0027,million
+7,letzt,0.0026,last
+7,grün,0.0026,green
+7,eigen,0.0025,own
+7,cdu,0.0025,cdu
+7,wissen,0.0025,knowledge
+7,heißen,0.0025,be called
+7,mann,0.0025,man
+8,dass,0.0281,that
+8,partei,0.0145,party
+8,jahr,0.014,year
+8,spd,0.0135,spd
+8,prozent,0.0119,percent
+8,müssen,0.0092,have to
+8,mehr,0.0069,more
+8,seit,0.0064,since
+8,erst,0.0061,first
+8,geben,0.0061,give
+8,sollen,0.0055,should
+8,land,0.0055,country
+8,lassen,0.0054,to let
+8,bereits,0.0046,already
+8,viele,0.0045,lots
+8,weit,0.0043,far
+8,koalition,0.0043,coalition
+8,grüne,0.0041,green
+8,gut,0.0041,Good
+8,bleiben,0.0038,stay
+8,drei,0.0036,three
+8,stehen,0.0036,stand
+8,bundestagswahl,0.0036,bundestagswahl
+8,mal,0.0035,times
+8,zeit,0.0035,Time
+8,union,0.0034,union
+8,beide,0.0033,both
+8,möglich,0.0033,possible
+8,treffen,0.0032,to meet
+8,sozialdemokrat,0.0032,Social
+8,nehmen,0.0031,to take
+8,stark,0.003,strongly
+8,allerdings,0.0028,Indeed
+8,zwei,0.0028,two
+8,rede,0.0027,speech
+8,berlin,0.0027,Berlin
+8,woche,0.0026,week
+8,pds,0.0026,pds
+8,gabriel,0.0026,gabriel
+8,ergebnis,0.0026,Result
+8,amt,0.0025,office
+8,ministerpräsident,0.0025,prime minister
+8,schon,0.0025,beautiful
+8,seehofer,0.0025,seehofer
+8,september,0.0025,September
+8,schröder,0.0024,Schroeder
+8,eigen,0.0024,own
+8,vergangen,0.0024,past
+8,fdp,0.0024,fdp
+8,nennen,0.0024,call
+9,sagen,0.0221,say
+9,merkel,0.0139,merkel
+9,union,0.0111,union
+9,dass,0.0094,that
+9,partei,0.0085,party
+9,müssen,0.0085,have to
+9,mehr,0.0083,more
+9,geben,0.0082,give
+9,land,0.0071,country
+9,schröder,0.0069,Schroeder
+9,deutsch,0.0069,German
+9,neu,0.0068,New
+9,gut,0.0067,Good
+9,jahr,0.0061,year
+9,seit,0.006,since
+9,berlin,0.0059,Berlin
+9,fdp,0.0056,fdp
+9,spd,0.0056,spd
+9,stehen,0.0055,stand
+9,spiegel,0.0054,mirror
+9,sehen,0.0053,see
+9,cdu,0.0052,cdu
+9,erst,0.005,first
+9,immer,0.005,always
+9,halten,0.0049,hold
+9,koalition,0.0048,coalition
+9,online,0.0046,on-line
+9,klar,0.0045,clear
+9,bleiben,0.0045,stay
+9,stoiber,0.0044,stoiber
+9,wahlkampf,0.0041,electioneering
+9,deutschland,0.0038,Germany
+9,finden,0.0038,Find
+9,ende,0.0037,The End
+9,viele,0.0036,lots
+9,tag,0.0035,Day
+9,westerwelle,0.0035,westerwelle
+9,mensch,0.0032,human
+9,fordern,0.0032,demand
+9,lassen,0.0032,to let
+9,kanzler,0.0031,chancellor
+9,beide,0.0031,both
+9,kommen,0.0029,come
+9,wer,0.0028,who
+9,bundestagswahl,0.0028,bundestagswahl
+9,letzt,0.0028,last
+9,ministerpräsident,0.0028,prime minister
+9,sprechen,0.0027,speak
+9,seehofer,0.0027,seehofer
+9,etwa,0.0027,about
+10,dass,0.0335,that
+10,geben,0.0119,give
+10,prozent,0.0111,percent
+10,spd,0.0104,spd
+10,berlin,0.0093,Berlin
+10,mehr,0.0081,more
+10,deutsch,0.0079,German
+10,union,0.0077,union
+10,groß,0.0074,big
+10,merkel,0.0072,merkel
+10,partei,0.0068,party
+10,neu,0.0059,New
+10,deutschland,0.0055,Germany
+10,schon,0.0054,beautiful
+10,euro,0.0054,Euro
+10,gut,0.0053,Good
+10,frage,0.0045,question
+10,bleiben,0.0043,stay
+10,fischer,0.0042,fisherman
+10,politisch,0.0042,politically
+10,weit,0.0041,far
+10,online,0.004,on-line
+10,spiegel,0.0039,mirror
+10,tag,0.0039,Day
+10,dafür,0.0037,for this
+10,fordern,0.0037,demand
+10,ganz,0.0037,all
+10,fdp,0.0036,fdp
+10,steinmeier,0.0035,steinmeier
+10,koalition,0.0034,coalition
+10,mal,0.0034,times
+10,eigen,0.0033,own
+10,wahl,0.0033,choice
+10,ergebnis,0.0032,Result
+10,gehen,0.0029,go
+10,vergangen,0.0029,past
+10,politik,0.0029,politics
+10,wenige,0.0029,few
+10,zwei,0.0028,two
+10,möglich,0.0028,possible
+10,bundesregierung,0.0028,federal government
+10,steinbrück,0.0027,steinbrück
+10,allerdings,0.0027,Indeed
+10,etwa,0.0027,about
+10,wer,0.0026,who
+10,wissen,0.0026,knowledge
+10,seit,0.0026,since
+10,westerwelle,0.0026,westerwelle
+10,mehrheit,0.0025,majority
+10,lang,0.0024,long
+11,sagen,0.026,say
+11,dass,0.0149,that
+11,geben,0.0144,give
+11,jahr,0.0131,year
+11,deutsch,0.0102,German
+11,land,0.0096,country
+11,müssen,0.0092,have to
+11,neu,0.0081,New
+11,erst,0.0073,first
+11,partei,0.0065,party
+11,sehen,0.0062,see
+11,deutschland,0.0061,Germany
+11,berlin,0.006,Berlin
+11,kommen,0.0057,come
+11,euro,0.0049,Euro
+11,gut,0.0048,Good
+11,immer,0.0046,always
+11,stellen,0.0046,put
+11,milliarde,0.0046,billion
+11,sollen,0.0045,should
+11,bundestag,0.0042,Bundestag
+11,weit,0.0042,far
+11,dabei,0.0042,there
+11,dürfen,0.0042,allowed
+11,fall,0.0042,case
+11,politisch,0.0038,politically
+11,lassen,0.0037,to let
+11,frage,0.0036,question
+11,beide,0.0036,both
+11,heißen,0.0036,be called
+11,dafür,0.0036,for this
+11,nehmen,0.0035,to take
+11,wenige,0.0034,few
+11,prozent,0.0034,percent
+11,gehen,0.0033,go
+11,wegen,0.0032,because of
+11,woche,0.0031,week
+11,allerdings,0.0031,Indeed
+11,ganz,0.003,all
+11,csu,0.0029,Christian Social Union
+11,gesetz,0.0029,law
+11,million,0.0029,million
+11,schröder,0.0028,Schroeder
+11,özdemir,0.0027,özdemir
+11,welt,0.0025,world
+11,politik,0.0025,politics
+11,zeitung,0.0025,newspaper
+11,bund,0.0025,Federation
+11,grüne,0.0024,green
+11,sprecher,0.0024,speaker
+12,dass,0.0252,that
+12,deutschland,0.0088,Germany
+12,euro,0.0087,Euro
+12,neu,0.0087,New
+12,deutsch,0.0078,German
+12,berlin,0.0069,Berlin
+12,spiegel,0.0062,mirror
+12,sagen,0.006,say
+12,schon,0.0058,beautiful
+12,spd,0.0056,spd
+12,jahr,0.0054,year
+12,bereits,0.0049,already
+12,sehen,0.0043,see
+12,müssen,0.0043,have to
+12,sprechen,0.0042,speak
+12,fall,0.0042,case
+12,ende,0.0041,The End
+12,frage,0.0039,question
+12,weit,0.0039,far
+12,tag,0.0039,Day
+12,geben,0.0038,give
+12,stellen,0.0037,put
+12,bundesregierung,0.0036,federal government
+12,politisch,0.0035,politically
+12,viele,0.0035,lots
+12,heißen,0.0034,be called
+12,problem,0.0033,problem
+12,etwa,0.0033,about
+12,beide,0.0033,both
+12,wissen,0.0033,knowledge
+12,erst,0.0032,first
+12,soldat,0.0031,soldier
+12,regierung,0.0031,government
+12,de,0.0031,de
+12,milliarde,0.003,billion
+12,ab,0.003,from
+12,zwei,0.003,two
+12,rund,0.003,round
+12,bleiben,0.003,stay
+12,möglich,0.0029,possible
+12,treffen,0.0029,to meet
+12,erklären,0.0029,to explain
+12,partei,0.0029,party
+12,sollen,0.0029,should
+12,darauf,0.0029,thereon
+12,wenige,0.0028,few
+12,vergangen,0.0028,past
+12,land,0.0027,country
+12,kommen,0.0027,come
+12,csu,0.0027,Christian Social Union
+13,geben,0.0119,give
+13,gehen,0.0095,go
+13,sagen,0.0093,say
+13,neu,0.0076,New
+13,groß,0.0075,big
+13,partei,0.0074,party
+13,schon,0.007,beautiful
+13,stehen,0.0067,stand
+13,deutsch,0.0065,German
+13,mehr,0.006,more
+13,immer,0.0058,always
+13,erst,0.0055,first
+13,müssen,0.0055,have to
+13,euro,0.0053,Euro
+13,bundestag,0.0051,Bundestag
+13,spd,0.0049,spd
+13,ganz,0.0046,all
+13,steinbrück,0.0045,steinbrück
+13,tag,0.0044,Day
+13,fdp,0.0042,fdp
+13,fordern,0.0039,demand
+13,bundesregierung,0.0039,federal government
+13,zeigen,0.0039,demonstrate
+13,ende,0.0038,The End
+13,heißen,0.0038,be called
+13,bundestagswahl,0.0036,bundestagswahl
+13,erklären,0.0035,to explain
+13,dürfen,0.0035,allowed
+13,stellen,0.0034,put
+13,kommen,0.0034,come
+13,land,0.0034,country
+13,union,0.0033,union
+13,sehen,0.0033,see
+13,jahr,0.0032,year
+13,kanzlerin,0.0032,Chancellor
+13,schröder,0.0031,Schroeder
+13,dabei,0.0031,there
+13,deutschland,0.0031,Germany
+13,letzt,0.0031,last
+13,wissen,0.003,knowledge
+13,tun,0.0029,do
+13,rund,0.0029,round
+13,wahlkampf,0.0028,electioneering
+13,nah,0.0028,close
+13,regierung,0.0027,government
+13,weit,0.0027,far
+13,gelten,0.0027,be valid
+13,fall,0.0026,case
+13,finden,0.0026,Find
+13,nehmen,0.0025,to take
+14,fdp,0.1089,fdp
+14,grün,0.0991,green
+14,link,0.0841,link
+14,name,0.0749,Surname
+14,pirat,0.0516,pirate
+14,spd,0.042,spd
+14,cdu,0.0415,cdu
+14,wähler,0.0398,voter
+14,sicht,0.0267,view
+14,text,0.0178,text
+14,niedersachse,0.0156,Lower sachse
+14,new,0.0151,new
+14,prozent,0.0107,percent
+14,schwarzgelb,0.0101,black yellow
+14,dass,0.0074,that
+14,rösler,0.0073,rösler
+14,niedersachsen,0.0057,Lower Saxony
+14,sonstig,0.0052,other
+14,liberale,0.0051,liberal
+14,david,0.005,David
+14,sagen,0.0049,say
+14,bundestagswahl,0.0037,bundestagswahl
+14,bündnis,0.0033,alliance
+14,union,0.0032,union
+14,niederlage,0.003,defeat
+14,hannover,0.0029,Hanover
+14,groß,0.0028,big
+14,wahl,0.0028,choice
+14,rotgrün,0.0027,Red Green
+14,umfrage,0.0027,survey
+14,sieg,0.0026,victory
+14,schon,0.0026,beautiful
+14,piratenpartei,0.0026,piratenpartei
+14,partei,0.0026,party
+14,mehrheit,0.0026,majority
+14,koalition,0.0025,coalition
+14,lager,0.0024,camp
+14,liberal,0.0024,liberal
+14,berlin,0.0023,Berlin
+14,schwarzgrün,0.0023,black green
+14,option,0.0023,option
+14,gehen,0.0023,go
+14,wählen,0.0022,choose
+14,gut,0.0021,Good
+14,reichen,0.0019,suffice
+14,punkt,0.0018,Point
+14,erst,0.0018,first
+14,knapp,0.0017,just
+14,fünfprozenthürde,0.0017,five percent hurdle
+14,grüne,0.0016,green
+15,sagen,0.0136,say
+15,cdu,0.0101,cdu
+15,neu,0.0095,New
+15,deutschland,0.0088,Germany
+15,deutsch,0.0088,German
+15,merkel,0.0087,merkel
+15,erst,0.0085,first
+15,mehr,0.0083,more
+15,berlin,0.0082,Berlin
+15,csu,0.0068,Christian Social Union
+15,gut,0.0064,Good
+15,kommen,0.0062,come
+15,dass,0.0061,that
+15,jahr,0.0059,year
+15,lassen,0.0059,to let
+15,spiegel,0.0053,mirror
+15,bundestag,0.005,Bundestag
+15,prozent,0.005,percent
+15,weit,0.0047,far
+15,meyer,0.0047,meyer
+15,sprechen,0.0045,speak
+15,groß,0.0043,big
+15,finden,0.004,Find
+15,kanzlerin,0.0038,Chancellor
+15,tag,0.0038,Day
+15,land,0.0037,country
+15,allerdings,0.0037,Indeed
+15,liegen,0.0037,lie
+15,ganz,0.0037,all
+15,ende,0.0036,The End
+15,heute,0.0034,today
+15,angela,0.0032,angela
+15,entscheidung,0.0032,decision
+15,erklären,0.0032,to explain
+15,stark,0.0029,strongly
+15,viele,0.0029,lots
+15,ab,0.0029,from
+15,amt,0.0028,office
+15,gelten,0.0028,be valid
+15,nennen,0.0027,call
+15,woche,0.0027,week
+15,zeit,0.0026,Time
+15,frage,0.0026,question
+15,sprecher,0.0025,speaker
+15,online,0.0025,on-line
+15,rede,0.0025,speech
+15,mann,0.0025,man
+15,zeitung,0.0025,newspaper
+15,sehen,0.0025,see
+15,zurück,0.0024,back
+16,dass,0.0164,that
+16,jahr,0.0141,year
+16,sagen,0.0107,say
+16,gehen,0.0086,go
+16,land,0.007,country
+16,müssen,0.0067,have to
+16,gut,0.0066,Good
+16,union,0.0066,union
+16,schröder,0.0063,Schroeder
+16,neu,0.0055,New
+16,schon,0.0055,beautiful
+16,seit,0.0055,since
+16,lassen,0.0055,to let
+16,erklären,0.0045,to explain
+16,koalition,0.0044,coalition
+16,spd,0.0041,spd
+16,stehen,0.0041,stand
+16,fordern,0.004,demand
+16,kommen,0.0039,come
+16,finden,0.0039,Find
+16,zeigen,0.0039,demonstrate
+16,erst,0.0037,first
+16,zeit,0.0037,Time
+16,bereits,0.0034,already
+16,regierung,0.0034,government
+16,zwei,0.0034,two
+16,online,0.0033,on-line
+16,berlin,0.0033,Berlin
+16,wahl,0.0032,choice
+16,bundesregierung,0.0031,federal government
+16,sprechen,0.0031,speak
+16,frau,0.003,Mrs
+16,sollen,0.003,should
+16,treffen,0.003,to meet
+16,prozent,0.003,percent
+16,tag,0.0029,Day
+16,halten,0.0028,hold
+16,führen,0.0028,to lead
+16,fdp,0.0028,fdp
+16,zeitung,0.0028,newspaper
+16,stellen,0.0027,put
+16,laut,0.0027,according to
+16,wahlkampf,0.0026,electioneering
+16,politik,0.0026,politics
+16,heißen,0.0026,be called
+16,allerdings,0.0026,Indeed
+16,spiegel,0.0026,mirror
+16,wichtig,0.0026,important
+16,sprecher,0.0026,speaker
+16,weit,0.0025,far
+17,prozent,0.0154,percent
+17,jahr,0.0117,year
+17,müssen,0.0093,have to
+17,geben,0.009,give
+17,berlin,0.009,Berlin
+17,neu,0.0088,New
+17,deutsch,0.0074,German
+17,sehen,0.0062,see
+17,zwei,0.0058,two
+17,union,0.0057,union
+17,kommen,0.0056,come
+17,merkel,0.0055,merkel
+17,politisch,0.0051,politically
+17,sollen,0.0051,should
+17,schon,0.0048,beautiful
+17,csu,0.0047,Christian Social Union
+17,erklären,0.0044,to explain
+17,grüne,0.0042,green
+17,woche,0.0042,week
+17,klar,0.004,clear
+17,immer,0.004,always
+17,halten,0.004,hold
+17,koalition,0.0039,coalition
+17,wahl,0.0039,choice
+17,deutschland,0.0037,Germany
+17,möglich,0.0036,possible
+17,zeitung,0.0035,newspaper
+17,bundestag,0.0033,Bundestag
+17,fdp,0.0033,fdp
+17,bundesregierung,0.0033,federal government
+17,partei,0.0032,party
+17,dafür,0.0032,for this
+17,schröder,0.0032,Schroeder
+17,angela,0.0032,angela
+17,finden,0.0032,Find
+17,zeit,0.0031,Time
+17,tag,0.0031,Day
+17,mensch,0.0031,human
+17,etwa,0.003,about
+17,frage,0.0029,question
+17,seit,0.0029,since
+17,thema,0.0028,theme
+17,seehofer,0.0028,seehofer
+17,liegen,0.0028,lie
+17,zeigen,0.0027,demonstrate
+17,land,0.0026,country
+17,laut,0.0026,according to
+17,stellen,0.0026,put
+17,lang,0.0026,long
+17,stark,0.0026,strongly
+18,dass,0.0156,that
+18,partei,0.012,party
+18,spd,0.0116,spd
+18,gehen,0.0093,go
+18,berlin,0.0091,Berlin
+18,euro,0.0091,Euro
+18,müssen,0.0089,have to
+18,mehr,0.0087,more
+18,gut,0.007,Good
+18,kommen,0.0068,come
+18,bereits,0.0062,already
+18,schröder,0.006,Schroeder
+18,deutschland,0.0057,Germany
+18,groß,0.005,big
+18,erst,0.005,first
+18,zwei,0.0046,two
+18,bundestag,0.0046,Bundestag
+18,fall,0.0042,case
+18,npd,0.004,npd
+18,cdu,0.004,cdu
+18,eigen,0.0039,own
+18,stehen,0.0039,stand
+18,jahr,0.0036,year
+18,immer,0.0035,always
+18,neu,0.0034,New
+18,nehmen,0.0034,to take
+18,woche,0.0033,week
+18,zeit,0.0031,Time
+18,zudem,0.0031,moreover
+18,milliarde,0.003,billion
+18,fordern,0.003,demand
+18,heißen,0.003,be called
+18,deutsch,0.003,German
+18,million,0.0029,million
+18,steinbrück,0.0029,steinbrück
+18,grün,0.0029,green
+18,bundestagswahl,0.0028,bundestagswahl
+18,fdp,0.0027,fdp
+18,online,0.0027,on-line
+18,recht,0.0027,Law
+18,kritik,0.0026,criticism
+18,ende,0.0025,The End
+18,fischer,0.0025,fisherman
+18,wegen,0.0025,because of
+18,dürfen,0.0025,allowed
+18,kanzler,0.0024,chancellor
+18,nah,0.0024,close
+18,rotgrün,0.0023,Red Green
+18,entscheidung,0.0023,decision
+18,stoiber,0.0023,stoiber
+19,sagen,0.0294,say
+19,dass,0.0182,that
+19,geben,0.0135,give
+19,prozent,0.0128,percent
+19,merkel,0.0096,merkel
+19,jahr,0.0095,year
+19,union,0.0086,union
+19,kommen,0.0077,come
+19,müssen,0.0069,have to
+19,gehen,0.0064,go
+19,sollen,0.006,should
+19,immer,0.0057,always
+19,berlin,0.0055,Berlin
+19,frage,0.0051,question
+19,ganz,0.0043,all
+19,fdp,0.0042,fdp
+19,stehen,0.004,stand
+19,heißen,0.0039,be called
+19,erklären,0.0039,to explain
+19,rund,0.0038,round
+19,frau,0.0038,Mrs
+19,deutschland,0.0036,Germany
+19,bleiben,0.0035,stay
+19,politisch,0.0035,politically
+19,wegen,0.0034,because of
+19,allerdings,0.0034,Indeed
+19,vergangen,0.0033,past
+19,groß,0.0033,big
+19,liegen,0.0033,lie
+19,schröder,0.0033,Schroeder
+19,kanzlerin,0.0032,Chancellor
+19,jung,0.0031,young
+19,cdu,0.0031,cdu
+19,wissen,0.003,knowledge
+19,nehmen,0.003,to take
+19,angela,0.003,angela
+19,zeitung,0.0029,newspaper
+19,stark,0.0029,strongly
+19,spd,0.0028,spd
+19,bereits,0.0028,already
+19,dürfen,0.0028,allowed
+19,drei,0.0027,three
+19,ministerpräsident,0.0027,prime minister
+19,jedoch,0.0027,however
+19,finden,0.0026,Find
+19,tag,0.0026,Day
+19,tun,0.0025,do
+19,recht,0.0024,Law
+19,amt,0.0024,office
+19,sonntag,0.0024,Sunday
+20,sagen,0.028,say
+20,dass,0.015,that
+20,spd,0.0107,spd
+20,erst,0.0084,first
+20,groß,0.0082,big
+20,mehr,0.007,more
+20,kommen,0.0069,come
+20,prozent,0.0068,percent
+20,berlin,0.006,Berlin
+20,union,0.0057,union
+20,partei,0.0052,party
+20,dürfen,0.0051,allowed
+20,lassen,0.0051,to let
+20,bereits,0.0049,already
+20,stehen,0.0049,stand
+20,jahr,0.0043,year
+20,ab,0.0043,from
+20,ganz,0.0043,all
+20,schröder,0.0042,Schroeder
+20,frage,0.0042,question
+20,seit,0.0039,since
+20,regierung,0.0039,government
+20,spiegel,0.0039,mirror
+20,weit,0.0039,far
+20,zwei,0.0035,two
+20,gehen,0.0035,go
+20,ministerpräsident,0.0033,prime minister
+20,politisch,0.0033,politically
+20,bush,0.0033,bush
+20,nehmen,0.0033,to take
+20,land,0.0032,country
+20,stoiber,0.0032,stoiber
+20,müssen,0.0031,have to
+20,immer,0.0031,always
+20,wegen,0.0031,because of
+20,thema,0.0031,theme
+20,eigen,0.0031,own
+20,koalition,0.003,coalition
+20,sehen,0.003,see
+20,deutschland,0.0028,Germany
+20,möglich,0.0028,possible
+20,woche,0.0028,week
+20,wer,0.0027,who
+20,stellen,0.0026,put
+20,fordern,0.0026,demand
+20,vergangen,0.0026,past
+20,führen,0.0025,to lead
+20,halten,0.0024,hold
+20,kritik,0.0024,criticism
+20,klar,0.0024,clear
+21,dass,0.0237,that
+21,sagen,0.0216,say
+21,mehr,0.0112,more
+21,partei,0.0095,party
+21,merkel,0.0091,merkel
+21,gehen,0.0087,go
+21,geben,0.0076,give
+21,seit,0.0066,since
+21,sehen,0.0066,see
+21,kommen,0.0058,come
+21,union,0.0057,union
+21,neu,0.0055,New
+21,deutsch,0.0052,German
+21,sollen,0.0047,should
+21,sprechen,0.0046,speak
+21,dürfen,0.0044,allowed
+21,müssen,0.0043,have to
+21,fdp,0.0043,fdp
+21,bundestag,0.0042,Bundestag
+21,csu,0.0042,Christian Social Union
+21,spiegel,0.0041,mirror
+21,deutschland,0.004,Germany
+21,cdu,0.0038,cdu
+21,steinbrück,0.0038,steinbrück
+21,allerdings,0.0035,Indeed
+21,zeigen,0.0034,demonstrate
+21,bundestagswahl,0.0034,bundestagswahl
+21,dabei,0.0034,there
+21,mensch,0.003,human
+21,gysi,0.003,gysi
+21,setzen,0.003,put
+21,lang,0.003,long
+21,politisch,0.003,politically
+21,dafür,0.0029,for this
+21,möglich,0.0029,possible
+21,frage,0.0029,question
+21,ganz,0.0029,all
+21,deshalb,0.0028,that's why
+21,bundesregierung,0.0028,federal government
+21,woche,0.0028,week
+21,laut,0.0027,according to
+21,problem,0.0027,problem
+21,fordern,0.0027,demand
+21,wenige,0.0026,few
+21,bereits,0.0026,already
+21,deutlich,0.0026,clear
+21,mann,0.0026,man
+21,bringen,0.0026,bring
+21,rund,0.0026,round
+21,politik,0.0025,politics
+22,jahr,0.0134,year
+22,sagen,0.0131,say
+22,mehr,0.0118,more
+22,partei,0.0113,party
+22,dass,0.0112,that
+22,geben,0.0108,give
+22,erst,0.0094,first
+22,kommen,0.0085,come
+22,gehen,0.0078,go
+22,deutschland,0.0071,Germany
+22,sollen,0.007,should
+22,deutsch,0.0067,German
+22,cdu,0.0067,cdu
+22,groß,0.0062,big
+22,euro,0.0058,Euro
+22,lassen,0.0054,to let
+22,viele,0.0053,lots
+22,schon,0.005,beautiful
+22,spd,0.0042,spd
+22,tag,0.0041,Day
+22,bleiben,0.0039,stay
+22,stellen,0.0036,put
+22,dürfen,0.0036,allowed
+22,mensch,0.0031,human
+22,laut,0.003,according to
+22,heute,0.003,today
+22,berlin,0.003,Berlin
+22,drei,0.0029,three
+22,bundestagswahl,0.0029,bundestagswahl
+22,zwei,0.0028,two
+22,recht,0.0028,Law
+22,zeigen,0.0027,demonstrate
+22,ministerpräsident,0.0027,prime minister
+22,politisch,0.0027,politically
+22,csu,0.0027,Christian Social Union
+22,hoch,0.0027,high
+22,monat,0.0026,month
+22,entscheidung,0.0026,decision
+22,spiegel,0.0026,mirror
+22,leben,0.0025,Life
+22,zudem,0.0025,moreover
+22,liegen,0.0025,lie
+22,schreiben,0.0025,write
+22,halten,0.0025,hold
+22,thema,0.0025,theme
+22,kind,0.0025,child
+22,zeitung,0.0025,newspaper
+22,treffen,0.0024,to meet
+22,sprecher,0.0024,speaker
+22,mann,0.0024,man
+23,sagen,0.0295,say
+23,merkel,0.0127,merkel
+23,müssen,0.011,have to
+23,geben,0.0088,give
+23,gehen,0.0085,go
+23,neu,0.008,New
+23,jahr,0.0077,year
+23,land,0.0076,country
+23,prozent,0.0073,percent
+23,spd,0.0073,spd
+23,deutschland,0.0072,Germany
+23,partei,0.007,party
+23,deutsch,0.0069,German
+23,union,0.0054,union
+23,zwei,0.0053,two
+23,bundestag,0.0051,Bundestag
+23,woche,0.0046,week
+23,kanzlerin,0.0044,Chancellor
+23,bereits,0.0043,already
+23,bundesregierung,0.0043,federal government
+23,stellen,0.0042,put
+23,fdp,0.0042,fdp
+23,lassen,0.0042,to let
+23,weit,0.0041,far
+23,mehr,0.004,more
+23,koalition,0.004,coalition
+23,angela,0.004,angela
+23,spiegel,0.004,mirror
+23,dafür,0.0039,for this
+23,liegen,0.0039,lie
+23,zeit,0.0038,Time
+23,tag,0.0038,Day
+23,viele,0.0037,lots
+23,frage,0.0037,question
+23,online,0.0034,on-line
+23,gut,0.0034,Good
+23,wenige,0.0033,few
+23,stoiber,0.0033,stoiber
+23,finden,0.0032,Find
+23,wahl,0.0031,choice
+23,regierung,0.0031,government
+23,erst,0.003,first
+23,etwa,0.003,about
+23,möglich,0.0029,possible
+23,ganz,0.0028,all
+23,milliarde,0.0027,billion
+23,ja,0.0027,Yes
+23,wegen,0.0027,because of
+23,heißen,0.0026,be called
+23,setzen,0.0026,put
+24,dass,0.0292,that
+24,geben,0.0134,give
+24,sagen,0.0122,say
+24,prozent,0.0104,percent
+24,berlin,0.0092,Berlin
+24,partei,0.0088,party
+24,spd,0.0084,spd
+24,mehr,0.0073,more
+24,neu,0.0071,New
+24,kommen,0.006,come
+24,müssen,0.0058,have to
+24,grüne,0.0058,green
+24,bundestag,0.0054,Bundestag
+24,zwei,0.0052,two
+24,politisch,0.0052,politically
+24,groß,0.005,big
+24,koalition,0.005,coalition
+24,deutschland,0.005,Germany
+24,cdu,0.005,cdu
+24,sollen,0.0048,should
+24,lassen,0.0046,to let
+24,euro,0.0046,Euro
+24,gut,0.0046,Good
+24,fdp,0.0045,fdp
+24,stehen,0.0042,stand
+24,özdemir,0.0042,özdemir
+24,bleiben,0.0041,stay
+24,spiegel,0.0041,mirror
+24,entscheidung,0.004,decision
+24,immer,0.0039,always
+24,wahl,0.0038,choice
+24,ministerpräsident,0.0036,prime minister
+24,ab,0.0035,from
+24,treffen,0.0035,to meet
+24,schröder,0.0035,Schroeder
+24,thema,0.0034,theme
+24,land,0.0033,country
+24,dürfen,0.0033,allowed
+24,seehofer,0.0032,seehofer
+24,allerdings,0.0032,Indeed
+24,ergebnis,0.0032,Result
+24,bund,0.0031,Federation
+24,erklären,0.003,to explain
+24,deshalb,0.003,that's why
+24,gemeinsam,0.0029,together
+24,csu,0.0028,Christian Social Union
+24,viele,0.0028,lots
+24,wichtig,0.0027,important
+24,hoch,0.0026,high
+24,heißen,0.0026,be called
+25,sagen,0.0283,say
+25,dass,0.0127,that
+25,berlin,0.0112,Berlin
+25,partei,0.0098,party
+25,müssen,0.009,have to
+25,gehen,0.0084,go
+25,neu,0.0084,New
+25,prozent,0.008,percent
+25,mehr,0.0079,more
+25,schon,0.0073,beautiful
+25,gut,0.0073,Good
+25,cdu,0.0063,cdu
+25,geben,0.0061,give
+25,deutschland,0.0057,Germany
+25,seit,0.005,since
+25,bereits,0.005,already
+25,groß,0.0048,big
+25,stehen,0.0046,stand
+25,deutsch,0.0044,German
+25,erklären,0.0043,to explain
+25,erst,0.004,first
+25,union,0.004,union
+25,spiegel,0.0039,mirror
+25,dafür,0.0038,for this
+25,fordern,0.0037,demand
+25,steinbrück,0.0037,steinbrück
+25,woche,0.0037,week
+25,halten,0.0036,hold
+25,berliner,0.0036,Berliner
+25,koalition,0.0035,coalition
+25,heißen,0.0034,be called
+25,schröder,0.0034,Schroeder
+25,tag,0.0032,Day
+25,fdp,0.0031,fdp
+25,frau,0.0031,Mrs
+25,dürfen,0.003,allowed
+25,etwa,0.003,about
+25,ganz,0.003,all
+25,sollen,0.003,should
+25,stellen,0.0029,put
+25,ministerpräsident,0.0029,prime minister
+25,wahl,0.0028,choice
+25,stark,0.0027,strongly
+25,land,0.0026,country
+25,nah,0.0026,close
+25,zeit,0.0026,Time
+25,lang,0.0026,long
+25,mal,0.0025,times
+25,milliarde,0.0025,billion
+25,wahlkampf,0.0024,electioneering
+26,wowereit,0.0348,wowereit
+26,klaus,0.0299,Klaus
+26,dass,0.0231,that
+26,online,0.0127,on-line
+26,berlin,0.0112,Berlin
+26,spiegel,0.0091,mirror
+26,mehr,0.0082,more
+26,neu,0.0082,New
+26,sagen,0.0082,say
+26,spiegeln,0.0079,reflect
+26,cdu,0.0074,cdu
+26,groß,0.0069,big
+26,politisch,0.0066,politically
+26,gut,0.0066,Good
+26,stehen,0.0065,stand
+26,geben,0.0063,give
+26,seit,0.0062,since
+26,gehen,0.0059,go
+26,schon,0.0059,beautiful
+26,partei,0.0058,party
+26,berliner,0.0056,Berliner
+26,bürgermeister,0.0054,mayor
+26,grüne,0.0047,green
+26,bereits,0.0046,already
+26,immer,0.0046,always
+26,zeigen,0.0041,demonstrate
+26,pds,0.0041,pds
+26,ja,0.0041,Yes
+26,müssen,0.0037,have to
+26,dürfen,0.0037,allowed
+26,zeit,0.0035,Time
+26,frage,0.0034,question
+26,viele,0.0033,lots
+26,lassen,0.0032,to let
+26,wegen,0.0031,because of
+26,dafür,0.003,for this
+26,koalition,0.003,coalition
+26,mensch,0.003,human
+26,möglich,0.0029,possible
+26,bleiben,0.0028,stay
+26,bundestag,0.0028,Bundestag
+26,stellen,0.0028,put
+26,klar,0.0028,clear
+26,erst,0.0028,first
+26,woche,0.0027,week
+26,wer,0.0026,who
+26,politiker,0.0026,Politician
+26,jung,0.0026,young
+26,union,0.0026,union
+26,spd,0.0026,spd
+27,dass,0.0328,that
+27,jahr,0.0122,year
+27,mehr,0.0096,more
+27,geben,0.0093,give
+27,schon,0.008,beautiful
+27,neu,0.0077,New
+27,spiegel,0.0074,mirror
+27,seit,0.0064,since
+27,groß,0.006,big
+27,stehen,0.0059,stand
+27,sagen,0.0058,say
+27,merkel,0.0057,merkel
+27,union,0.0056,union
+27,sollen,0.0054,should
+27,woche,0.0052,week
+27,sehen,0.0052,see
+27,lassen,0.0051,to let
+27,halten,0.0048,hold
+27,bereits,0.0048,already
+27,land,0.0047,country
+27,gehen,0.0047,go
+27,bundestag,0.0046,Bundestag
+27,erklären,0.0046,to explain
+27,gut,0.0046,Good
+27,koalition,0.0046,coalition
+27,deutschland,0.0043,Germany
+27,sprechen,0.0042,speak
+27,csu,0.0041,Christian Social Union
+27,zwei,0.0041,two
+27,seehofer,0.004,seehofer
+27,klar,0.004,clear
+27,steinbrück,0.0039,steinbrück
+27,kommen,0.0039,come
+27,weit,0.0038,far
+27,müssen,0.0037,have to
+27,gelten,0.0035,be valid
+27,grüne,0.0034,green
+27,kanzlerin,0.0033,Chancellor
+27,frage,0.0033,question
+27,regierung,0.0033,government
+27,zeigen,0.0032,demonstrate
+27,treffen,0.0031,to meet
+27,wer,0.0031,who
+27,ende,0.003,The End
+27,nah,0.003,close
+27,möglich,0.0029,possible
+27,steinmeier,0.0029,steinmeier
+27,nehmen,0.0028,to take
+27,mensch,0.0028,human
+27,fordern,0.0027,demand
+28,weste,0.0549,vest
+28,westen,0.026,west
+28,geben,0.0139,give
+28,osten,0.0139,east
+28,merkel,0.0135,merkel
+28,sagen,0.0098,say
+28,mehr,0.0091,more
+28,prozent,0.009,percent
+28,neu,0.0084,New
+28,deutschland,0.0079,Germany
+28,gehen,0.0079,go
+28,kind,0.0074,child
+28,spd,0.0073,spd
+28,cdu,0.0071,cdu
+28,spiegel,0.0069,mirror
+28,schon,0.0068,beautiful
+28,jahr,0.0064,year
+28,müssen,0.0064,have to
+28,groß,0.0064,big
+28,erst,0.006,first
+28,seit,0.0048,since
+28,gut,0.0048,Good
+28,csu,0.0046,Christian Social Union
+28,kommen,0.0045,come
+28,ddr,0.0042,GDR
+28,frau,0.0039,Mrs
+28,klar,0.0037,clear
+28,berlin,0.0036,Berlin
+28,thema,0.0036,theme
+28,angela,0.0036,angela
+28,euro,0.0035,Euro
+28,halten,0.0033,hold
+28,dabei,0.0032,there
+28,viele,0.0032,lots
+28,online,0.0031,on-line
+28,kanzlerin,0.0031,Chancellor
+28,stehen,0.0031,stand
+28,union,0.0031,union
+28,mensch,0.0031,human
+28,sehen,0.003,see
+28,eigen,0.0029,own
+28,wer,0.0029,who
+28,stark,0.0029,strongly
+28,frage,0.0028,question
+28,weit,0.0028,far
+28,gysi,0.0028,gysi
+28,gabriel,0.0025,gabriel
+28,wissen,0.0025,knowledge
+28,hoch,0.0025,high
+28,bundestagswahl,0.0024,bundestagswahl
+29,dass,0.0207,that
+29,prozent,0.0206,percent
+29,sagen,0.0187,say
+29,geben,0.0134,give
+29,jahr,0.0134,year
+29,schröder,0.0118,Schroeder
+29,partei,0.0101,party
+29,mehr,0.009,more
+29,neu,0.0086,New
+29,spiegel,0.0077,mirror
+29,kommen,0.0067,come
+29,grüne,0.0058,green
+29,immer,0.005,always
+29,berlin,0.0048,Berlin
+29,union,0.0047,union
+29,stoiber,0.0046,stoiber
+29,online,0.0044,on-line
+29,koalition,0.0042,coalition
+29,ab,0.0041,from
+29,ganz,0.0041,all
+29,lassen,0.004,to let
+29,merkel,0.0038,merkel
+29,zeit,0.0038,Time
+29,spd,0.0038,spd
+29,tag,0.0035,Day
+29,klar,0.0035,clear
+29,dafür,0.0035,for this
+29,gelten,0.0034,be valid
+29,groß,0.0033,big
+29,wahlkampf,0.0032,electioneering
+29,rotgrün,0.0032,Red Green
+29,nehmen,0.0032,to take
+29,pds,0.0031,pds
+29,dabei,0.0031,there
+29,halten,0.003,hold
+29,problem,0.003,problem
+29,wichtig,0.003,important
+29,laut,0.0029,according to
+29,heute,0.0029,today
+29,weit,0.0028,far
+29,kanzler,0.0028,chancellor
+29,entscheidung,0.0026,decision
+29,fdp,0.0026,fdp
+29,hoch,0.0026,high
+29,bereits,0.0025,already
+29,regierung,0.0025,government
+29,gegenüber,0.0025,across from
+29,möglich,0.0024,possible
+29,land,0.0024,country
+29,bundestag,0.0024,Bundestag
+30,dass,0.0175,that
+30,deutschland,0.013,Germany
+30,berlin,0.0118,Berlin
+30,sagen,0.0101,say
+30,müssen,0.0091,have to
+30,merkel,0.0085,merkel
+30,erst,0.0078,first
+30,neu,0.0075,New
+30,gehen,0.0073,go
+30,geben,0.0065,give
+30,berliner,0.0063,Berliner
+30,kommen,0.0061,come
+30,italien,0.0061,Italy
+30,polizei,0.0058,police
+30,groß,0.0055,big
+30,bereits,0.0053,already
+30,union,0.0051,union
+30,gut,0.0051,Good
+30,laut,0.0046,according to
+30,fall,0.0041,case
+30,mensch,0.0041,human
+30,bundesregierung,0.004,federal government
+30,zwei,0.0039,two
+30,mehr,0.0039,more
+30,sprechen,0.0038,speak
+30,dürfen,0.0037,allowed
+30,stellen,0.0037,put
+30,mutmaßlich,0.0036,presumed
+30,seit,0.0035,since
+30,anschlag,0.0035,attack
+30,regierung,0.0034,government
+30,beide,0.0033,both
+30,erklären,0.0032,to explain
+30,vergangen,0.0032,past
+30,zeigen,0.0032,demonstrate
+30,bundestag,0.0032,Bundestag
+30,hinweis,0.0032,Note
+30,wegen,0.0032,because of
+30,leben,0.003,Life
+30,ab,0.003,from
+30,tat,0.003,did
+30,woche,0.0029,week
+30,halten,0.0028,hold
+30,behörde,0.0028,authority
+30,usa,0.0027,USA
+30,steinbrück,0.0027,steinbrück
+30,angela,0.0027,angela
+30,partei,0.0026,party
+30,staat,0.0026,Country
+30,jahr,0.0026,year
+31,dass,0.0271,that
+31,spd,0.0106,spd
+31,jahr,0.0101,year
+31,berlin,0.0096,Berlin
+31,groß,0.0084,big
+31,erst,0.0079,first
+31,gut,0.0073,Good
+31,union,0.0071,union
+31,fischer,0.0067,fisherman
+31,kommen,0.0067,come
+31,sagen,0.0065,say
+31,frage,0.0061,question
+31,stehen,0.006,stand
+31,lassen,0.0057,to let
+31,politisch,0.0057,politically
+31,immer,0.0056,always
+31,partei,0.0052,party
+31,seehofer,0.005,seehofer
+31,stoiber,0.0048,stoiber
+31,sprechen,0.0047,speak
+31,deutschland,0.0046,Germany
+31,deutsch,0.0046,German
+31,bleiben,0.0045,stay
+31,erklären,0.0044,to explain
+31,zwei,0.0044,two
+31,weit,0.0044,far
+31,cdu,0.0041,cdu
+31,sollen,0.0041,should
+31,wissen,0.004,knowledge
+31,rede,0.004,speech
+31,grüne,0.0039,green
+31,fordern,0.0034,demand
+31,mehr,0.0033,more
+31,dafür,0.0033,for this
+31,mal,0.0032,times
+31,dabei,0.0031,there
+31,regierung,0.003,government
+31,fall,0.0029,case
+31,usa,0.0029,USA
+31,tag,0.0029,Day
+31,frau,0.0029,Mrs
+31,steinbrück,0.0028,steinbrück
+31,bringen,0.0028,bring
+31,heute,0.0028,today
+31,csu,0.0027,Christian Social Union
+31,drei,0.0027,three
+31,amt,0.0026,office
+31,zeigen,0.0026,demonstrate
+31,ministerpräsident,0.0025,prime minister
+31,recht,0.0024,Law
+32,sagen,0.0233,say
+32,dass,0.0219,that
+32,mehr,0.0119,more
+32,partei,0.0104,party
+32,jahr,0.0102,year
+32,merkel,0.01,merkel
+32,prozent,0.0094,percent
+32,deutsch,0.0093,German
+32,berlin,0.0083,Berlin
+32,erst,0.0082,first
+32,gut,0.0063,Good
+32,gehen,0.0059,go
+32,lassen,0.0052,to let
+32,bundestag,0.005,Bundestag
+32,stoiber,0.0048,stoiber
+32,frage,0.0047,question
+32,euro,0.0047,Euro
+32,fdp,0.0046,fdp
+32,stellen,0.0045,put
+32,erklären,0.0044,to explain
+32,bereits,0.0044,already
+32,union,0.0043,union
+32,bundesregierung,0.0043,federal government
+32,tag,0.0039,Day
+32,deutschland,0.0038,Germany
+32,bundestagswahl,0.0038,bundestagswahl
+32,sollen,0.0037,should
+32,csu,0.0036,Christian Social Union
+32,kommen,0.0036,come
+32,stehen,0.0035,stand
+32,rund,0.0034,round
+32,mensch,0.0034,human
+32,drei,0.0033,three
+32,wegen,0.0033,because of
+32,ab,0.0031,from
+32,finden,0.0031,Find
+32,usa,0.003,USA
+32,seit,0.003,since
+32,heißen,0.003,be called
+32,bleiben,0.0029,stay
+32,geben,0.0029,give
+32,zeigen,0.0028,demonstrate
+32,nah,0.0027,close
+32,westerwelle,0.0027,westerwelle
+32,jedoch,0.0026,however
+32,neu,0.0026,New
+32,müssen,0.0026,have to
+32,weit,0.0025,far
+32,bund,0.0025,Federation
+32,vier,0.0025,four
+33,dass,0.0357,that
+33,geben,0.0153,give
+33,mehr,0.0122,more
+33,steinbrück,0.0114,steinbrück
+33,müssen,0.0101,have to
+33,spd,0.0083,spd
+33,groß,0.008,big
+33,gehen,0.0075,go
+33,erst,0.0074,first
+33,merkel,0.0064,merkel
+33,sollen,0.006,should
+33,sagen,0.0045,say
+33,kommen,0.0044,come
+33,halten,0.0044,hold
+33,jahr,0.0044,year
+33,fall,0.0043,case
+33,euro,0.0042,Euro
+33,bundestag,0.0041,Bundestag
+33,prozent,0.0041,percent
+33,immer,0.0041,always
+33,sehen,0.004,see
+33,eigen,0.004,own
+33,finden,0.0039,Find
+33,heißen,0.0037,be called
+33,schröder,0.0036,Schroeder
+33,klar,0.0034,clear
+33,sprechen,0.0033,speak
+33,union,0.0033,union
+33,heute,0.0032,today
+33,online,0.0031,on-line
+33,dafür,0.003,for this
+33,cdu,0.003,cdu
+33,gesetz,0.0029,law
+33,etwa,0.0029,about
+33,laut,0.0028,according to
+33,grüne,0.0028,green
+33,wegen,0.0027,because of
+33,dabei,0.0027,there
+33,kanzlerin,0.0026,Chancellor
+33,nah,0.0025,close
+33,fordern,0.0025,demand
+33,tag,0.0025,Day
+33,hoch,0.0025,high
+33,davon,0.0024,from that
+33,zudem,0.0024,moreover
+33,csu,0.0024,Christian Social Union
+33,stoiber,0.0024,stoiber
+33,jung,0.0023,young
+33,zwei,0.0023,two
+33,politisch,0.0023,politically
+34,sagen,0.0245,say
+34,dass,0.0195,that
+34,partei,0.0123,party
+34,kommen,0.0092,come
+34,spd,0.009,spd
+34,jahr,0.0089,year
+34,berlin,0.0087,Berlin
+34,seit,0.007,since
+34,gut,0.0066,Good
+34,land,0.006,country
+34,zwei,0.0058,two
+34,türkisch,0.0051,Turkish
+34,gehen,0.0051,go
+34,bereits,0.0046,already
+34,weit,0.0046,far
+34,müssen,0.0044,have to
+34,dürfen,0.0043,allowed
+34,ganz,0.0042,all
+34,dabei,0.004,there
+34,geben,0.0039,give
+34,regierung,0.0039,government
+34,sehen,0.0037,see
+34,deutschland,0.0037,Germany
+34,tag,0.0037,Day
+34,schröder,0.0036,Schroeder
+34,deutsch,0.0035,German
+34,dafür,0.0035,for this
+34,stellen,0.0035,put
+34,stehen,0.0034,stand
+34,bleiben,0.0034,stay
+34,etwa,0.0033,about
+34,heißen,0.0033,be called
+34,groß,0.0033,big
+34,viele,0.0033,lots
+34,beide,0.0032,both
+34,fall,0.0031,case
+34,prozent,0.0031,percent
+34,mal,0.003,times
+34,heute,0.0029,today
+34,spiegel,0.0029,mirror
+34,wegen,0.0028,because of
+34,vergangen,0.0028,past
+34,bundesregierung,0.0028,federal government
+34,entscheidung,0.0027,decision
+34,politisch,0.0027,politically
+34,erst,0.0027,first
+34,bundestag,0.0027,Bundestag
+34,gelten,0.0026,be valid
+34,wahlkampf,0.0026,electioneering
+34,schreiben,0.0026,write
+35,stelle,0.0342,location
+35,sagen,0.0167,say
+35,partei,0.0127,party
+35,jahr,0.0082,year
+35,gehen,0.0072,go
+35,neu,0.0071,New
+35,sollen,0.0067,should
+35,mehr,0.006,more
+35,berlin,0.0058,Berlin
+35,bundestag,0.0057,Bundestag
+35,kommen,0.0057,come
+35,rösler,0.0051,rösler
+35,seit,0.0051,since
+35,bleiben,0.0049,stay
+35,fdp,0.0049,fdp
+35,weit,0.0048,far
+35,heißen,0.0044,be called
+35,niebel,0.0043,Niebel
+35,grüne,0.0042,green
+35,ende,0.0042,The End
+35,land,0.0041,country
+35,csu,0.004,Christian Social Union
+35,zwei,0.004,two
+35,euro,0.0039,Euro
+35,allerdings,0.0038,Indeed
+35,ministerpräsident,0.0038,prime minister
+35,brüderle,0.0037,brüderle
+35,zeit,0.0037,Time
+35,liegen,0.0036,lie
+35,erst,0.0035,first
+35,schon,0.0035,beautiful
+35,ganz,0.0035,all
+35,viele,0.0035,lots
+35,treffen,0.0033,to meet
+35,dabei,0.0033,there
+35,merkel,0.0032,merkel
+35,rund,0.0031,round
+35,geben,0.003,give
+35,immer,0.0029,always
+35,wahlkampf,0.0028,electioneering
+35,cdu,0.0028,cdu
+35,bundestagswahl,0.0028,bundestagswahl
+35,frage,0.0028,question
+35,klar,0.0027,clear
+35,dürfen,0.0027,allowed
+35,beide,0.0027,both
+35,schreiben,0.0025,write
+35,gemeinsam,0.0025,together
+35,landtag,0.0024,Parliament
+35,stehen,0.0024,stand
+36,sagen,0.0283,say
+36,dass,0.0143,that
+36,spd,0.0103,spd
+36,müssen,0.0101,have to
+36,cdu,0.0092,cdu
+36,mehr,0.0091,more
+36,geben,0.0087,give
+36,partei,0.0079,party
+36,berlin,0.0072,Berlin
+36,neu,0.0055,New
+36,stehen,0.0055,stand
+36,sollen,0.0052,should
+36,deutsch,0.0051,German
+36,deutschland,0.0047,Germany
+36,koalition,0.0042,coalition
+36,land,0.0042,country
+36,groß,0.0042,big
+36,weit,0.004,far
+36,woche,0.004,week
+36,regierung,0.0039,government
+36,online,0.0036,on-line
+36,althaus,0.0035,althaus
+36,zeigen,0.0034,demonstrate
+36,laut,0.0034,according to
+36,csu,0.0034,Christian Social Union
+36,bundestag,0.0033,Bundestag
+36,allerdings,0.0033,Indeed
+36,sehen,0.0032,see
+36,immer,0.0031,always
+36,vergangen,0.0031,past
+36,dafür,0.0031,for this
+36,heißen,0.003,be called
+36,frau,0.0029,Mrs
+36,rund,0.0029,round
+36,beide,0.0029,both
+36,gelten,0.0028,be valid
+36,zeitung,0.0028,newspaper
+36,finden,0.0027,Find
+36,drei,0.0027,three
+36,nehmen,0.0027,to take
+36,usa,0.0025,USA
+36,seit,0.0025,since
+36,gemeinsam,0.0024,together
+36,entscheidung,0.0024,decision
+36,mensch,0.0024,human
+36,werfen,0.0024,throw
+36,wichtig,0.0024,important
+36,bundesregierung,0.0023,federal government
+36,mehrere,0.0023,several
+36,spät,0.0023,late
+37,partei,0.0139,party
+37,prozent,0.0118,percent
+37,cdu,0.0111,cdu
+37,deutschland,0.0106,Germany
+37,berlin,0.0101,Berlin
+37,jahr,0.01,year
+37,spd,0.0091,spd
+37,union,0.0091,union
+37,mehr,0.0068,more
+37,geben,0.0064,give
+37,sollen,0.0064,should
+37,gut,0.0062,Good
+37,neu,0.0059,New
+37,kommen,0.0057,come
+37,deutsch,0.0054,German
+37,schon,0.0053,beautiful
+37,schröder,0.005,Schroeder
+37,bundestag,0.0049,Bundestag
+37,merkel,0.0048,merkel
+37,fdp,0.0048,fdp
+37,bereits,0.0047,already
+37,bundesregierung,0.0043,federal government
+37,bundestagswahl,0.0042,bundestagswahl
+37,regierung,0.0041,government
+37,wahl,0.004,choice
+37,sagen,0.0039,say
+37,vergangen,0.0038,past
+37,dass,0.0038,that
+37,heißen,0.0037,be called
+37,müssen,0.0036,have to
+37,gehen,0.0035,go
+37,koalition,0.0033,coalition
+37,zwei,0.0032,two
+37,deutlich,0.0032,clear
+37,viele,0.0032,lots
+37,ergebnis,0.0032,Result
+37,ab,0.0032,from
+37,woche,0.0031,week
+37,zeit,0.0031,Time
+37,berliner,0.0031,Berliner
+37,stark,0.0031,strongly
+37,stehen,0.003,stand
+37,wenige,0.0029,few
+37,milliarde,0.0029,billion
+37,vier,0.0028,four
+37,sonntag,0.0027,Sunday
+37,weit,0.0027,far
+37,september,0.0027,September
+37,grün,0.0026,green
+37,dagegen,0.0025,on the other hand
+38,sagen,0.0249,say
+38,mehr,0.0104,more
+38,berlin,0.0101,Berlin
+38,erst,0.0084,first
+38,union,0.0083,union
+38,müssen,0.0071,have to
+38,sollen,0.0067,should
+38,partei,0.0064,party
+38,schon,0.0061,beautiful
+38,deutschland,0.006,Germany
+38,prozent,0.0053,percent
+38,politisch,0.0052,politically
+38,althaus,0.005,althaus
+38,gehen,0.0048,go
+38,merkel,0.0047,merkel
+38,frage,0.0044,question
+38,stellen,0.0044,put
+38,deutsch,0.0042,German
+38,dürfen,0.004,allowed
+38,weit,0.0038,far
+38,woche,0.0038,week
+38,tag,0.0038,Day
+38,treffen,0.0034,to meet
+38,klar,0.0033,clear
+38,kommen,0.0033,come
+38,allerdings,0.0032,Indeed
+38,gut,0.0032,Good
+38,immer,0.0031,always
+38,groß,0.0031,big
+38,viele,0.003,lots
+38,gespräch,0.003,talk
+38,seehofer,0.0029,seehofer
+38,wegen,0.0029,because of
+38,eigen,0.0029,own
+38,jedoch,0.0028,however
+38,stoiber,0.0028,stoiber
+38,dabei,0.0028,there
+38,wahlkampf,0.0028,electioneering
+38,fordern,0.0027,demand
+38,heute,0.0027,today
+38,zudem,0.0027,moreover
+38,euro,0.0026,Euro
+38,letzt,0.0026,last
+38,mann,0.0025,man
+38,spiegel,0.0025,mirror
+38,laut,0.0025,according to
+38,zwei,0.0025,two
+38,teil,0.0024,part
+38,heißen,0.0024,be called
+38,wissen,0.0024,knowledge
+39,akt,0.0352,act
+39,sagen,0.0243,say
+39,akte,0.0231,file
+39,dass,0.0181,that
+39,deutschland,0.0102,Germany
+39,spiegel,0.0091,mirror
+39,geben,0.0087,give
+39,berlin,0.0081,Berlin
+39,ausschuss,0.0071,committee
+39,mehr,0.0069,more
+39,sollen,0.0066,should
+39,cdu,0.0064,cdu
+39,online,0.0058,on-line
+39,groß,0.0056,big
+39,merkel,0.0053,merkel
+39,erst,0.0053,first
+39,müssen,0.005,have to
+39,kommen,0.005,come
+39,lassen,0.0045,to let
+39,woche,0.0042,week
+39,zwei,0.0041,two
+39,kohl,0.0041,cabbage
+39,schröder,0.0039,Schroeder
+39,gut,0.0039,Good
+39,eigen,0.0038,own
+39,dürfen,0.0037,allowed
+39,sehen,0.0037,see
+39,nehmen,0.0035,to take
+39,schon,0.0033,beautiful
+39,fall,0.0033,case
+39,dabei,0.0033,there
+39,seit,0.0032,since
+39,heißen,0.0031,be called
+39,person,0.0031,person
+39,zeit,0.0031,Time
+39,helmut,0.0031,helmut
+39,wegen,0.003,because of
+39,frage,0.003,question
+39,soldat,0.0029,soldier
+39,stehen,0.0029,stand
+39,tun,0.0029,do
+39,berliner,0.0029,Berliner
+39,mensch,0.0028,human
+39,fordern,0.0027,demand
+39,ab,0.0027,from
+39,deshalb,0.0026,that's why
+39,deutsch,0.0026,German
+39,wissen,0.0026,knowledge
+39,ende,0.0025,The End
+39,drei,0.0025,three
+40,sagen,0.0289,say
+40,dass,0.0231,that
+40,geben,0.0127,give
+40,deutschland,0.0102,Germany
+40,merkel,0.0096,merkel
+40,gehen,0.0084,go
+40,müssen,0.0081,have to
+40,mehr,0.0071,more
+40,deutsch,0.0066,German
+40,sollen,0.0057,should
+40,bundesregierung,0.0052,federal government
+40,immer,0.0049,always
+40,bundestag,0.0049,Bundestag
+40,sprechen,0.0049,speak
+40,csu,0.0047,Christian Social Union
+40,sehen,0.0046,see
+40,stehen,0.0045,stand
+40,union,0.0043,union
+40,eigen,0.0041,own
+40,spiegel,0.004,mirror
+40,erklären,0.004,to explain
+40,euro,0.0039,Euro
+40,türkei,0.0038,Turkey
+40,frage,0.0037,question
+40,schröder,0.0037,Schroeder
+40,cdu,0.0037,cdu
+40,ende,0.0037,The End
+40,neu,0.0037,New
+40,allerdings,0.0035,Indeed
+40,schon,0.0035,beautiful
+40,stellen,0.0034,put
+40,lassen,0.0034,to let
+40,bereits,0.0033,already
+40,treffen,0.0033,to meet
+40,thema,0.0033,theme
+40,wissen,0.0033,knowledge
+40,gut,0.0032,Good
+40,dabei,0.0032,there
+40,klar,0.0031,clear
+40,gemeinsam,0.003,together
+40,seehofer,0.0029,seehofer
+40,entscheidung,0.0029,decision
+40,land,0.0029,country
+40,mal,0.0028,times
+40,finden,0.0028,Find
+40,fall,0.0028,case
+40,schreiben,0.0027,write
+40,deutlich,0.0026,clear
+40,berlin,0.0026,Berlin
+40,nennen,0.0026,call
+41,regel,0.0484,rule
+41,sagen,0.0208,say
+41,regeln,0.0169,regulate
+41,stoiber,0.0129,stoiber
+41,mehr,0.0125,more
+41,jahr,0.0107,year
+41,spd,0.0103,spd
+41,steinbrück,0.0102,steinbrück
+41,müssen,0.0099,have to
+41,seehofer,0.0098,seehofer
+41,geben,0.0085,give
+41,csu,0.0073,Christian Social Union
+41,land,0.0072,country
+41,dass,0.0069,that
+41,union,0.0059,union
+41,sehen,0.0051,see
+41,gut,0.0051,Good
+41,cdu,0.005,cdu
+41,lassen,0.005,to let
+41,neu,0.0049,New
+41,berlin,0.0048,Berlin
+41,schröder,0.0046,Schroeder
+41,zwei,0.0044,two
+41,politisch,0.0043,politically
+41,merkel,0.004,merkel
+41,groß,0.004,big
+41,prozent,0.0039,percent
+41,euro,0.0038,Euro
+41,stellen,0.0034,put
+41,halten,0.0033,hold
+41,wissen,0.0033,knowledge
+41,kommen,0.0032,come
+41,eigen,0.0032,own
+41,fordern,0.0031,demand
+41,horst,0.0031,horst
+41,gelten,0.003,be valid
+41,drei,0.003,three
+41,grüne,0.003,green
+41,zeigen,0.0029,demonstrate
+41,erst,0.0029,first
+41,finden,0.0029,Find
+41,thema,0.0028,theme
+41,stehen,0.0026,stand
+41,hoch,0.0026,high
+41,weit,0.0026,far
+41,politik,0.0025,politics
+41,etwa,0.0025,about
+41,wer,0.0024,who
+41,mensch,0.0023,human
+41,viele,0.0023,lots
+42,sagen,0.0278,say
+42,dass,0.0253,that
+42,merkel,0.0105,merkel
+42,deutschland,0.0083,Germany
+42,müssen,0.0081,have to
+42,groß,0.0077,big
+42,mehr,0.007,more
+42,steinbrück,0.0061,steinbrück
+42,stehen,0.006,stand
+42,neu,0.0052,New
+42,viele,0.005,lots
+42,bereits,0.0049,already
+42,schröder,0.0048,Schroeder
+42,geben,0.0044,give
+42,online,0.0044,on-line
+42,euro,0.0043,Euro
+42,gehen,0.0043,go
+42,gut,0.0042,Good
+42,kommen,0.0041,come
+42,grüne,0.0039,green
+42,sehen,0.0037,see
+42,spiegel,0.0037,mirror
+42,dafür,0.0037,for this
+42,kanzlerin,0.0036,Chancellor
+42,dürfen,0.0036,allowed
+42,wahlkampf,0.0035,electioneering
+42,stoiber,0.0035,stoiber
+42,seit,0.0033,since
+42,angela,0.0033,angela
+42,erklären,0.0032,to explain
+42,beide,0.0032,both
+42,tag,0.0032,Day
+42,zwei,0.0031,two
+42,wahl,0.0031,choice
+42,sprechen,0.0031,speak
+42,steinmeier,0.0031,steinmeier
+42,frau,0.003,Mrs
+42,halten,0.003,hold
+42,wissen,0.003,knowledge
+42,mensch,0.0029,human
+42,cdu,0.0029,cdu
+42,setzen,0.0028,put
+42,letzt,0.0027,last
+42,liegen,0.0027,lie
+42,entscheidung,0.0027,decision
+42,ministerpräsident,0.0027,prime minister
+42,csu,0.0026,Christian Social Union
+42,wer,0.0026,who
+42,thema,0.0026,theme
+42,laut,0.0026,according to
+43,sagen,0.0288,say
+43,dass,0.0264,that
+43,prozent,0.0157,percent
+43,schröder,0.0118,Schroeder
+43,spd,0.0117,spd
+43,geben,0.0091,give
+43,cdu,0.0089,cdu
+43,steinbrück,0.0088,steinbrück
+43,gehen,0.0081,go
+43,partei,0.0078,party
+43,erst,0.0078,first
+43,grüne,0.0077,green
+43,berlin,0.0075,Berlin
+43,mehr,0.0074,more
+43,groß,0.0058,big
+43,müssen,0.0058,have to
+43,union,0.0057,union
+43,ergebnis,0.0054,Result
+43,euro,0.005,Euro
+43,gut,0.0049,Good
+43,deutschland,0.0048,Germany
+43,immer,0.0047,always
+43,bleiben,0.0045,stay
+43,kanzler,0.0045,chancellor
+43,rotgrün,0.0044,Red Green
+43,liegen,0.0042,lie
+43,klar,0.0041,clear
+43,stoiber,0.0039,stoiber
+43,sprechen,0.0039,speak
+43,dürfen,0.0038,allowed
+43,bundestag,0.0037,Bundestag
+43,ministerpräsident,0.0037,prime minister
+43,grün,0.0036,green
+43,sollen,0.0036,should
+43,regierung,0.0036,government
+43,viele,0.0034,lots
+43,eigen,0.0034,own
+43,sehen,0.0034,see
+43,zwei,0.0034,two
+43,land,0.0033,country
+43,zeigen,0.0033,demonstrate
+43,wenige,0.0032,few
+43,dabei,0.0032,there
+43,allerdings,0.0031,Indeed
+43,ab,0.003,from
+43,zeit,0.003,Time
+43,mensch,0.0029,human
+43,rede,0.0029,speech
+43,koalition,0.0028,coalition
+43,stehen,0.0028,stand
+44,dass,0.0321,that
+44,merkel,0.0156,merkel
+44,geben,0.0146,give
+44,deutschland,0.0114,Germany
+44,prozent,0.0105,percent
+44,euro,0.0092,Euro
+44,partei,0.0088,party
+44,erst,0.0082,first
+44,jahr,0.0075,year
+44,land,0.0072,country
+44,groß,0.0069,big
+44,union,0.0067,union
+44,neu,0.0061,New
+44,spd,0.0059,spd
+44,seit,0.0058,since
+44,sagen,0.0057,say
+44,spiegel,0.0054,mirror
+44,cdu,0.0053,cdu
+44,mehr,0.0051,more
+44,steinbrück,0.0049,steinbrück
+44,grüne,0.0047,green
+44,mensch,0.0043,human
+44,milliarde,0.0043,billion
+44,koalition,0.0042,coalition
+44,kommen,0.004,come
+44,angela,0.004,angela
+44,immer,0.0039,always
+44,bleiben,0.0037,stay
+44,regierung,0.0037,government
+44,wahl,0.0035,choice
+44,bereits,0.0034,already
+44,erklären,0.0033,to explain
+44,kanzlerin,0.0033,Chancellor
+44,million,0.0032,million
+44,bundesregierung,0.003,federal government
+44,csu,0.003,Christian Social Union
+44,frau,0.003,Mrs
+44,gehen,0.0029,go
+44,möglich,0.0028,possible
+44,politisch,0.0028,politically
+44,wenige,0.0028,few
+44,berlin,0.0028,Berlin
+44,weit,0.0028,far
+44,gut,0.0027,Good
+44,schröder,0.0026,Schroeder
+44,drei,0.0026,three
+44,umfrage,0.0026,survey
+44,stellen,0.0026,put
+44,ergebnis,0.0026,Result
+44,heute,0.0025,today
+45,dass,0.015,that
+45,partei,0.0145,party
+45,prozent,0.0109,percent
+45,berlin,0.0081,Berlin
+45,merkel,0.008,merkel
+45,neu,0.0079,New
+45,erst,0.0065,first
+45,dürfen,0.0053,allowed
+45,seit,0.0051,since
+45,sollen,0.0051,should
+45,deutsch,0.005,German
+45,bleiben,0.0049,stay
+45,ab,0.0049,from
+45,kommen,0.0046,come
+45,weit,0.0046,far
+45,geben,0.0044,give
+45,bereits,0.0044,already
+45,stehen,0.0043,stand
+45,zwei,0.0043,two
+45,gehen,0.0043,go
+45,cdu,0.0042,cdu
+45,spiegel,0.0041,mirror
+45,erklären,0.0041,to explain
+45,sprechen,0.004,speak
+45,koalition,0.004,coalition
+45,gelten,0.0039,be valid
+45,online,0.0039,on-line
+45,eigen,0.0039,own
+45,groß,0.0037,big
+45,heißen,0.0036,be called
+45,vergangen,0.0036,past
+45,halten,0.0035,hold
+45,mehr,0.0033,more
+45,wahl,0.0033,choice
+45,liegen,0.0031,lie
+45,frage,0.0029,question
+45,führen,0.0029,to lead
+45,sagen,0.0029,say
+45,rund,0.0029,round
+45,bundestagswahl,0.0029,bundestagswahl
+45,npd,0.0028,npd
+45,rotgrün,0.0028,Red Green
+45,fdp,0.0027,fdp
+45,klar,0.0027,clear
+45,viele,0.0027,lots
+45,dabei,0.0026,there
+45,stellen,0.0026,put
+45,früh,0.0026,early
+45,dagegen,0.0026,on the other hand
+45,bundestag,0.0026,Bundestag
+46,dass,0.028,that
+46,berlin,0.0099,Berlin
+46,kommen,0.0085,come
+46,schon,0.0081,beautiful
+46,sagen,0.0073,say
+46,deutschland,0.007,Germany
+46,groß,0.0069,big
+46,geben,0.0063,give
+46,spiegel,0.0061,mirror
+46,lassen,0.0056,to let
+46,erst,0.0054,first
+46,schröder,0.0054,Schroeder
+46,spd,0.0051,spd
+46,sollen,0.005,should
+46,politisch,0.0048,politically
+46,land,0.0047,country
+46,erklären,0.0047,to explain
+46,stehen,0.0045,stand
+46,mehr,0.0044,more
+46,viele,0.0044,lots
+46,woche,0.0044,week
+46,gut,0.0042,Good
+46,finden,0.004,Find
+46,merkel,0.004,merkel
+46,heute,0.004,today
+46,usa,0.0039,USA
+46,vergangen,0.0037,past
+46,dabei,0.0037,there
+46,seit,0.0037,since
+46,leben,0.0036,Life
+46,wissen,0.0036,knowledge
+46,euro,0.0036,Euro
+46,zeit,0.0035,Time
+46,ganz,0.0035,all
+46,wegen,0.0035,because of
+46,allerdings,0.0034,Indeed
+46,bush,0.0033,bush
+46,bundestag,0.0033,Bundestag
+46,cdu,0.0032,cdu
+46,sprechen,0.0032,speak
+46,mensch,0.003,human
+46,jahr,0.0029,year
+46,deutsch,0.0029,German
+46,recht,0.0029,Law
+46,ab,0.0028,from
+46,etwa,0.0028,about
+46,immer,0.0027,always
+46,heißen,0.0026,be called
+46,kanzler,0.0026,chancellor
+46,tun,0.0025,do
+47,dass,0.0202,that
+47,sagen,0.0134,say
+47,müssen,0.0093,have to
+47,land,0.009,country
+47,union,0.0089,union
+47,spd,0.0089,spd
+47,prozent,0.0082,percent
+47,berlin,0.0078,Berlin
+47,gut,0.0063,Good
+47,deutschland,0.006,Germany
+47,mehr,0.006,more
+47,geben,0.0059,give
+47,merkel,0.0059,merkel
+47,euro,0.0058,Euro
+47,gehen,0.0058,go
+47,groß,0.0055,big
+47,dürfen,0.0052,allowed
+47,partei,0.005,party
+47,sollen,0.0048,should
+47,frage,0.0048,question
+47,cdu,0.0048,cdu
+47,online,0.0046,on-line
+47,regierung,0.0046,government
+47,milliarde,0.0046,billion
+47,weit,0.0045,far
+47,immer,0.0044,always
+47,schon,0.0043,beautiful
+47,erst,0.0043,first
+47,schröder,0.0041,Schroeder
+47,ab,0.0041,from
+47,möglich,0.0035,possible
+47,gelten,0.0035,be valid
+47,heißen,0.0034,be called
+47,vergangen,0.0033,past
+47,drei,0.0033,three
+47,kanzlerin,0.0031,Chancellor
+47,fall,0.0031,case
+47,wenige,0.003,few
+47,bleiben,0.003,stay
+47,wissen,0.003,knowledge
+47,hoch,0.0028,high
+47,setzen,0.0028,put
+47,zeitung,0.0027,newspaper
+47,halten,0.0027,hold
+47,grüne,0.0027,green
+47,nah,0.0027,close
+47,gemeinsam,0.0026,together
+47,rund,0.0025,round
+47,mal,0.0025,times
+47,gespräch,0.0024,talk
+48,dass,0.0301,that
+48,mehr,0.0119,more
+48,spd,0.0114,spd
+48,müssen,0.0107,have to
+48,sagen,0.0082,say
+48,berlin,0.0081,Berlin
+48,spiegel,0.0079,mirror
+48,sollen,0.0074,should
+48,union,0.0074,union
+48,kommen,0.0072,come
+48,sehen,0.0065,see
+48,immer,0.0057,always
+48,seit,0.0057,since
+48,geben,0.0054,give
+48,schon,0.0049,beautiful
+48,grüne,0.0049,green
+48,deutschland,0.0046,Germany
+48,ab,0.0045,from
+48,weit,0.0044,far
+48,dabei,0.0041,there
+48,vergangen,0.0041,past
+48,frage,0.004,question
+48,erklären,0.004,to explain
+48,prozent,0.0037,percent
+48,bereits,0.0037,already
+48,mensch,0.0036,human
+48,lassen,0.0033,to let
+48,zeitung,0.0033,newspaper
+48,bundestagswahl,0.0032,bundestagswahl
+48,euro,0.0032,Euro
+48,wahl,0.0032,choice
+48,seehofer,0.0031,seehofer
+48,liegen,0.0031,lie
+48,land,0.003,country
+48,möglich,0.0029,possible
+48,wissen,0.0028,knowledge
+48,treffen,0.0028,to meet
+48,halten,0.0028,hold
+48,zwei,0.0027,two
+48,berliner,0.0027,Berliner
+48,frau,0.0025,Mrs
+48,fordern,0.0025,demand
+48,rund,0.0025,round
+48,wer,0.0025,who
+48,online,0.0025,on-line
+48,gabriel,0.0025,gabriel
+48,stoiber,0.0025,stoiber
+48,regierung,0.0024,government
+48,woche,0.0024,week
+48,ganz,0.0024,all
+49,berlin,0.0091,Berlin
+49,erst,0.0085,first
+49,sagen,0.0081,say
+49,dass,0.008,that
+49,neu,0.0078,New
+49,union,0.0078,union
+49,kommen,0.0077,come
+49,deutschland,0.0067,Germany
+49,euro,0.0056,Euro
+49,jahr,0.0053,year
+49,groß,0.0053,big
+49,frage,0.0052,question
+49,bundestag,0.0052,Bundestag
+49,spd,0.0051,spd
+49,immer,0.0049,always
+49,deutsch,0.0048,German
+49,land,0.0046,country
+49,weit,0.0043,far
+49,politisch,0.0042,politically
+49,dürfen,0.0042,allowed
+49,eigen,0.0041,own
+49,viele,0.0041,lots
+49,heute,0.004,today
+49,bundesregierung,0.0039,federal government
+49,erklären,0.0038,to explain
+49,mehr,0.0037,more
+49,zeit,0.0036,Time
+49,prozent,0.0035,percent
+49,schon,0.0035,beautiful
+49,wegen,0.0034,because of
+49,fischer,0.0033,fisherman
+49,schröder,0.0033,Schroeder
+49,wissen,0.0032,knowledge
+49,gut,0.0032,Good
+49,laut,0.0032,according to
+49,beide,0.0032,both
+49,grüne,0.0032,green
+49,zeitung,0.0031,newspaper
+49,klar,0.003,clear
+49,heißen,0.003,be called
+49,darauf,0.0029,thereon
+49,treffen,0.0029,to meet
+49,fordern,0.0029,demand
+49,sprechen,0.0028,speak
+49,tun,0.0028,do
+49,spät,0.0027,late
+49,bundeswehr,0.0027,Bundeswehr
+49,wahlkampf,0.0027,electioneering
+49,nah,0.0027,close
+49,welt,0.0027,world
+50,sagen,0.0149,say
+50,geben,0.0136,give
+50,prozent,0.0108,percent
+50,neu,0.0087,New
+50,mehr,0.0068,more
+50,merkel,0.0066,merkel
+50,stehen,0.0063,stand
+50,jahr,0.006,year
+50,schröder,0.0058,Schroeder
+50,deutsch,0.0055,German
+50,deutschland,0.0055,Germany
+50,schon,0.0055,beautiful
+50,csu,0.0054,Christian Social Union
+50,kommen,0.0054,come
+50,immer,0.0053,always
+50,stellen,0.0048,put
+50,bundestag,0.0046,Bundestag
+50,fordern,0.0045,demand
+50,ab,0.0043,from
+50,finden,0.0043,Find
+50,partei,0.004,party
+50,gut,0.0039,Good
+50,woche,0.0039,week
+50,liegen,0.0039,lie
+50,regierung,0.0038,government
+50,treffen,0.0037,to meet
+50,zeigen,0.0036,demonstrate
+50,usa,0.0036,USA
+50,stoiber,0.0036,stoiber
+50,gelten,0.0034,be valid
+50,wahl,0.0034,choice
+50,ende,0.0034,The End
+50,sollen,0.0034,should
+50,möglich,0.0033,possible
+50,cdu,0.0032,cdu
+50,viele,0.0032,lots
+50,entscheidung,0.0031,decision
+50,darauf,0.0031,thereon
+50,rund,0.003,round
+50,wenige,0.003,few
+50,kanzlerin,0.0029,Chancellor
+50,hoch,0.0028,high
+50,zudem,0.0027,moreover
+50,weit,0.0027,far
+50,zeit,0.0027,Time
+50,problem,0.0027,problem
+50,etwa,0.0027,about
+50,bund,0.0027,Federation
+50,sonntag,0.0026,Sunday
+50,wegen,0.0026,because of
+51,sagen,0.0189,say
+51,spd,0.0155,spd
+51,geben,0.0124,give
+51,dass,0.0107,that
+51,partei,0.0098,party
+51,gut,0.0087,Good
+51,online,0.0085,on-line
+51,prozent,0.0073,percent
+51,deutschland,0.0073,Germany
+51,jahr,0.0071,year
+51,spiegel,0.0067,mirror
+51,land,0.0065,country
+51,koalition,0.0063,coalition
+51,politisch,0.006,politically
+51,groß,0.0058,big
+51,müssen,0.0057,have to
+51,cdu,0.0055,cdu
+51,viele,0.0052,lots
+51,kommen,0.0047,come
+51,stegner,0.0046,Stegner
+51,beide,0.0042,both
+51,stehen,0.0041,stand
+51,carstensen,0.004,carstensen
+51,ganz,0.0039,all
+51,woche,0.0039,week
+51,regierung,0.0038,government
+51,vergangen,0.0038,past
+51,dürfen,0.0038,allowed
+51,gehen,0.0038,go
+51,sollen,0.0036,should
+51,ministerpräsident,0.0035,prime minister
+51,csu,0.0035,Christian Social Union
+51,fdp,0.0033,fdp
+51,ja,0.0033,Yes
+51,wenige,0.0032,few
+51,finden,0.0032,Find
+51,mehr,0.0032,more
+51,erst,0.0031,first
+51,grüne,0.0031,green
+51,lafontaine,0.0031,lafontaine
+51,seehofer,0.0029,seehofer
+51,lassen,0.0029,to let
+51,zeit,0.0029,Time
+51,dafür,0.0029,for this
+51,mal,0.0028,times
+51,sprechen,0.0028,speak
+51,thema,0.0028,theme
+51,tag,0.0027,Day
+51,euro,0.0027,Euro
+51,frage,0.0027,question
+52,dass,0.0153,that
+52,prozent,0.0112,percent
+52,spd,0.0111,spd
+52,berlin,0.0106,Berlin
+52,cdu,0.01,cdu
+52,deutsch,0.0096,German
+52,merkel,0.0085,merkel
+52,deutschland,0.0084,Germany
+52,euro,0.0074,Euro
+52,erst,0.007,first
+52,müssen,0.0064,have to
+52,csu,0.0064,Christian Social Union
+52,koalition,0.0043,coalition
+52,bundestag,0.0042,Bundestag
+52,heißen,0.0041,be called
+52,stellen,0.0041,put
+52,finden,0.004,Find
+52,immer,0.0039,always
+52,vergangen,0.0039,past
+52,woche,0.0039,week
+52,sollen,0.0038,should
+52,ende,0.0037,The End
+52,union,0.0037,union
+52,bundestagswahl,0.0036,bundestagswahl
+52,treffen,0.0035,to meet
+52,klar,0.0034,clear
+52,dafür,0.0033,for this
+52,viele,0.0032,lots
+52,bund,0.0032,Federation
+52,gehen,0.003,go
+52,tag,0.003,Day
+52,entscheidung,0.0029,decision
+52,bundesregierung,0.0029,federal government
+52,erklären,0.0029,to explain
+52,jedoch,0.0028,however
+52,zeit,0.0027,Time
+52,hoch,0.0026,high
+52,dabei,0.0026,there
+52,grüne,0.0026,green
+52,ministerpräsident,0.0026,prime minister
+52,bleiben,0.0025,stay
+52,sprecher,0.0025,speaker
+52,angela,0.0025,angela
+52,lang,0.0025,long
+52,allerdings,0.0025,Indeed
+52,recht,0.0023,Law
+52,erhalten,0.0023,receive
+52,lassen,0.0022,to let
+52,laut,0.0022,according to
+52,geben,0.0022,give
+53,sagen,0.026,say
+53,neu,0.0097,New
+53,dass,0.0073,that
+53,erst,0.0069,first
+53,spiegel,0.0066,mirror
+53,stehen,0.0064,stand
+53,sehen,0.0057,see
+53,partei,0.0054,party
+53,groß,0.0053,big
+53,mehr,0.0051,more
+53,woche,0.0051,week
+53,dürfen,0.005,allowed
+53,gehen,0.005,go
+53,online,0.0045,on-line
+53,heißen,0.0043,be called
+53,ende,0.0042,The End
+53,ab,0.004,from
+53,erklären,0.004,to explain
+53,politisch,0.0039,politically
+53,schröder,0.0039,Schroeder
+53,halten,0.0039,hold
+53,schon,0.0038,beautiful
+53,regierung,0.0036,government
+53,etwa,0.0035,about
+53,merkel,0.0035,merkel
+53,tag,0.0035,Day
+53,wegen,0.0035,because of
+53,zeitung,0.0035,newspaper
+53,thema,0.0034,theme
+53,fall,0.0033,case
+53,nehmen,0.0032,to take
+53,möglich,0.0032,possible
+53,cdu,0.0032,cdu
+53,ministerpräsident,0.0031,prime minister
+53,lassen,0.0031,to let
+53,heute,0.0031,today
+53,kritik,0.003,criticism
+53,sollen,0.0029,should
+53,de,0.0029,de
+53,führen,0.0028,to lead
+53,steinbrück,0.0027,steinbrück
+53,recht,0.0027,Law
+53,montag,0.0027,Monday
+53,immer,0.0027,always
+53,setzen,0.0027,put
+53,euro,0.0027,Euro
+53,minister,0.0026,minister
+53,bringen,0.0026,bring
+53,steinmeier,0.0025,steinmeier
+53,kommen,0.0024,come
+54,dass,0.0248,that
+54,spd,0.0103,spd
+54,merkel,0.0082,merkel
+54,union,0.0082,union
+54,berlin,0.0076,Berlin
+54,geben,0.007,give
+54,schon,0.0065,beautiful
+54,stehen,0.0065,stand
+54,gehen,0.0065,go
+54,cdu,0.0057,cdu
+54,schröder,0.0056,Schroeder
+54,erst,0.0055,first
+54,groß,0.0055,big
+54,land,0.0051,country
+54,stoiber,0.0051,stoiber
+54,dürfen,0.005,allowed
+54,kommen,0.005,come
+54,mehr,0.005,more
+54,deutsch,0.0049,German
+54,sagen,0.0049,say
+54,seit,0.0048,since
+54,stellen,0.0045,put
+54,ministerpräsident,0.0044,prime minister
+54,weit,0.0043,far
+54,fdp,0.0039,fdp
+54,ende,0.0038,The End
+54,bundesregierung,0.0036,federal government
+54,zeit,0.0036,Time
+54,lassen,0.0036,to let
+54,wissen,0.0034,knowledge
+54,woche,0.0034,week
+54,vergangen,0.0034,past
+54,sehen,0.0032,see
+54,grüne,0.0031,green
+54,rotgrün,0.0031,Red Green
+54,kanzler,0.0031,chancellor
+54,neu,0.003,New
+54,treffen,0.003,to meet
+54,möglich,0.003,possible
+54,gut,0.0029,Good
+54,koalition,0.0029,coalition
+54,nehmen,0.0029,to take
+54,heute,0.0028,today
+54,regierung,0.0028,government
+54,müssen,0.0028,have to
+54,thema,0.0028,theme
+54,berliner,0.0028,Berliner
+54,recht,0.0027,Law
+54,jung,0.0027,young
+54,zwei,0.0027,two
+55,spd,0.011,spd
+55,prozent,0.0096,percent
+55,müssen,0.0084,have to
+55,gut,0.0081,Good
+55,geben,0.008,give
+55,schröder,0.0076,Schroeder
+55,kommen,0.0069,come
+55,dass,0.0063,that
+55,euro,0.0062,Euro
+55,sagen,0.006,say
+55,sehen,0.006,see
+55,weit,0.0053,far
+55,deutschland,0.0053,Germany
+55,sollen,0.0053,should
+55,gehen,0.0051,go
+55,stoiber,0.005,stoiber
+55,fordern,0.0047,demand
+55,zwei,0.0046,two
+55,halten,0.0045,hold
+55,mehr,0.0044,more
+55,rund,0.0043,round
+55,allerdings,0.0041,Indeed
+55,bundesregierung,0.0041,federal government
+55,zeigen,0.0038,demonstrate
+55,frage,0.0038,question
+55,laut,0.0037,according to
+55,vergangen,0.0036,past
+55,ganz,0.0035,all
+55,online,0.0032,on-line
+55,eigen,0.0031,own
+55,berlin,0.003,Berlin
+55,seit,0.003,since
+55,bundestag,0.003,Bundestag
+55,zeit,0.003,Time
+55,csu,0.0029,Christian Social Union
+55,tun,0.0028,do
+55,kanzler,0.0028,chancellor
+55,politik,0.0028,politics
+55,union,0.0027,union
+55,teil,0.0027,part
+55,land,0.0026,country
+55,nennen,0.0026,call
+55,bundeskanzler,0.0026,Chancellor
+55,etwa,0.0025,about
+55,betonen,0.0025,emphasize
+55,wahl,0.0025,choice
+55,beide,0.0025,both
+55,staat,0.0024,Country
+55,angabe,0.0024,specification
+55,handeln,0.0024,act
+56,sagen,0.0273,say
+56,prozent,0.0121,percent
+56,jahr,0.0111,year
+56,euro,0.0089,Euro
+56,merkel,0.0087,merkel
+56,groß,0.0084,big
+56,dass,0.0079,that
+56,müssen,0.0078,have to
+56,erst,0.0076,first
+56,schon,0.0075,beautiful
+56,deutschland,0.0073,Germany
+56,mehr,0.0069,more
+56,union,0.0059,union
+56,kommen,0.0059,come
+56,partei,0.005,party
+56,sprechen,0.0048,speak
+56,zwei,0.0048,two
+56,lassen,0.0043,to let
+56,milliarde,0.0043,billion
+56,ganz,0.0043,all
+56,ministerpräsident,0.0041,prime minister
+56,politisch,0.004,politically
+56,csu,0.0038,Christian Social Union
+56,wahl,0.0037,choice
+56,liegen,0.0037,lie
+56,nehmen,0.0036,to take
+56,steinbrück,0.0035,steinbrück
+56,klar,0.0035,clear
+56,bund,0.0035,Federation
+56,ab,0.0033,from
+56,gut,0.0032,Good
+56,tag,0.0032,Day
+56,stehen,0.0032,stand
+56,spiegel,0.0029,mirror
+56,berlin,0.0029,Berlin
+56,viele,0.0028,lots
+56,sehen,0.0028,see
+56,umfrage,0.0028,survey
+56,mann,0.0027,man
+56,wenige,0.0027,few
+56,regierung,0.0027,government
+56,million,0.0027,million
+56,nennen,0.0027,call
+56,beide,0.0026,both
+56,stellen,0.0026,put
+56,lang,0.0026,long
+56,sozialdemokrat,0.0026,Social
+56,politik,0.0025,politics
+56,mal,0.0025,times
+56,land,0.0025,country
+57,sagen,0.0296,say
+57,partei,0.0169,party
+57,prozent,0.0155,percent
+57,mehr,0.0119,more
+57,geben,0.0102,give
+57,gehen,0.0098,go
+57,berlin,0.009,Berlin
+57,spd,0.008,spd
+57,dass,0.0067,that
+57,grüne,0.0061,green
+57,lafontaine,0.0057,lafontaine
+57,schon,0.0054,beautiful
+57,union,0.0053,union
+57,liegen,0.005,lie
+57,immer,0.0047,always
+57,frage,0.0046,question
+57,politisch,0.0043,politically
+57,deutschland,0.0042,Germany
+57,fdp,0.0042,fdp
+57,neu,0.0041,New
+57,gut,0.004,Good
+57,csu,0.004,Christian Social Union
+57,wahl,0.004,choice
+57,cdu,0.0039,cdu
+57,dürfen,0.0039,allowed
+57,viele,0.0039,lots
+57,frau,0.0038,Mrs
+57,klar,0.0038,clear
+57,ganz,0.0036,all
+57,koalition,0.0034,coalition
+57,sollen,0.0033,should
+57,ergebnis,0.0033,Result
+57,groß,0.0033,big
+57,zeit,0.0032,Time
+57,ende,0.0032,The End
+57,fischer,0.003,fisherman
+57,deutsch,0.0029,German
+57,woche,0.0029,week
+57,zwei,0.0028,two
+57,stehen,0.0028,stand
+57,schröder,0.0028,Schroeder
+57,mann,0.0028,man
+57,lang,0.0028,long
+57,mal,0.0028,times
+57,erst,0.0028,first
+57,fordern,0.0027,demand
+57,letzt,0.0026,last
+57,verlieren,0.0026,to lose
+57,müntefering,0.0025,müntefering
+57,zurück,0.0025,back
+58,schily,0.0681,schily
+58,stunde,0.0679,hour
+58,dass,0.0297,that
+58,sagen,0.0202,say
+58,auswärtig,0.0181,in away
+58,innenministerium,0.0121,Home Office
+58,amt,0.012,office
+58,stunden,0.011,hours
+58,geben,0.0091,give
+58,spd,0.0068,spd
+58,otto,0.0064,otto
+58,partei,0.0053,party
+58,groß,0.0051,big
+58,gut,0.0046,Good
+58,gehen,0.0044,go
+58,ministerium,0.0043,ministry
+58,stellen,0.0042,put
+58,missbrauch,0.0041,abuse
+58,befragung,0.0039,survey
+58,halten,0.0039,hold
+58,prozent,0.0039,percent
+58,land,0.0038,country
+58,zeuge,0.0038,witness
+58,ausschuss,0.0038,committee
+58,lassen,0.0038,to let
+58,botschaft,0.0037,Embassy
+58,sprechen,0.0037,speak
+58,herr,0.0036,Sir
+58,seit,0.0036,since
+58,fehler,0.0035,error
+58,kommen,0.0035,come
+58,deutsch,0.0033,German
+58,sollen,0.0033,should
+58,wissen,0.0032,knowledge
+58,fall,0.0032,case
+58,erklären,0.0032,to explain
+58,vernehmung,0.0031,interrogation
+58,immer,0.0031,always
+58,bundestag,0.0031,Bundestag
+58,fischer,0.0031,fisherman
+58,mensch,0.003,human
+58,steinbrück,0.0029,steinbrück
+58,merkel,0.0029,merkel
+58,neu,0.0029,New
+58,stehen,0.0029,stand
+58,zuständig,0.0028,responsible
+58,sehen,0.0028,see
+58,dafür,0.0027,for this
+58,anstieg,0.0027,rise
+58,online,0.0027,on-line
+59,merkel,0.0124,merkel
+59,spd,0.0101,spd
+59,deutsch,0.0097,German
+59,kommen,0.0094,come
+59,deutschland,0.0088,Germany
+59,gehen,0.0086,go
+59,union,0.0085,union
+59,neu,0.0079,New
+59,dass,0.0073,that
+59,cdu,0.0072,cdu
+59,sagen,0.0066,say
+59,schröder,0.0066,Schroeder
+59,sehen,0.006,see
+59,groß,0.0057,big
+59,steinbrück,0.0056,steinbrück
+59,grüne,0.005,green
+59,woche,0.0049,week
+59,bleiben,0.0047,stay
+59,tag,0.0047,Day
+59,jahr,0.0043,year
+59,fordern,0.0041,demand
+59,heißen,0.0039,be called
+59,fdp,0.0039,fdp
+59,klar,0.0039,clear
+59,müssen,0.0036,have to
+59,politisch,0.0036,politically
+59,ganz,0.0036,all
+59,fall,0.0035,case
+59,kanzlerin,0.0035,Chancellor
+59,mehr,0.0035,more
+59,ab,0.0035,from
+59,gut,0.0033,Good
+59,prozent,0.0031,percent
+59,weit,0.0031,far
+59,zeitung,0.0031,newspaper
+59,lassen,0.003,to let
+59,bereits,0.003,already
+59,wenige,0.003,few
+59,wissen,0.0029,knowledge
+59,viele,0.0029,lots
+59,darauf,0.0028,thereon
+59,wichtig,0.0028,important
+59,fischer,0.0028,fisherman
+59,ministerpräsident,0.0027,prime minister
+59,zwei,0.0027,two
+59,gemeinsam,0.0027,together
+59,setzen,0.0027,put
+59,lang,0.0027,long
+59,wahl,0.0026,choice
+59,september,0.0026,September
+60,sagen,0.0249,say
+60,geben,0.0159,give
+60,land,0.008,country
+60,groß,0.0075,big
+60,mehr,0.0073,more
+60,sollen,0.0072,should
+60,dass,0.0072,that
+60,gehen,0.0067,go
+60,berlin,0.0067,Berlin
+60,dürfen,0.0057,allowed
+60,schon,0.0055,beautiful
+60,prozent,0.0053,percent
+60,merkel,0.005,merkel
+60,lassen,0.0049,to let
+60,halten,0.0048,hold
+60,partei,0.0047,party
+60,deutsch,0.0047,German
+60,gut,0.0044,Good
+60,sprechen,0.0042,speak
+60,bundesregierung,0.0042,federal government
+60,stehen,0.0038,stand
+60,zwei,0.0038,two
+60,zeigen,0.0035,demonstrate
+60,tag,0.0035,Day
+60,neu,0.0035,New
+60,drei,0.0033,three
+60,sehen,0.0032,see
+60,koalition,0.0032,coalition
+60,müssen,0.0032,have to
+60,nehmen,0.0031,to take
+60,jahr,0.0031,year
+60,fdp,0.003,fdp
+60,thema,0.003,theme
+60,politisch,0.003,politically
+60,heißen,0.0029,be called
+60,jung,0.0029,young
+60,wegen,0.0029,because of
+60,spiegel,0.0029,mirror
+60,mensch,0.0029,human
+60,tun,0.0028,do
+60,zeitung,0.0028,newspaper
+60,setzen,0.0028,put
+60,kommen,0.0027,come
+60,schreiben,0.0026,write
+60,türkisch,0.0026,Turkish
+60,fall,0.0026,case
+60,allerdings,0.0025,Indeed
+60,frau,0.0025,Mrs
+60,erst,0.0025,first
+60,cdu,0.0025,cdu
+61,sagen,0.0163,say
+61,deutschland,0.0127,Germany
+61,müssen,0.0105,have to
+61,berlin,0.0098,Berlin
+61,kommen,0.0081,come
+61,partei,0.0077,party
+61,merkel,0.0074,merkel
+61,cdu,0.0071,cdu
+61,jahr,0.007,year
+61,stehen,0.0066,stand
+61,deutsch,0.0063,German
+61,stoiber,0.0062,stoiber
+61,sehen,0.0061,see
+61,spd,0.0054,spd
+61,sollen,0.0053,should
+61,union,0.0053,union
+61,schröder,0.0052,Schroeder
+61,geben,0.005,give
+61,land,0.0049,country
+61,erst,0.0049,first
+61,mehr,0.0048,more
+61,lassen,0.0047,to let
+61,csu,0.0046,Christian Social Union
+61,schon,0.0042,beautiful
+61,weit,0.0039,far
+61,stellen,0.0038,put
+61,immer,0.0037,always
+61,möglich,0.0036,possible
+61,treffen,0.0036,to meet
+61,bereits,0.0034,already
+61,seit,0.0033,since
+61,zeit,0.0033,Time
+61,ab,0.0032,from
+61,rund,0.0032,round
+61,zeigen,0.0031,demonstrate
+61,eigen,0.0031,own
+61,berliner,0.0028,Berliner
+61,heute,0.0028,today
+61,grüne,0.0027,green
+61,wenige,0.0027,few
+61,million,0.0027,million
+61,zudem,0.0027,moreover
+61,gelten,0.0027,be valid
+61,rotgrün,0.0026,Red Green
+61,bund,0.0026,Federation
+61,dabei,0.0025,there
+61,wahlkampf,0.0025,electioneering
+61,wichtig,0.0025,important
+61,laut,0.0025,according to
+61,frau,0.0025,Mrs
+62,dass,0.0168,that
+62,sagen,0.0167,say
+62,spd,0.012,spd
+62,mehr,0.0101,more
+62,berlin,0.0084,Berlin
+62,schon,0.0071,beautiful
+62,deutschland,0.006,Germany
+62,sehen,0.0056,see
+62,union,0.0053,union
+62,gut,0.0053,Good
+62,immer,0.0051,always
+62,merkel,0.0051,merkel
+62,kommen,0.005,come
+62,neu,0.0049,New
+62,steinbrück,0.0048,steinbrück
+62,steinmeier,0.0047,steinmeier
+62,bereits,0.0044,already
+62,müssen,0.0044,have to
+62,beide,0.0043,both
+62,euro,0.0043,Euro
+62,halten,0.0042,hold
+62,sollen,0.0041,should
+62,stellen,0.0036,put
+62,deutsch,0.0035,German
+62,schäuble,0.0035,schäuble
+62,gabriel,0.0035,gabriel
+62,griechenland,0.0034,Greece
+62,schröder,0.0034,Schroeder
+62,treffen,0.0033,to meet
+62,kanzlerin,0.0033,Chancellor
+62,heute,0.0033,today
+62,ministerpräsident,0.0032,prime minister
+62,möglich,0.0032,possible
+62,groß,0.0032,big
+62,dürfen,0.0031,allowed
+62,bundestag,0.0031,Bundestag
+62,finden,0.003,Find
+62,rund,0.003,round
+62,fall,0.003,case
+62,zwei,0.003,two
+62,angela,0.003,angela
+62,lassen,0.0029,to let
+62,rotgrün,0.0029,Red Green
+62,stoiber,0.0029,stoiber
+62,woche,0.0029,week
+62,tag,0.0028,Day
+62,zeitung,0.0028,newspaper
+62,lang,0.0027,long
+62,wahl,0.0027,choice
+62,laut,0.0027,according to
+63,jahr,0.01,year
+63,sagen,0.0087,say
+63,merkel,0.0082,merkel
+63,neu,0.0075,New
+63,erst,0.0074,first
+63,prozent,0.007,percent
+63,politisch,0.0066,politically
+63,lassen,0.0063,to let
+63,seit,0.0062,since
+63,immer,0.0057,always
+63,spiegel,0.0049,mirror
+63,partei,0.0049,party
+63,groß,0.0046,big
+63,bundestag,0.0046,Bundestag
+63,koalition,0.0045,coalition
+63,sollen,0.0045,should
+63,sehen,0.0044,see
+63,halten,0.0043,hold
+63,cdu,0.0042,cdu
+63,bundesregierung,0.0042,federal government
+63,online,0.0042,on-line
+63,stehen,0.0041,stand
+63,dafür,0.004,for this
+63,wahl,0.004,choice
+63,klar,0.0039,clear
+63,tag,0.0039,Day
+63,heißen,0.0039,be called
+63,geben,0.0039,give
+63,euro,0.0037,Euro
+63,finden,0.0037,Find
+63,spd,0.0036,spd
+63,mensch,0.0035,human
+63,beide,0.0035,both
+63,schröder,0.0034,Schroeder
+63,weit,0.0032,far
+63,stellen,0.0032,put
+63,ministerpräsident,0.0031,prime minister
+63,politik,0.003,politics
+63,viele,0.003,lots
+63,problem,0.0029,problem
+63,grüne,0.0029,green
+63,dass,0.0029,that
+63,führen,0.0029,to lead
+63,stoiber,0.0029,stoiber
+63,stark,0.0029,strongly
+63,wer,0.0028,who
+63,jung,0.0028,young
+63,woche,0.0027,week
+63,gespräch,0.0025,talk
+63,ende,0.0025,The End
+64,dass,0.0325,that
+64,jahr,0.0171,year
+64,deutsch,0.0136,German
+64,erst,0.0085,first
+64,müssen,0.0078,have to
+64,groß,0.007,big
+64,schon,0.0068,beautiful
+64,gut,0.0061,Good
+64,kommen,0.0059,come
+64,lassen,0.0056,to let
+64,mensch,0.0054,human
+64,politisch,0.0053,politically
+64,kind,0.005,child
+64,deutschland,0.0048,Germany
+64,zwei,0.0047,two
+64,mehr,0.0047,more
+64,stellen,0.0045,put
+64,vergangen,0.0043,past
+64,stehen,0.0041,stand
+64,bundestag,0.0039,Bundestag
+64,spiegel,0.0038,mirror
+64,frage,0.0038,question
+64,drei,0.0037,three
+64,beide,0.0036,both
+64,liegen,0.0036,lie
+64,dabei,0.0035,there
+64,frau,0.0034,Mrs
+64,gehen,0.0033,go
+64,recht,0.0033,Law
+64,entscheidung,0.0033,decision
+64,sprechen,0.0031,speak
+64,cdu,0.0031,cdu
+64,bereits,0.003,already
+64,thema,0.003,theme
+64,deshalb,0.003,that's why
+64,woche,0.0029,week
+64,viele,0.0027,lots
+64,ganz,0.0027,all
+64,sollen,0.0026,should
+64,ende,0.0026,The End
+64,rund,0.0026,round
+64,jedoch,0.0026,however
+64,gelten,0.0026,be valid
+64,allerdings,0.0025,Indeed
+64,land,0.0025,country
+64,berliner,0.0025,Berliner
+64,zeit,0.0025,Time
+64,ministerpräsident,0.0025,prime minister
+64,rede,0.0025,speech
+64,geben,0.0024,give
+65,sagen,0.0236,say
+65,spd,0.0156,spd
+65,deutschland,0.0101,Germany
+65,geben,0.01,give
+65,prozent,0.0099,percent
+65,müssen,0.0098,have to
+65,groß,0.0093,big
+65,kommen,0.0092,come
+65,cdu,0.0091,cdu
+65,mehr,0.0089,more
+65,merkel,0.0088,merkel
+65,berlin,0.0074,Berlin
+65,deutsch,0.007,German
+65,jahr,0.0067,year
+65,neu,0.0067,New
+65,stehen,0.0065,stand
+65,euro,0.0061,Euro
+65,steinbrück,0.0059,steinbrück
+65,partei,0.0057,party
+65,koalition,0.0053,coalition
+65,gut,0.0053,Good
+65,bereits,0.005,already
+65,dürfen,0.0049,allowed
+65,ab,0.0046,from
+65,union,0.0043,union
+65,bundestag,0.004,Bundestag
+65,schröder,0.004,Schroeder
+65,finden,0.0039,Find
+65,erklären,0.0038,to explain
+65,dabei,0.0037,there
+65,klar,0.0037,clear
+65,erst,0.0037,first
+65,sollen,0.0037,should
+65,zwei,0.0036,two
+65,woche,0.0032,week
+65,schon,0.0032,beautiful
+65,bleiben,0.0031,stay
+65,immer,0.003,always
+65,hoch,0.0028,high
+65,bringen,0.0027,bring
+65,bundestagswahl,0.0026,bundestagswahl
+65,wahlkampf,0.0026,electioneering
+65,tag,0.0026,Day
+65,stellen,0.0025,put
+65,müntefering,0.0025,müntefering
+65,rotgrün,0.0025,Red Green
+65,wahl,0.0025,choice
+65,sonntag,0.0025,Sunday
+65,wenige,0.0025,few
+65,zudem,0.0024,moreover
+66,dass,0.0273,that
+66,sagen,0.0206,say
+66,mehr,0.0109,more
+66,land,0.0089,country
+66,gehen,0.0083,go
+66,jahr,0.0082,year
+66,sollen,0.0072,should
+66,euro,0.0061,Euro
+66,kommen,0.0058,come
+66,politisch,0.0057,politically
+66,stehen,0.0056,stand
+66,dürfen,0.0053,allowed
+66,union,0.0049,union
+66,erst,0.0048,first
+66,weit,0.0048,far
+66,müssen,0.0047,have to
+66,prozent,0.0045,percent
+66,viele,0.0044,lots
+66,csu,0.0042,Christian Social Union
+66,mensch,0.0041,human
+66,neu,0.004,New
+66,online,0.0039,on-line
+66,geben,0.0037,give
+66,ganz,0.0037,all
+66,heute,0.0037,today
+66,ministerpräsident,0.0036,prime minister
+66,gelten,0.0036,be valid
+66,halten,0.0036,hold
+66,fischer,0.0035,fisherman
+66,spd,0.0035,spd
+66,sprechen,0.0035,speak
+66,frage,0.0034,question
+66,tag,0.0033,Day
+66,ab,0.0032,from
+66,heißen,0.0031,be called
+66,erklären,0.0031,to explain
+66,etwa,0.003,about
+66,stellen,0.003,put
+66,drei,0.0029,three
+66,lassen,0.0029,to let
+66,bleiben,0.0027,stay
+66,wahl,0.0027,choice
+66,cdu,0.0027,cdu
+66,politik,0.0027,politics
+66,deshalb,0.0026,that's why
+66,kritik,0.0026,criticism
+66,immer,0.0026,always
+66,beide,0.0025,both
+66,hoch,0.0025,high
+66,gut,0.0025,Good
+67,sagen,0.0248,say
+67,dass,0.0204,that
+67,jahr,0.0126,year
+67,deutschland,0.0111,Germany
+67,spd,0.0103,spd
+67,lafontaine,0.0101,lafontaine
+67,union,0.0078,union
+67,berlin,0.0077,Berlin
+67,geben,0.0075,give
+67,cdu,0.0072,cdu
+67,müssen,0.007,have to
+67,neu,0.0066,New
+67,immer,0.0061,always
+67,kommen,0.006,come
+67,groß,0.0059,big
+67,viele,0.0059,lots
+67,deutsch,0.0057,German
+67,mehr,0.0052,more
+67,sehen,0.0051,see
+67,merkel,0.0049,merkel
+67,erst,0.0047,first
+67,stoiber,0.0044,stoiber
+67,tag,0.0043,Day
+67,mensch,0.0043,human
+67,online,0.0042,on-line
+67,klar,0.0042,clear
+67,gysi,0.0041,gysi
+67,ganz,0.0041,all
+67,halten,0.0041,hold
+67,fischer,0.0039,fisherman
+67,dürfen,0.0039,allowed
+67,pds,0.0038,pds
+67,gehen,0.0035,go
+67,finden,0.0034,Find
+67,bundesregierung,0.0034,federal government
+67,ministerpräsident,0.0034,prime minister
+67,fordern,0.0034,demand
+67,linkspartei,0.0033,left party
+67,politik,0.0033,politics
+67,nehmen,0.0033,to take
+67,euro,0.0033,Euro
+67,liegen,0.0033,lie
+67,wenige,0.0033,few
+67,zeigen,0.0031,demonstrate
+67,wissen,0.0031,knowledge
+67,angela,0.0031,angela
+67,bereits,0.003,already
+67,schröder,0.003,Schroeder
+67,wegen,0.0029,because of
+67,zeit,0.0028,Time
+68,prozent,0.0177,percent
+68,spd,0.0172,spd
+68,sagen,0.0142,say
+68,cdu,0.0095,cdu
+68,berlin,0.0087,Berlin
+68,gut,0.0084,Good
+68,partei,0.0075,party
+68,erst,0.007,first
+68,neu,0.0069,New
+68,grüne,0.0069,green
+68,liegen,0.0054,lie
+68,politisch,0.0053,politically
+68,spiegel,0.0053,mirror
+68,merkel,0.0051,merkel
+68,zwei,0.005,two
+68,deutschland,0.0046,Germany
+68,wahl,0.0045,choice
+68,mehr,0.0044,more
+68,land,0.0043,country
+68,woche,0.0043,week
+68,deutsch,0.0043,German
+68,jahr,0.0042,year
+68,fdp,0.0042,fdp
+68,halten,0.0042,hold
+68,regierung,0.0041,government
+68,stellen,0.004,put
+68,bereits,0.004,already
+68,dass,0.0039,that
+68,online,0.0039,on-line
+68,dafür,0.0036,for this
+68,steinbrück,0.0035,steinbrück
+68,bundestag,0.0035,Bundestag
+68,ministerpräsident,0.0034,prime minister
+68,ganz,0.0034,all
+68,bleiben,0.0032,stay
+68,treffen,0.0032,to meet
+68,finden,0.0032,Find
+68,heute,0.0032,today
+68,fall,0.0031,case
+68,weit,0.0031,far
+68,deutlich,0.0031,clear
+68,euro,0.0031,Euro
+68,vergangen,0.0031,past
+68,bundesregierung,0.003,federal government
+68,sollen,0.0029,should
+68,sprechen,0.0028,speak
+68,dürfen,0.0027,allowed
+68,wenige,0.0027,few
+68,berliner,0.0027,Berliner
+68,bringen,0.0027,bring
+69,dass,0.0242,that
+69,prozent,0.019,percent
+69,sagen,0.0164,say
+69,union,0.0105,union
+69,kommen,0.0091,come
+69,fischer,0.0091,fisherman
+69,berlin,0.0079,Berlin
+69,fdp,0.0065,fdp
+69,schröder,0.0062,Schroeder
+69,punkt,0.006,Point
+69,gut,0.0059,Good
+69,spiegel,0.0055,mirror
+69,land,0.0054,country
+69,schon,0.0053,beautiful
+69,schulz,0.0049,schulz
+69,gehen,0.0047,go
+69,umfrage,0.0047,survey
+69,stehen,0.0046,stand
+69,bereits,0.0045,already
+69,ab,0.0044,from
+69,zwei,0.0043,two
+69,bundestagswahl,0.0042,bundestagswahl
+69,woche,0.0041,week
+69,geben,0.004,give
+69,müssen,0.004,have to
+69,drei,0.0039,three
+69,vergangen,0.0038,past
+69,liegen,0.0038,lie
+69,spd,0.0038,spd
+69,tag,0.0037,Day
+69,seit,0.0037,since
+69,kanzler,0.0036,chancellor
+69,grün,0.0036,green
+69,stellen,0.0036,put
+69,neu,0.0036,New
+69,wahlkampf,0.0035,electioneering
+69,mehr,0.0032,more
+69,lassen,0.0032,to let
+69,groß,0.0031,big
+69,letzt,0.003,last
+69,weit,0.003,far
+69,dabei,0.0029,there
+69,klar,0.0029,clear
+69,rund,0.0029,round
+69,mensch,0.0029,human
+69,mehrheit,0.0028,majority
+69,halten,0.0027,hold
+69,heute,0.0027,today
+69,deshalb,0.0027,that's why
+69,tun,0.0027,do
+70,dass,0.0317,that
+70,partei,0.0138,party
+70,sagen,0.0133,say
+70,jahr,0.0112,year
+70,berlin,0.0097,Berlin
+70,spd,0.0075,spd
+70,politisch,0.007,politically
+70,geben,0.0067,give
+70,kommen,0.0057,come
+70,lassen,0.0052,to let
+70,euro,0.0051,Euro
+70,woche,0.0045,week
+70,immer,0.0042,always
+70,fall,0.004,case
+70,neu,0.004,New
+70,mensch,0.004,human
+70,schon,0.004,beautiful
+70,heißen,0.004,be called
+70,sollen,0.0038,should
+70,wegen,0.0037,because of
+70,sehen,0.0036,see
+70,tag,0.0035,Day
+70,beide,0.0035,both
+70,zeigen,0.0034,demonstrate
+70,möglich,0.0034,possible
+70,deutsch,0.0034,German
+70,zeitung,0.0033,newspaper
+70,berliner,0.0032,Berliner
+70,koalition,0.0032,coalition
+70,bundestagswahl,0.0031,bundestagswahl
+70,fordern,0.0031,demand
+70,bleiben,0.003,stay
+70,ganz,0.003,all
+70,land,0.003,country
+70,stellen,0.0029,put
+70,ende,0.0028,The End
+70,liegen,0.0028,lie
+70,pds,0.0027,pds
+70,monat,0.0027,month
+70,etwa,0.0026,about
+70,ab,0.0026,from
+70,problem,0.0026,problem
+70,recht,0.0026,Law
+70,rund,0.0025,round
+70,lafontaine,0.0025,lafontaine
+70,september,0.0024,September
+70,erklären,0.0024,to explain
+70,schröder,0.0024,Schroeder
+70,bund,0.0023,Federation
+70,gerhard,0.0023,gerhard
+71,dass,0.0281,that
+71,jahr,0.0139,year
+71,müssen,0.0101,have to
+71,deutschland,0.0091,Germany
+71,gehen,0.0076,go
+71,gut,0.0076,Good
+71,sehen,0.0068,see
+71,merkel,0.0064,merkel
+71,kind,0.0059,child
+71,politisch,0.0056,politically
+71,mensch,0.0054,human
+71,groß,0.0049,big
+71,land,0.0047,country
+71,euro,0.0044,Euro
+71,erklären,0.0044,to explain
+71,weit,0.0044,far
+71,frau,0.0043,Mrs
+71,mehr,0.0042,more
+71,tag,0.0042,Day
+71,viele,0.0041,lots
+71,schon,0.0041,beautiful
+71,sagen,0.004,say
+71,woche,0.004,week
+71,bleiben,0.004,stay
+71,halten,0.004,hold
+71,bundesregierung,0.0039,federal government
+71,finden,0.0036,Find
+71,gelten,0.0035,be valid
+71,frage,0.0034,question
+71,beide,0.0034,both
+71,wissen,0.0034,knowledge
+71,berlin,0.0033,Berlin
+71,treffen,0.0033,to meet
+71,geben,0.0033,give
+71,immer,0.0033,always
+71,heute,0.0033,today
+71,kommen,0.0031,come
+71,möglich,0.0031,possible
+71,wer,0.0028,who
+71,regierung,0.0028,government
+71,gesetz,0.0028,law
+71,milliarde,0.0028,billion
+71,führen,0.0028,to lead
+71,deutsch,0.0027,German
+71,erst,0.0027,first
+71,sprechen,0.0026,speak
+71,staat,0.0026,Country
+71,wichtig,0.0025,important
+71,million,0.0025,million
+71,recht,0.0025,Law
+72,dass,0.0257,that
+72,sagen,0.0234,say
+72,spd,0.0157,spd
+72,geben,0.0131,give
+72,jahr,0.0128,year
+72,merkel,0.011,merkel
+72,deutsch,0.0087,German
+72,gut,0.0085,Good
+72,schröder,0.0081,Schroeder
+72,mehr,0.0081,more
+72,land,0.0074,country
+72,stehen,0.0067,stand
+72,prozent,0.0063,percent
+72,berlin,0.0052,Berlin
+72,cdu,0.0048,cdu
+72,stellen,0.0046,put
+72,neu,0.0045,New
+72,gehen,0.0044,go
+72,sprechen,0.0043,speak
+72,halten,0.0042,hold
+72,bleiben,0.0042,stay
+72,online,0.0041,on-line
+72,csu,0.0041,Christian Social Union
+72,liegen,0.0039,lie
+72,woche,0.0038,week
+72,eigen,0.0037,own
+72,erklären,0.0037,to explain
+72,kommen,0.0035,come
+72,ministerpräsident,0.0034,prime minister
+72,steinmeier,0.0034,steinmeier
+72,bundesregierung,0.0034,federal government
+72,schon,0.0033,beautiful
+72,grüne,0.0033,green
+72,beide,0.0031,both
+72,rotgrün,0.0031,Red Green
+72,entscheidung,0.003,decision
+72,müssen,0.0029,have to
+72,wer,0.0027,who
+72,stark,0.0027,strongly
+72,nah,0.0027,close
+72,lang,0.0027,long
+72,gemeinsam,0.0026,together
+72,wenige,0.0026,few
+72,bund,0.0025,Federation
+72,kanzler,0.0025,chancellor
+72,drei,0.0025,three
+72,politik,0.0025,politics
+72,führen,0.0025,to lead
+72,viele,0.0025,lots
+72,umfrage,0.0024,survey
+73,dass,0.0276,that
+73,sagen,0.0138,say
+73,deutschland,0.0132,Germany
+73,jahr,0.0114,year
+73,deutsch,0.0107,German
+73,mehr,0.0094,more
+73,müssen,0.0091,have to
+73,merkel,0.0084,merkel
+73,geben,0.0074,give
+73,berlin,0.0071,Berlin
+73,schon,0.0063,beautiful
+73,cdu,0.0056,cdu
+73,mensch,0.0051,human
+73,seit,0.0047,since
+73,lassen,0.0043,to let
+73,weit,0.0037,far
+73,ende,0.0037,The End
+73,tag,0.0036,Day
+73,fordern,0.0036,demand
+73,immer,0.0035,always
+73,finden,0.0035,Find
+73,zeit,0.0034,Time
+73,erklären,0.0033,to explain
+73,nehmen,0.0033,to take
+73,wenige,0.0033,few
+73,beide,0.0032,both
+73,schröder,0.0032,Schroeder
+73,recht,0.0031,Law
+73,gut,0.0031,Good
+73,heute,0.003,today
+73,soldat,0.0029,soldier
+73,gehen,0.0029,go
+73,politisch,0.0028,politically
+73,zwei,0.0028,two
+73,kommen,0.0027,come
+73,spd,0.0027,spd
+73,fischer,0.0027,fisherman
+73,treffen,0.0027,to meet
+73,sprechen,0.0027,speak
+73,klar,0.0026,clear
+73,jung,0.0026,young
+73,neu,0.0026,New
+73,wegen,0.0026,because of
+73,halten,0.0026,hold
+73,angela,0.0025,angela
+73,problem,0.0025,problem
+73,bundeswehr,0.0025,Bundeswehr
+73,eigen,0.0025,own
+73,führen,0.0025,to lead
+73,heißen,0.0024,be called
+74,sagen,0.0271,say
+74,jahr,0.0131,year
+74,geben,0.013,give
+74,csu,0.0086,Christian Social Union
+74,union,0.0086,union
+74,kommen,0.0085,come
+74,merkel,0.0085,merkel
+74,spd,0.0077,spd
+74,dass,0.007,that
+74,prozent,0.0066,percent
+74,partei,0.0066,party
+74,sehen,0.0063,see
+74,gehen,0.006,go
+74,schon,0.0056,beautiful
+74,seit,0.0055,since
+74,frage,0.005,question
+74,müssen,0.0046,have to
+74,ab,0.0045,from
+74,gut,0.0044,Good
+74,online,0.0044,on-line
+74,mehr,0.0044,more
+74,fdp,0.0042,fdp
+74,erst,0.0042,first
+74,berlin,0.0042,Berlin
+74,cdu,0.004,cdu
+74,tag,0.0039,Day
+74,bundestag,0.0039,Bundestag
+74,stehen,0.0038,stand
+74,beide,0.0037,both
+74,dafür,0.0037,for this
+74,nehmen,0.0036,to take
+74,bleiben,0.0036,stay
+74,weit,0.0036,far
+74,deutsch,0.0035,German
+74,ganz,0.0034,all
+74,bundesregierung,0.0034,federal government
+74,stellen,0.0033,put
+74,bayern,0.0033,Bavaria
+74,seehofer,0.0032,seehofer
+74,wegen,0.0031,because of
+74,viele,0.0031,lots
+74,ergebnis,0.003,Result
+74,wer,0.0029,who
+74,deshalb,0.0029,that's why
+74,entscheidung,0.0027,decision
+74,wahlkampf,0.0027,electioneering
+74,treffen,0.0027,to meet
+74,bekommen,0.0027,get
+74,früh,0.0026,early
+74,zeigen,0.0025,demonstrate
+75,prozent,0.0179,percent
+75,spd,0.0175,spd
+75,dass,0.0146,that
+75,partei,0.0119,party
+75,berlin,0.009,Berlin
+75,sagen,0.0089,say
+75,cdu,0.0082,cdu
+75,groß,0.0081,big
+75,müssen,0.007,have to
+75,sollen,0.0064,should
+75,sehen,0.0062,see
+75,politisch,0.0061,politically
+75,merkel,0.0058,merkel
+75,stehen,0.0057,stand
+75,geben,0.0056,give
+75,union,0.0055,union
+75,althaus,0.0053,althaus
+75,immer,0.0049,always
+75,mehr,0.0048,more
+75,zwei,0.0048,two
+75,schon,0.0048,beautiful
+75,euro,0.0048,Euro
+75,deutschland,0.0048,Germany
+75,ministerpräsident,0.0047,prime minister
+75,land,0.0047,country
+75,gehen,0.0044,go
+75,stoiber,0.0042,stoiber
+75,erst,0.0041,first
+75,mensch,0.0041,human
+75,jahr,0.004,year
+75,seit,0.0039,since
+75,lassen,0.0039,to let
+75,vergangen,0.0039,past
+75,ab,0.0037,from
+75,neu,0.0036,New
+75,liegen,0.0036,lie
+75,sprechen,0.0035,speak
+75,fdp,0.0034,fdp
+75,erklären,0.0034,to explain
+75,stellen,0.0034,put
+75,csu,0.0033,Christian Social Union
+75,bereits,0.0033,already
+75,bundesregierung,0.0032,federal government
+75,weit,0.0032,far
+75,rotgrün,0.0031,Red Green
+75,mehrheit,0.003,majority
+75,bundestagswahl,0.003,bundestagswahl
+75,angela,0.0028,angela
+75,dafür,0.0027,for this
+75,umfrage,0.0027,survey
+76,berlin,0.0116,Berlin
+76,jahr,0.01,year
+76,dass,0.0085,that
+76,geben,0.0085,give
+76,union,0.0081,union
+76,gehen,0.0065,go
+76,mehr,0.0065,more
+76,spd,0.0059,spd
+76,sagen,0.0056,say
+76,gut,0.0053,Good
+76,deutschland,0.0053,Germany
+76,land,0.0052,country
+76,dürfen,0.0052,allowed
+76,bundestag,0.0051,Bundestag
+76,sollen,0.0051,should
+76,stehen,0.005,stand
+76,csu,0.0047,Christian Social Union
+76,bundesregierung,0.0046,federal government
+76,neu,0.0045,New
+76,erklären,0.0045,to explain
+76,sehen,0.0044,see
+76,immer,0.0044,always
+76,vergangen,0.0043,past
+76,mensch,0.0041,human
+76,groß,0.004,big
+76,seehofer,0.0039,seehofer
+76,online,0.0038,on-line
+76,deutsch,0.0038,German
+76,partei,0.0037,party
+76,eigen,0.0036,own
+76,seit,0.0035,since
+76,müssen,0.0034,have to
+76,wissen,0.0034,knowledge
+76,schon,0.0034,beautiful
+76,kommen,0.0033,come
+76,heute,0.0033,today
+76,rund,0.0033,round
+76,halten,0.0032,hold
+76,koalition,0.0031,coalition
+76,stoiber,0.0031,stoiber
+76,kanzlerin,0.0031,Chancellor
+76,wichtig,0.0029,important
+76,führen,0.0028,to lead
+76,jedoch,0.0027,however
+76,möglich,0.0027,possible
+76,dabei,0.0027,there
+76,deshalb,0.0026,that's why
+76,gelten,0.0026,be valid
+76,fall,0.0026,case
+76,frage,0.0026,question
+77,sagen,0.0243,say
+77,geben,0.0147,give
+77,müssen,0.011,have to
+77,prozent,0.0105,percent
+77,jahr,0.0104,year
+77,sollen,0.0081,should
+77,berlin,0.0069,Berlin
+77,csu,0.0066,Christian Social Union
+77,dass,0.0063,that
+77,deutsch,0.0057,German
+77,neu,0.0056,New
+77,groß,0.0055,big
+77,seehofer,0.0052,seehofer
+77,bundestag,0.0046,Bundestag
+77,bleiben,0.0045,stay
+77,grüne,0.0042,green
+77,spiegel,0.0041,mirror
+77,mehr,0.0041,more
+77,bundesregierung,0.004,federal government
+77,kommen,0.004,come
+77,merkel,0.004,merkel
+77,lassen,0.0038,to let
+77,politisch,0.0038,politically
+77,gut,0.0037,Good
+77,vergangen,0.0036,past
+77,beide,0.0035,both
+77,ab,0.0034,from
+77,regierung,0.0031,government
+77,hoch,0.0031,high
+77,zwei,0.0031,two
+77,union,0.0031,union
+77,woche,0.0031,week
+77,milliarde,0.003,billion
+77,bund,0.003,Federation
+77,darauf,0.003,thereon
+77,mensch,0.0029,human
+77,fall,0.0029,case
+77,stellen,0.0029,put
+77,allerdings,0.0029,Indeed
+77,heißen,0.0029,be called
+77,partei,0.0028,party
+77,zeitung,0.0028,newspaper
+77,zeit,0.0028,Time
+77,wahl,0.0027,choice
+77,bayerisch,0.0026,Bavarian
+77,cdu,0.0026,cdu
+77,jedoch,0.0026,however
+77,eigen,0.0026,own
+77,weit,0.0025,far
+77,gesetz,0.0025,law
+78,sagen,0.0161,say
+78,merkel,0.0126,merkel
+78,cdu,0.01,cdu
+78,neu,0.0094,New
+78,müssen,0.0093,have to
+78,dass,0.0082,that
+78,deutschland,0.008,Germany
+78,csu,0.0077,Christian Social Union
+78,gehen,0.0063,go
+78,spiegel,0.0061,mirror
+78,erst,0.0056,first
+78,seehofer,0.0054,seehofer
+78,dürfen,0.0053,allowed
+78,union,0.0051,union
+78,frage,0.005,question
+78,stellen,0.0049,put
+78,kommen,0.0046,come
+78,weit,0.0045,far
+78,klar,0.0043,clear
+78,woche,0.0043,week
+78,bleiben,0.0042,stay
+78,schon,0.0041,beautiful
+78,land,0.0041,country
+78,gut,0.0041,Good
+78,seit,0.004,since
+78,immer,0.004,always
+78,angela,0.004,angela
+78,sprechen,0.0039,speak
+78,viele,0.0038,lots
+78,berlin,0.0038,Berlin
+78,heißen,0.0038,be called
+78,koalition,0.0037,coalition
+78,ende,0.0036,The End
+78,ministerpräsident,0.0036,prime minister
+78,jahr,0.0035,year
+78,deutsch,0.0034,German
+78,allerdings,0.0033,Indeed
+78,steinmeier,0.0032,steinmeier
+78,partei,0.0031,party
+78,fdp,0.0031,fdp
+78,thema,0.003,theme
+78,liegen,0.003,lie
+78,schröder,0.003,Schroeder
+78,million,0.0028,million
+78,milliarde,0.0028,billion
+78,möglich,0.0028,possible
+78,wenige,0.0026,few
+78,problem,0.0026,problem
+78,geben,0.0025,give
+78,zurück,0.0025,back
+79,dass,0.0315,that
+79,jahr,0.0141,year
+79,erst,0.0088,first
+79,deutsch,0.0087,German
+79,neu,0.0078,New
+79,online,0.0074,on-line
+79,berlin,0.0072,Berlin
+79,schon,0.007,beautiful
+79,cdu,0.0066,cdu
+79,prozent,0.0063,percent
+79,geben,0.0061,give
+79,kommen,0.0061,come
+79,frage,0.0057,question
+79,politisch,0.0057,politically
+79,sollen,0.0053,should
+79,merkel,0.0051,merkel
+79,grüne,0.0049,green
+79,ganz,0.0048,all
+79,gehen,0.0048,go
+79,partei,0.0047,party
+79,gut,0.0046,Good
+79,sagen,0.0046,say
+79,müssen,0.0043,have to
+79,eigen,0.0042,own
+79,zwei,0.0042,two
+79,bleiben,0.0041,stay
+79,halten,0.0039,hold
+79,wahl,0.0037,choice
+79,weit,0.0037,far
+79,tag,0.0037,Day
+79,spiegel,0.0036,mirror
+79,stehen,0.0035,stand
+79,mehr,0.0034,more
+79,wenige,0.0034,few
+79,spiegeln,0.0033,reflect
+79,steinbrück,0.0033,steinbrück
+79,mal,0.0033,times
+79,sprechen,0.0033,speak
+79,thema,0.0032,theme
+79,land,0.0032,country
+79,letzt,0.0029,last
+79,recht,0.0029,Law
+79,entscheidung,0.0029,decision
+79,darauf,0.0028,thereon
+79,stark,0.0028,strongly
+79,wahlkampf,0.0027,electioneering
+79,gerade,0.0027,just
+79,wichtig,0.0026,important
+79,allerdings,0.0025,Indeed
+79,angela,0.0025,angela
+80,dass,0.0163,that
+80,jahr,0.0144,year
+80,spd,0.0114,spd
+80,erst,0.0092,first
+80,partei,0.0085,party
+80,gehen,0.0084,go
+80,land,0.0084,country
+80,sagen,0.0079,say
+80,groß,0.0072,big
+80,merkel,0.0069,merkel
+80,seehofer,0.0067,seehofer
+80,csu,0.0067,Christian Social Union
+80,mehr,0.0062,more
+80,cdu,0.0057,cdu
+80,geben,0.0053,give
+80,bleiben,0.0048,stay
+80,schon,0.0047,beautiful
+80,lassen,0.0047,to let
+80,zwei,0.0046,two
+80,immer,0.0046,always
+80,viele,0.0046,lots
+80,deutschland,0.0045,Germany
+80,ende,0.0043,The End
+80,sollen,0.0043,should
+80,vergangen,0.0041,past
+80,eigen,0.0041,own
+80,euro,0.0041,Euro
+80,stehen,0.0039,stand
+80,seit,0.0038,since
+80,zeigen,0.0037,demonstrate
+80,tag,0.0037,Day
+80,wenige,0.0035,few
+80,klar,0.0035,clear
+80,gemeinsam,0.0035,together
+80,fall,0.0034,case
+80,finden,0.0034,Find
+80,fdp,0.0034,fdp
+80,dafür,0.0033,for this
+80,frage,0.0033,question
+80,etwa,0.0033,about
+80,zeit,0.0032,Time
+80,fordern,0.0031,demand
+80,spiegel,0.0031,mirror
+80,ab,0.003,from
+80,woche,0.003,week
+80,ja,0.0029,Yes
+80,recht,0.0029,Law
+80,mensch,0.0029,human
+80,heute,0.0029,today
+80,dabei,0.0028,there
+81,sagen,0.0208,say
+81,dass,0.0206,that
+81,müssen,0.0096,have to
+81,mehr,0.0095,more
+81,gut,0.0087,Good
+81,jahr,0.0086,year
+81,schon,0.0085,beautiful
+81,geben,0.008,give
+81,prozent,0.0073,percent
+81,union,0.0072,union
+81,sollen,0.0064,should
+81,steinbrück,0.0055,steinbrück
+81,land,0.0054,country
+81,gehen,0.0053,go
+81,berlin,0.0051,Berlin
+81,erst,0.0046,first
+81,ganz,0.0045,all
+81,neu,0.0044,New
+81,groß,0.0043,big
+81,schröder,0.0043,Schroeder
+81,ab,0.004,from
+81,zeit,0.004,Time
+81,cdu,0.004,cdu
+81,online,0.0039,on-line
+81,finden,0.0038,Find
+81,fischer,0.0037,fisherman
+81,partei,0.0037,party
+81,ende,0.0036,The End
+81,deutschland,0.0036,Germany
+81,thema,0.0035,theme
+81,weit,0.0035,far
+81,mensch,0.0034,human
+81,rede,0.0033,speech
+81,wenige,0.0032,few
+81,nehmen,0.0032,to take
+81,sprechen,0.0032,speak
+81,bleiben,0.0032,stay
+81,klar,0.003,clear
+81,seehofer,0.003,seehofer
+81,dürfen,0.0029,allowed
+81,stark,0.0028,strongly
+81,viele,0.0028,lots
+81,stehen,0.0028,stand
+81,tag,0.0027,Day
+81,spiegel,0.0027,mirror
+81,hoch,0.0027,high
+81,zeigen,0.0027,demonstrate
+81,recht,0.0027,Law
+81,wahlkampf,0.0027,electioneering
+81,mal,0.0026,times
+82,seehofer,0.0262,seehofer
+82,merkel,0.0225,merkel
+82,jahr,0.0117,year
+82,prozent,0.0079,percent
+82,schon,0.0078,beautiful
+82,gehen,0.0076,go
+82,kommen,0.0076,come
+82,partei,0.0075,party
+82,csu,0.007,Christian Social Union
+82,schröder,0.0069,Schroeder
+82,berlin,0.0066,Berlin
+82,kanzlerin,0.0061,Chancellor
+82,cdu,0.0059,cdu
+82,gut,0.0058,Good
+82,stoiber,0.0057,stoiber
+82,steinbrück,0.0053,steinbrück
+82,koalition,0.0052,coalition
+82,union,0.0051,union
+82,tag,0.005,Day
+82,bundestag,0.005,Bundestag
+82,bayern,0.0049,Bavaria
+82,lassen,0.0048,to let
+82,euro,0.0047,Euro
+82,erst,0.0046,first
+82,müssen,0.0046,have to
+82,groß,0.0045,big
+82,dass,0.0044,that
+82,stehen,0.0043,stand
+82,sagen,0.0041,say
+82,bereits,0.004,already
+82,bayerisch,0.0039,Bavarian
+82,fdp,0.0038,fdp
+82,neu,0.0037,New
+82,zeit,0.0037,Time
+82,ganz,0.0036,all
+82,ende,0.0035,The End
+82,klar,0.0035,clear
+82,land,0.0033,country
+82,liegen,0.0032,lie
+82,heißen,0.003,be called
+82,fordern,0.0029,demand
+82,weit,0.0029,far
+82,beide,0.0029,both
+82,steinmeier,0.0029,steinmeier
+82,fall,0.0029,case
+82,frau,0.0029,Mrs
+82,bundestagswahl,0.0029,bundestagswahl
+82,eigen,0.0027,own
+82,hoch,0.0027,high
+82,zeitung,0.0027,newspaper
+83,sagen,0.0332,say
+83,dass,0.0282,that
+83,geben,0.0154,give
+83,spd,0.0128,spd
+83,deutsch,0.0092,German
+83,union,0.0077,union
+83,kommen,0.0074,come
+83,müssen,0.0064,have to
+83,prozent,0.0061,percent
+83,partei,0.0057,party
+83,stehen,0.0054,stand
+83,euro,0.0051,Euro
+83,gut,0.005,Good
+83,viele,0.0048,lots
+83,sprechen,0.0046,speak
+83,woche,0.0045,week
+83,gehen,0.0043,go
+83,frage,0.0042,question
+83,ab,0.0042,from
+83,koalition,0.0041,coalition
+83,online,0.0041,on-line
+83,dafür,0.0041,for this
+83,berlin,0.004,Berlin
+83,möglich,0.0039,possible
+83,bundestag,0.0038,Bundestag
+83,schon,0.0038,beautiful
+83,grüne,0.0037,green
+83,fordern,0.0036,demand
+83,erst,0.0035,first
+83,gelten,0.0034,be valid
+83,frau,0.0034,Mrs
+83,spiegel,0.0032,mirror
+83,eigen,0.0032,own
+83,mann,0.003,man
+83,gemeinsam,0.0028,together
+83,weit,0.0028,far
+83,thema,0.0028,theme
+83,neu,0.0027,New
+83,nennen,0.0027,call
+83,heute,0.0027,today
+83,ende,0.0027,The End
+83,etwa,0.0026,about
+83,stark,0.0026,strongly
+83,deutlich,0.0025,clear
+83,mensch,0.0025,human
+83,laut,0.0024,according to
+83,hoch,0.0024,high
+83,politik,0.0023,politics
+83,lassen,0.0023,to let
+83,fall,0.0023,case
+84,sagen,0.0194,say
+84,geben,0.0148,give
+84,mehr,0.0114,more
+84,berlin,0.01,Berlin
+84,deutschland,0.0085,Germany
+84,online,0.0068,on-line
+84,spiegel,0.0066,mirror
+84,land,0.0066,country
+84,union,0.0066,union
+84,cdu,0.0062,cdu
+84,schon,0.0062,beautiful
+84,deutsch,0.0058,German
+84,lassen,0.0055,to let
+84,dass,0.0055,that
+84,sollen,0.0053,should
+84,stehen,0.0052,stand
+84,jahr,0.0052,year
+84,sehen,0.0047,see
+84,csu,0.0044,Christian Social Union
+84,groß,0.0043,big
+84,halten,0.0042,hold
+84,fordern,0.0041,demand
+84,fall,0.0041,case
+84,wegen,0.004,because of
+84,bundestag,0.0039,Bundestag
+84,viele,0.0039,lots
+84,politisch,0.0038,politically
+84,allerdings,0.0037,Indeed
+84,seit,0.0037,since
+84,woche,0.0037,week
+84,müssen,0.0036,have to
+84,eigen,0.0035,own
+84,stellen,0.0034,put
+84,frage,0.0033,question
+84,beide,0.0033,both
+84,partei,0.0032,party
+84,fdp,0.0031,fdp
+84,dafür,0.0031,for this
+84,berliner,0.003,Berliner
+84,klar,0.003,clear
+84,gemeinsam,0.0029,together
+84,darauf,0.0029,thereon
+84,heißen,0.0028,be called
+84,ja,0.0027,Yes
+84,jung,0.0027,young
+84,spiegeln,0.0027,reflect
+84,heute,0.0027,today
+84,jedoch,0.0027,however
+84,drei,0.0026,three
+84,grüne,0.0025,green
+85,sagen,0.0191,say
+85,spd,0.0148,spd
+85,jahr,0.0122,year
+85,prozent,0.0114,percent
+85,mehr,0.0107,more
+85,müssen,0.009,have to
+85,gut,0.0068,Good
+85,land,0.0064,country
+85,bundestag,0.0055,Bundestag
+85,schröder,0.0054,Schroeder
+85,sollen,0.0053,should
+85,liegen,0.0049,lie
+85,lassen,0.0049,to let
+85,euro,0.0048,Euro
+85,schon,0.0046,beautiful
+85,cdu,0.0045,cdu
+85,stellen,0.0044,put
+85,bundesregierung,0.0044,federal government
+85,union,0.0042,union
+85,weit,0.0042,far
+85,stehen,0.0041,stand
+85,deutsch,0.004,German
+85,dafür,0.004,for this
+85,eigen,0.0039,own
+85,zwei,0.0039,two
+85,möglich,0.0039,possible
+85,gehen,0.0038,go
+85,ganz,0.0037,all
+85,tag,0.0037,Day
+85,fordern,0.0037,demand
+85,klar,0.0036,clear
+85,allerdings,0.0034,Indeed
+85,drei,0.0033,three
+85,frage,0.0032,question
+85,finden,0.003,Find
+85,dürfen,0.003,allowed
+85,woche,0.0029,week
+85,mal,0.0029,times
+85,führen,0.0029,to lead
+85,kanzler,0.0028,chancellor
+85,vergangen,0.0028,past
+85,koalition,0.0027,coalition
+85,müntefering,0.0026,müntefering
+85,politik,0.0026,politics
+85,partei,0.0026,party
+85,beide,0.0026,both
+85,seit,0.0025,since
+85,wichtig,0.0025,important
+85,gerhard,0.0025,gerhard
+85,wahl,0.0025,choice
+86,dass,0.0204,that
+86,sagen,0.0195,say
+86,merkel,0.0107,merkel
+86,partei,0.01,party
+86,müssen,0.009,have to
+86,cdu,0.0088,cdu
+86,berlin,0.0087,Berlin
+86,geben,0.0075,give
+86,gehen,0.0074,go
+86,erst,0.0074,first
+86,kommen,0.0073,come
+86,deutsch,0.0069,German
+86,schon,0.0056,beautiful
+86,groß,0.0055,big
+86,steinbrück,0.0055,steinbrück
+86,sehen,0.0049,see
+86,online,0.0047,on-line
+86,immer,0.0044,always
+86,deutschland,0.0044,Germany
+86,stellen,0.004,put
+86,spiegel,0.004,mirror
+86,mehr,0.0039,more
+86,sprechen,0.0039,speak
+86,ende,0.0039,The End
+86,euro,0.0039,Euro
+86,sollen,0.0038,should
+86,woche,0.0037,week
+86,möglich,0.0037,possible
+86,koalition,0.0036,coalition
+86,fdp,0.0036,fdp
+86,regierung,0.0036,government
+86,bundestag,0.0035,Bundestag
+86,frage,0.0035,question
+86,land,0.0035,country
+86,prozent,0.0033,percent
+86,eigen,0.0033,own
+86,mensch,0.0033,human
+86,halten,0.0033,hold
+86,bleiben,0.0032,stay
+86,heißen,0.0031,be called
+86,milliarde,0.0031,billion
+86,rotgrün,0.003,Red Green
+86,viele,0.003,lots
+86,nehmen,0.003,to take
+86,fischer,0.0028,fisherman
+86,dürfen,0.0028,allowed
+86,lassen,0.0028,to let
+86,grüne,0.0028,green
+86,bundesregierung,0.0027,federal government
+86,mal,0.0027,times
+87,dass,0.0186,that
+87,geben,0.0137,give
+87,jahr,0.0095,year
+87,cdu,0.0091,cdu
+87,union,0.0091,union
+87,sagen,0.0086,say
+87,spd,0.0076,spd
+87,schon,0.0073,beautiful
+87,groß,0.0073,big
+87,neu,0.0073,New
+87,partei,0.0072,party
+87,berlin,0.0071,Berlin
+87,kommen,0.0069,come
+87,sehen,0.0064,see
+87,koalition,0.0061,coalition
+87,steinmeier,0.0055,steinmeier
+87,gehen,0.0052,go
+87,immer,0.0051,always
+87,bereits,0.0047,already
+87,euro,0.0047,Euro
+87,halten,0.0045,hold
+87,deutsch,0.0044,German
+87,sollen,0.0044,should
+87,gabriel,0.0043,gabriel
+87,online,0.0043,on-line
+87,bleiben,0.0042,stay
+87,bundestag,0.0041,Bundestag
+87,dürfen,0.004,allowed
+87,wahl,0.0038,choice
+87,spiegel,0.0037,mirror
+87,müssen,0.0036,have to
+87,heißen,0.0036,be called
+87,liegen,0.0036,lie
+87,ab,0.0033,from
+87,weit,0.0032,far
+87,allerdings,0.0032,Indeed
+87,sprechen,0.0031,speak
+87,drei,0.0031,three
+87,sozialdemokrat,0.0031,Social
+87,woche,0.0031,week
+87,schröder,0.0031,Schroeder
+87,fdp,0.0031,fdp
+87,regierung,0.003,government
+87,politisch,0.003,politically
+87,prozent,0.003,percent
+87,ganz,0.003,all
+87,wenige,0.0029,few
+87,kanzlerin,0.0028,Chancellor
+87,zeigen,0.0028,demonstrate
+87,ende,0.0027,The End
+88,uhr,0.0757,Clock
+88,polizei,0.0561,police
+88,anschlag,0.0503,attack
+88,mutmaßlich,0.0167,presumed
+88,täter,0.0162,offender
+88,opfer,0.0161,Victim
+88,berliner,0.0137,Berliner
+88,ermittler,0.0133,investigator
+88,verdächtig,0.0129,suspicious
+88,verletzen,0.0128,hurt
+88,ermittlung,0.0123,detection
+88,polizist,0.0123,police officer
+88,berlin,0.0117,Berlin
+88,maizière,0.011,Maiziere
+88,dass,0.0098,that
+88,sagen,0.0098,say
+88,mann,0.0096,man
+88,de,0.0096,de
+88,sicherheitsbehörde,0.0084,safety authority
+88,verdächtige,0.0082,suspicious
+88,hinweis,0.007,Note
+88,attentäter,0.0067,assassin
+88,festnehmen,0.0067,arrest
+88,töten,0.0065,kill
+88,teilen,0.0064,divide
+88,angehörige,0.0062,member
+88,innenminister,0.006,Home Secretary
+88,terroranschlag,0.0059,terrorist attack
+88,tat,0.0059,did
+88,berichten,0.0059,to report
+88,geben,0.0058,give
+88,ort,0.0056,place
+88,behörde,0.0052,authority
+88,montagabend,0.0047,Monday evening
+88,terroristisch,0.0047,terrorist
+88,twitter,0.0045,twitter
+88,bundesanwaltschaft,0.0044,Attorney General
+88,festnahme,0.0044,arrest
+88,angabe,0.0043,specification
+88,tor,0.0041,gate
+88,italien,0.0041,Italy
+88,kontakt,0.0041,Contact
+88,zwölf,0.0041,twelve
+88,mensch,0.004,human
+88,leben,0.004,Life
+88,familie,0.004,family
+88,terror,0.0038,terror
+88,terrorist,0.0038,terrorist
+88,verdächtigen,0.0038,suspect
+88,islamisch,0.0038,Islamic
+89,sagen,0.0349,say
+89,geben,0.014,give
+89,dass,0.0107,that
+89,prozent,0.0106,percent
+89,union,0.0082,union
+89,spd,0.008,spd
+89,berlin,0.0071,Berlin
+89,schon,0.0068,beautiful
+89,deutschland,0.0064,Germany
+89,gehen,0.0059,go
+89,merkel,0.0058,merkel
+89,jahr,0.0056,year
+89,koalition,0.0055,coalition
+89,partei,0.0054,party
+89,stehen,0.0053,stand
+89,politisch,0.0052,politically
+89,immer,0.005,always
+89,mehr,0.0048,more
+89,regierung,0.0047,government
+89,bundestag,0.0046,Bundestag
+89,cdu,0.0045,cdu
+89,weit,0.0042,far
+89,erklären,0.0042,to explain
+89,dürfen,0.004,allowed
+89,allerdings,0.0039,Indeed
+89,gut,0.0039,Good
+89,bundestagswahl,0.0038,bundestagswahl
+89,zeitung,0.0037,newspaper
+89,erst,0.0036,first
+89,deutsch,0.0035,German
+89,tag,0.0035,Day
+89,laut,0.0034,according to
+89,zeigen,0.0033,demonstrate
+89,schröder,0.0033,Schroeder
+89,groß,0.0033,big
+89,sehen,0.0032,see
+89,bereits,0.0032,already
+89,seit,0.0031,since
+89,sprechen,0.0031,speak
+89,heißen,0.0029,be called
+89,fall,0.0028,case
+89,ergebnis,0.0028,Result
+89,fdp,0.0028,fdp
+89,gemeinsam,0.0027,together
+89,dagegen,0.0027,on the other hand
+89,online,0.0026,on-line
+89,nennen,0.0026,call
+89,grün,0.0026,green
+89,rotgrün,0.0026,Red Green
+89,thema,0.0026,theme
+90,dass,0.0301,that
+90,schulz,0.015,schulz
+90,spd,0.0115,spd
+90,jahr,0.0114,year
+90,erst,0.0092,first
+90,gehen,0.0089,go
+90,merkel,0.0087,merkel
+90,groß,0.0079,big
+90,gut,0.0072,Good
+90,sehen,0.0061,see
+90,land,0.0058,country
+90,stehen,0.0056,stand
+90,geben,0.0052,give
+90,mensch,0.0051,human
+90,euro,0.0049,Euro
+90,schon,0.0045,beautiful
+90,sollen,0.0043,should
+90,wissen,0.004,knowledge
+90,sprechen,0.004,speak
+90,regierung,0.0037,government
+90,neu,0.0036,New
+90,berlin,0.0036,Berlin
+90,deutsch,0.0036,German
+90,zeigen,0.0035,demonstrate
+90,erklären,0.0035,to explain
+90,vergangen,0.0033,past
+90,ende,0.0033,The End
+90,weit,0.0032,far
+90,problem,0.0032,problem
+90,million,0.0032,million
+90,immer,0.0032,always
+90,müssen,0.0032,have to
+90,politisch,0.0031,politically
+90,bundestag,0.003,Bundestag
+90,schröder,0.003,Schroeder
+90,wahl,0.0029,choice
+90,politik,0.0029,politics
+90,viele,0.0029,lots
+90,wenige,0.0028,few
+90,steinbrück,0.0028,steinbrück
+90,frage,0.0027,question
+90,leben,0.0027,Life
+90,ganz,0.0027,all
+90,möglich,0.0026,possible
+90,monat,0.0026,month
+90,halten,0.0026,hold
+90,fdp,0.0026,fdp
+90,gelten,0.0025,be valid
+90,zurück,0.0025,back
+90,bundestagswahl,0.0024,bundestagswahl
+91,sagen,0.0313,say
+91,a,0.0267,a
+91,dass,0.0154,that
+91,i,0.0111,i
+91,berlin,0.0111,Berlin
+91,not,0.0087,distress
+91,jahr,0.0074,year
+91,mehr,0.0073,more
+91,groß,0.0065,big
+91,neu,0.0063,New
+91,geben,0.0061,give
+91,gut,0.006,Good
+91,stehen,0.0059,stand
+91,müssen,0.0056,have to
+91,kommen,0.0055,come
+91,seehofer,0.0055,seehofer
+91,deutsch,0.0049,German
+91,partei,0.0044,party
+91,csu,0.0039,Christian Social Union
+91,regierung,0.0036,government
+91,dafür,0.0036,for this
+91,tag,0.0034,Day
+91,halten,0.0034,hold
+91,spiegel,0.0033,mirror
+91,land,0.0033,country
+91,gehen,0.0032,go
+91,bereits,0.0031,already
+91,ab,0.003,from
+91,nehmen,0.0028,to take
+91,viele,0.0028,lots
+91,fordern,0.0027,demand
+91,führen,0.0027,to lead
+91,politik,0.0027,politics
+91,treffen,0.0026,to meet
+91,setzen,0.0026,put
+91,bleiben,0.0026,stay
+91,tun,0.0026,do
+91,these,0.0026,thesis
+91,wer,0.0025,who
+91,sprechen,0.0025,speak
+91,heute,0.0024,today
+91,allerdings,0.0023,Indeed
+91,wegen,0.0023,because of
+91,nennen,0.0022,call
+91,drei,0.0022,three
+91,sonntag,0.0022,Sunday
+91,minister,0.0022,minister
+91,problem,0.0022,problem
+91,deutlich,0.0021,clear
+91,seit,0.0021,since
+92,sagen,0.017,say
+92,berlin,0.0108,Berlin
+92,geben,0.0085,give
+92,müssen,0.0084,have to
+92,partei,0.0076,party
+92,prozent,0.0072,percent
+92,sollen,0.0071,should
+92,neu,0.0071,New
+92,jahr,0.0071,year
+92,gehen,0.0066,go
+92,schon,0.0064,beautiful
+92,dass,0.0063,that
+92,erst,0.0058,first
+92,immer,0.0056,always
+92,mensch,0.0048,human
+92,kommen,0.0046,come
+92,koalition,0.0046,coalition
+92,stehen,0.0046,stand
+92,woche,0.0044,week
+92,finden,0.0043,Find
+92,halten,0.0043,hold
+92,ab,0.0043,from
+92,sprechen,0.0041,speak
+92,fdp,0.0038,fdp
+92,tag,0.0037,Day
+92,union,0.0037,union
+92,dafür,0.0037,for this
+92,beide,0.0036,both
+92,mal,0.0036,times
+92,bereits,0.0035,already
+92,gut,0.0035,Good
+92,land,0.0035,country
+92,spd,0.0035,spd
+92,frau,0.0035,Mrs
+92,ganz,0.0035,all
+92,nehmen,0.0033,to take
+92,thema,0.0033,theme
+92,bundesregierung,0.0033,federal government
+92,wer,0.0032,who
+92,steinmeier,0.003,steinmeier
+92,vergangen,0.003,past
+92,darauf,0.0029,thereon
+92,bleiben,0.0029,stay
+92,frage,0.0028,question
+92,mehr,0.0028,more
+92,eigen,0.0028,own
+92,politisch,0.0026,politically
+92,hoch,0.0025,high
+92,ministerpräsident,0.0025,prime minister
+92,alt,0.0025,old
+93,jahr,0.0112,year
+93,spd,0.0086,spd
+93,gehen,0.0083,go
+93,sagen,0.0076,say
+93,dass,0.0074,that
+93,deutsch,0.0058,German
+93,dürfen,0.0052,allowed
+93,viele,0.0051,lots
+93,schon,0.005,beautiful
+93,merkel,0.0044,merkel
+93,grüne,0.0044,green
+93,deutschland,0.0043,Germany
+93,prozent,0.0043,percent
+93,kommen,0.0042,come
+93,sollen,0.0041,should
+93,rund,0.0039,round
+93,sprechen,0.0038,speak
+93,zeit,0.0037,Time
+93,eigen,0.0037,own
+93,liegen,0.0037,lie
+93,seit,0.0035,since
+93,stoiber,0.0034,stoiber
+93,frage,0.0034,question
+93,mann,0.0033,man
+93,weit,0.0033,far
+93,hoch,0.0033,high
+93,ende,0.0033,The End
+93,klar,0.0033,clear
+93,online,0.0033,on-line
+93,wegen,0.0032,because of
+93,angabe,0.0032,specification
+93,zwei,0.0032,two
+93,bundestag,0.0031,Bundestag
+93,finden,0.003,Find
+93,cdu,0.003,cdu
+93,euro,0.003,Euro
+93,führen,0.003,to lead
+93,heute,0.0029,today
+93,bleiben,0.0029,stay
+93,frau,0.0028,Mrs
+93,woche,0.0027,week
+93,groß,0.0027,big
+93,fdp,0.0027,fdp
+93,ministerpräsident,0.0026,prime minister
+93,spiegel,0.0026,mirror
+93,erhalten,0.0025,receive
+93,mensch,0.0025,human
+93,npd,0.0024,npd
+93,gesetz,0.0024,law
+93,schwer,0.0024,heavy
+94,dass,0.0188,that
+94,spd,0.0157,spd
+94,cdu,0.0076,cdu
+94,müssen,0.0074,have to
+94,neu,0.0067,New
+94,groß,0.0066,big
+94,deutsch,0.0066,German
+94,sagen,0.0063,say
+94,sollen,0.006,should
+94,kommen,0.0057,come
+94,prozent,0.0057,percent
+94,grüne,0.0057,green
+94,woche,0.0056,week
+94,schröder,0.0055,Schroeder
+94,partei,0.0052,party
+94,koalition,0.0048,coalition
+94,sehen,0.0046,see
+94,csu,0.0045,Christian Social Union
+94,ministerpräsident,0.0045,prime minister
+94,mehr,0.0042,more
+94,vergangen,0.0042,past
+94,merkel,0.0041,merkel
+94,berlin,0.0041,Berlin
+94,spiegel,0.004,mirror
+94,sprechen,0.004,speak
+94,liegen,0.0039,lie
+94,gut,0.0039,Good
+94,stellen,0.0037,put
+94,viele,0.0037,lots
+94,nehmen,0.0037,to take
+94,euro,0.0035,Euro
+94,stoiber,0.0033,stoiber
+94,wegen,0.0033,because of
+94,wahlkampf,0.0033,electioneering
+94,seit,0.0032,since
+94,schon,0.0031,beautiful
+94,ganz,0.0031,all
+94,amt,0.003,office
+94,zeigen,0.003,demonstrate
+94,deutlich,0.0029,clear
+94,heißen,0.0029,be called
+94,bundestagswahl,0.0027,bundestagswahl
+94,regierung,0.0027,government
+94,landtag,0.0026,Parliament
+94,rund,0.0026,round
+94,angela,0.0025,angela
+94,monat,0.0025,month
+94,früh,0.0025,early
+94,halten,0.0025,hold
+94,hoch,0.0025,high
+95,dass,0.0175,that
+95,deutsch,0.0095,German
+95,stehen,0.0071,stand
+95,sagen,0.007,say
+95,spd,0.007,spd
+95,prozent,0.0069,percent
+95,sollen,0.0067,should
+95,cdu,0.0066,cdu
+95,zwei,0.0064,two
+95,schröder,0.0063,Schroeder
+95,gehen,0.0056,go
+95,müssen,0.0052,have to
+95,grüne,0.0052,green
+95,online,0.0049,on-line
+95,seit,0.0049,since
+95,erst,0.0047,first
+95,kommen,0.0045,come
+95,sprechen,0.0043,speak
+95,schon,0.0042,beautiful
+95,land,0.0042,country
+95,stellen,0.0041,put
+95,viele,0.004,lots
+95,zeigen,0.004,demonstrate
+95,rund,0.0039,round
+95,drei,0.0039,three
+95,fordern,0.0037,demand
+95,zeit,0.0037,Time
+95,jahr,0.0037,year
+95,wahl,0.0035,choice
+95,geben,0.0035,give
+95,laut,0.0035,according to
+95,etwa,0.0034,about
+95,dabei,0.0034,there
+95,bleiben,0.0034,stay
+95,gut,0.0032,Good
+95,heißen,0.0032,be called
+95,entscheidung,0.003,decision
+95,immer,0.0029,always
+95,groß,0.0029,big
+95,erklären,0.0029,to explain
+95,deutlich,0.0028,clear
+95,bereits,0.0028,already
+95,dürfen,0.0026,allowed
+95,jung,0.0026,young
+95,nah,0.0026,close
+95,politisch,0.0024,politically
+95,heute,0.0024,today
+95,eigen,0.0024,own
+95,ja,0.0024,Yes
+95,rotgrün,0.0024,Red Green
+96,dass,0.0233,that
+96,sagen,0.0159,say
+96,spd,0.0154,spd
+96,gehen,0.0087,go
+96,merkel,0.008,merkel
+96,kommen,0.0079,come
+96,jahr,0.0078,year
+96,stehen,0.006,stand
+96,land,0.0058,country
+96,neu,0.0053,New
+96,koalition,0.0052,coalition
+96,deutschland,0.0051,Germany
+96,schröder,0.0051,Schroeder
+96,union,0.0048,union
+96,halten,0.0047,hold
+96,bleiben,0.0045,stay
+96,beide,0.0044,both
+96,lassen,0.0044,to let
+96,spiegel,0.0044,mirror
+96,fischer,0.0044,fisherman
+96,schon,0.0043,beautiful
+96,bereits,0.0041,already
+96,gut,0.0041,Good
+96,frage,0.0041,question
+96,müntefering,0.0039,müntefering
+96,ab,0.0039,from
+96,sollen,0.0037,should
+96,zeigen,0.0037,demonstrate
+96,nehmen,0.0036,to take
+96,rotgrün,0.0036,Red Green
+96,sehen,0.0035,see
+96,erklären,0.0034,to explain
+96,angela,0.0033,angela
+96,treffen,0.0033,to meet
+96,heute,0.0032,today
+96,woche,0.0032,week
+96,heißen,0.0032,be called
+96,mehr,0.0031,more
+96,zwei,0.003,two
+96,stellen,0.003,put
+96,kanzler,0.0029,chancellor
+96,setzen,0.0028,put
+96,dafür,0.0027,for this
+96,sozialdemokrat,0.0026,Social
+96,grüne,0.0026,green
+96,spät,0.0026,late
+96,monat,0.0025,month
+96,wort,0.0024,word
+96,schreiben,0.0024,write
+96,fordern,0.0024,demand
+97,sagen,0.0239,say
+97,gehen,0.01,go
+97,mehr,0.0096,more
+97,dass,0.0085,that
+97,partei,0.0082,party
+97,berlin,0.0078,Berlin
+97,merkel,0.0066,merkel
+97,müssen,0.0066,have to
+97,deutsch,0.0065,German
+97,euro,0.0061,Euro
+97,groß,0.0061,big
+97,seit,0.0057,since
+97,kommen,0.0056,come
+97,frage,0.0055,question
+97,geben,0.0054,give
+97,woche,0.0051,week
+97,bereits,0.0048,already
+97,bundestag,0.0047,Bundestag
+97,erst,0.0045,first
+97,ganz,0.0041,all
+97,zeit,0.0041,Time
+97,viele,0.004,lots
+97,wissen,0.0039,knowledge
+97,zwei,0.0039,two
+97,dabei,0.0038,there
+97,stehen,0.0037,stand
+97,dafür,0.0036,for this
+97,fall,0.0036,case
+97,neu,0.0036,New
+97,bleiben,0.0035,stay
+97,möglich,0.0035,possible
+97,ab,0.0032,from
+97,weit,0.0032,far
+97,etwa,0.0032,about
+97,drei,0.0031,three
+97,beide,0.0031,both
+97,klar,0.003,clear
+97,nehmen,0.0029,to take
+97,problem,0.0029,problem
+97,tag,0.0029,Day
+97,land,0.0028,country
+97,wahl,0.0028,choice
+97,mal,0.0028,times
+97,milliarde,0.0028,billion
+97,online,0.0027,on-line
+97,fischer,0.0027,fisherman
+97,wenige,0.0026,few
+97,darauf,0.0026,thereon
+97,steinmeier,0.0026,steinmeier
+97,mensch,0.0026,human
+98,spende,0.0372,donation
+98,dass,0.0271,that
+98,euro,0.0211,Euro
+98,spenden,0.0178,donate
+98,million,0.0167,million
+98,spd,0.0144,spd
+98,sagen,0.0125,say
+98,geben,0.011,give
+98,partei,0.0102,party
+98,berlin,0.0081,Berlin
+98,cdu,0.008,cdu
+98,deutschland,0.0079,Germany
+98,mehr,0.0073,more
+98,müssen,0.0071,have to
+98,seit,0.006,since
+98,jahr,0.0058,year
+98,gut,0.0051,Good
+98,schröder,0.005,Schroeder
+98,neu,0.0048,New
+98,sehen,0.0048,see
+98,csu,0.0045,Christian Social Union
+98,merkel,0.0045,merkel
+98,woche,0.0045,week
+98,geld,0.0041,money
+98,sprechen,0.004,speak
+98,sollen,0.0039,should
+98,firma,0.0038,company
+98,ganz,0.0037,all
+98,halten,0.0036,hold
+98,grüne,0.0033,green
+98,eigen,0.0033,own
+98,vergangen,0.0032,past
+98,online,0.0032,on-line
+98,liegen,0.003,lie
+98,ende,0.003,The End
+98,groß,0.0029,big
+98,deutsch,0.0028,German
+98,zwei,0.0027,two
+98,dabei,0.0027,there
+98,heute,0.0027,today
+98,allerdings,0.0027,Indeed
+98,einnahme,0.0026,taking
+98,entscheidung,0.0026,decision
+98,thema,0.0025,theme
+98,fordern,0.0025,demand
+98,hoch,0.0025,high
+98,gehen,0.0024,go
+98,koalition,0.0024,coalition
+98,fdp,0.0024,fdp
+98,nah,0.0023,close
+99,möllemann,0.0441,Möllemann
+99,sagen,0.0322,say
+99,westerwelle,0.0209,westerwelle
+99,deutschland,0.0086,Germany
+99,fdp,0.0082,fdp
+99,partei,0.0082,party
+99,spd,0.0082,spd
+99,erst,0.0077,first
+99,müssen,0.0074,have to
+99,neu,0.007,New
+99,merkel,0.007,merkel
+99,sollen,0.0064,should
+99,gerhardt,0.006,gerhardt
+99,sehen,0.0055,see
+99,dass,0.0053,that
+99,stehen,0.0053,stand
+99,dürfen,0.0051,allowed
+99,frage,0.0047,question
+99,land,0.0046,country
+99,jude,0.0043,Jew
+99,woche,0.004,week
+99,prozent,0.0039,percent
+99,antisemitisch,0.0039,anti-Semitic
+99,seit,0.0038,since
+99,zwei,0.0038,two
+99,liberal,0.0036,liberal
+99,guido,0.0035,guido
+99,immer,0.0035,always
+99,dafür,0.0034,for this
+99,fordern,0.0033,demand
+99,gut,0.0033,Good
+99,jahr,0.0032,year
+99,vergangen,0.0032,past
+99,schröder,0.0031,Schroeder
+99,lassen,0.0031,to let
+99,heute,0.003,today
+99,kritik,0.0029,criticism
+99,zeit,0.0028,Time
+99,politik,0.0028,politics
+99,wegen,0.0027,because of
+99,setzen,0.0027,put
+99,gehen,0.0027,go
+99,ende,0.0027,The End
+99,allerdings,0.0027,Indeed
+99,recht,0.0026,Law
+99,entscheidung,0.0025,decision
+99,betonen,0.0025,emphasize
+99,jürgen,0.0025,jürgen
+99,ganz,0.0024,all
+99,beide,0.0024,both
+100,europa,0.072,Europe
+100,europäisch,0.0454,European
+100,mehr,0.0154,more
+100,geben,0.0123,give
+100,dass,0.01,that
+100,partei,0.0079,party
+100,groß,0.0076,big
+100,viele,0.0074,lots
+100,europäer,0.0073,European
+100,spd,0.0068,spd
+100,gemeinsam,0.0065,together
+100,immer,0.0062,always
+100,mensch,0.0062,human
+100,sehen,0.0057,see
+100,brauchen,0.0057,need
+100,identität,0.0056,identity
+100,jahr,0.0056,year
+100,national,0.0053,national
+100,online,0.0048,on-line
+100,politisch,0.0048,politically
+100,wissen,0.0047,knowledge
+100,deutschland,0.0045,Germany
+100,heute,0.0042,today
+100,bürger,0.0042,citizens
+100,dürfen,0.0042,allowed
+100,frage,0.004,question
+100,erst,0.0038,first
+100,finden,0.0037,Find
+100,integration,0.0035,integration
+100,miteinander,0.0035,together
+100,sagen,0.0034,say
+100,eu,0.0034,eu
+100,merkel,0.0034,merkel
+100,politik,0.0033,politics
+100,bleiben,0.0033,stay
+100,union,0.0032,union
+100,weit,0.0032,far
+100,ja,0.0031,Yes
+100,seit,0.003,since
+100,bundestag,0.0029,Bundestag
+100,kommen,0.0029,come
+100,frieden,0.0028,peace
+100,klar,0.0028,clear
+100,gehen,0.0028,go
+100,nachbar,0.0028,neighboring
+100,teil,0.0027,part
+100,sollen,0.0026,should
+100,oft,0.0024,often
+100,gar,0.0024,at all
+100,neu,0.0024,New
