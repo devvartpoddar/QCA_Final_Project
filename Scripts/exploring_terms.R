@@ -1,7 +1,6 @@
 # Topic modelling the lemmatised text
 
 try(setwd("/home/devvart/Desktop/QCA_Final_Project"))
-try(setwd("/home/devvart/QCA_Final_Project"))
 
 source("packages.R")
 

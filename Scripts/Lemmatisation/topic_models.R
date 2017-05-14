@@ -15,12 +15,17 @@ gmail_auth()
 
 # Writing mail
 mime() %>%
-  to('') %>%
+  to('devvart123@gmail.com') %>%
   from('devvart.server@gmail.com') %>%
   cc('') %>%
   subject('[R:Server]: Topic Models') %>%
   text_body('Starting topic modelling') %>%
   send_message()
+
+# Cleaning more common words
+clean <- c("berlin", "bundestag", "dass", "deutsch", "deutschland", "erst", "geben",
+           "gehen", "gut", "immer", "kommen", "land", "mehr", "neu", "schon", "sollen",
+           "woche", letters)
 
 # Loading data and final cleaning
 
@@ -37,8 +42,9 @@ text.data <- import("Data/lemma_text.json") %>%
 # Creating document term matrix
 error <- try({
   temp <- corpus(text.data) %>%
-    dfm(remove = stopwords("german"), remove_punct = TRUE) %>%
-    dfm_trim(min_docfreq = 0.01) %>%
+    dfm(remove = c(stopwords("german", clean)), 
+        remove_punct = TRUE) %>%
+    dfm_trim(min_docfreq = 0.005) %>%
   convert(to = "topicmodels")
 
   topic.model <- LDA(temp,
@@ -50,7 +56,7 @@ error <- try({
 if (inherits(error, "try-error")) {
   # Writing mail
   mime() %>%
-    to('') %>%
+    to('devvart123@gmail.com') %>%
     from('devvart.server@gmail.com') %>%
     cc('') %>%
     subject('[R:Server]: Error :(') %>%
@@ -86,7 +92,7 @@ export(final.data, "Data/topic_dist.json")
 
 # Writing mail
 mime() %>%
-  to('') %>%
+  to('devvart123@gmail.com') %>%
   from('devvart.server@gmail.com') %>%
   cc('') %>%
   subject('[R:Server]: Success!!') %>%
