@@ -38,7 +38,8 @@ text.data <- import("Data/lemma_text.json") %>%
 error <- try({
   temp <- corpus(text.data) %>%
     dfm(remove = stopwords("german"), remove_punct = TRUE) %>%
-    dfm_trim(min_docfreq = 0.10)
+    dfm_trim(min_docfreq = 0.01) %>%
+  convert(to = "topicmodels")
 
   topic.model <- LDA(temp,
                      k = 100,
