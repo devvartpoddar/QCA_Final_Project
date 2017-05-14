@@ -42,7 +42,7 @@ text.data <- import("Data/lemma_text.json") %>%
 # Creating document term matrix
 error <- try({
   temp <- corpus(text.data) %>%
-    dfm(remove = c(stopwords("german", clean)), 
+    dfm(remove = c(stopwords("german"), clean), 
         remove_punct = TRUE) %>%
     dfm_trim(min_docfreq = 0.005) %>%
   convert(to = "topicmodels")
