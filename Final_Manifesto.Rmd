@@ -67,7 +67,7 @@ plot_rile <- ggplot(df2) +
 plot_rile
 ```
 
-The variable planeco captures three important aspects: Market Regulation, Economing Planning, and Controlled Economy. Higher planeco score means that the government calls for increased consumer protection, increases competition, reduces monopoly, defends small businesses from big companies, takes an active role in economic planning, and introduces price control and minimum wage policies.
+The variable planeco captures three important aspects: Market Regulation, Economing Planning, and Controlled Economy. Higher planeco score means that the government calls for increased consumer protection, increases competition, reduces monopoly, defends small businesses from big companies, takes an active role in economic planning, and introduces price control and minimum wage policies. All three major parties seem to hover around the same range of moderate planeco score. Especially between 1980 and 2000, the score is fairly low due to globalization, development of technology, and opening of trade barriers between countries around the world. However, after 2010, we can see that all parties have adopted a more left-wing approach. We can also see that in recent years, the ideologies of CDU/CSU and that of FDP are more on line with each other.
 
 ```{r, echo = FALSE}
 #For planeco
@@ -77,7 +77,7 @@ plot_planeco <- ggplot(df2) +
 plot_planeco
 ```
  
-The variable markeco represents the policies in favor of free market economy.
+The variable markeco represents the policies in favor of free market economy. The fluctuations we see here are common to all three parties. However, CDU/CSU shows that biggest fluctuations and SPD shows the smallest fluctuations. 
 
 ```{r, echo = FALSE}
 #For markeco
@@ -87,13 +87,12 @@ plot_markeco <- ggplot(df2) +
 plot_markeco
 ```
 
-The variable welfare captures equality and welfare state expansion.
+The variable welfare captures equality and welfare state expansion. The three parties vary significantly with each other in this category. 
 
 ```{r, echo = FALSE}
 #For welfare
 plot_welfare <- ggplot(df2) +
-  geom_line(aes(x = edate, y = welfare, colour = partyname)) +
-  scale_x_date(date_breaks = "8 years")
+  geom_line(aes(x = edate, y = welfare, colour = partyname))
 plot_welfare
 ```
 
@@ -127,8 +126,7 @@ plot_altrile
 ```
 
 #Part V: Most Unreliable categories:
-Mikhaylov et al. 2011 underscore the presence of several unreliable categories. For the left side of the rile scale they point out 202 and 701 as extremely unreliable and for the right side they point out 605 and 305 as extremely unreliable due to their extremley low kappa coefficient. After the removal of the unreliable categories, the rile graph below shows some significant changes.
-
+Mikhaylov et al. 2011 underscore the presence of several unreliable categories. For the left side of the rile scale they point out 202 and 701 as extremely unreliable and for the right side they point out 605 and 305 as extremely unreliable due to their extremley low kappa coefficient. After the removal of the unreliable categories, the rile graph below shows the three parties getting closer to each other in their left-right viewpoint, thus suggesting that politics is much more about attracting voters by staying close to the center than sticking to the party's ideological mandate.
 
 ```{r, echo=FALSE}
 correction <- df2 %>%
