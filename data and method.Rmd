@@ -88,6 +88,7 @@ import("Data/term_breakdown.xlsx") %>%
   ggplot() +
   geom_col(aes(x = Topic, y = freq * 100)) +
   labs(y = "% of Total Topics") +
+  scale_fill_viridis(discrete = T) +
   coord_flip() +
   theme_classic() +
   theme(
@@ -128,7 +129,7 @@ import("Data/topic_dist.json") %>%
 
 ```
 
-Thus while our topic models worked, the end result is too broad to be able to compare with the policies which parties should speak off.
+There are a couple of interesting insights that may be gleamed from the graphs. Security is spoken of in a much larger scale close to the 2017 elections than before.This is in stark contrast to the 2005 and 2013 elections when the Eurozone were the dominant topic along with articles related to regional domestic politics. Thus while our topic models works, the end result is too broad to be able to compare with the policies which parties should speak off. 
 
 # Conclusion and Further Work
 
