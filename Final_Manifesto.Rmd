@@ -7,13 +7,14 @@ output: pdf_document
 
 #Introduction:
 
-In this paper, we aim to understand the intricate relationship between the political parties and news media based on the topics that political parties and media often touch upon. In a more philosophical sense, different political parties are entities with similar goals but different means of getting there. These means can be construed as the mandates of these parties. For example, the mandate of left-wing parties is to achieve social and economic justice through government intervention and welfare systems, while that of right-wing parties is to achieve social and economic justice through less intervention and allowing the market to function freely. While taking up these different approaches (means), the parties often reach out to the voters through a selection of ideas, topics, and verbiage that is unique to their philosophy. In this paper, we analyze these "contents" of political rhetoric of three main German national parties. We will use the Manifesto Dataset to first see the differences between the three parties in terms of different social and political agendas over the years. Second, we will see which topics do these parties use frequently in order to assess their approach in appealing to the voters. Then, we will combine this data with the topic distribution dataset obtained from newspaper articles to analyze the role of media in facilitating the interaction between political parties and voters.
+In this paper, we aim to understand the intricate relationship between the political parties and the voters based on the topics that political parties often use as a means to incentivize voters. From a more philosophical standpoint, different political parties are entities with similar goals but different means of achieving them. These means can be construed as the mandates of these parties. For example, the mandate of left-wing parties is to achieve social and economic justice through government intervention and welfare systems, while that of right-wing parties is to achieve social and economic justice through less intervention and allowing the market to function freely. While taking up these different approaches (means), the parties often reach out to the voters through a selection of ideas, topics, and verbiage that is unique to their philosophy. In this paper, we analyze these "contents" of political rhetoric of three main German national parties. We will use the Manifesto Dataset to first see the differences between the three parties in terms of different social and political agendas over the years. Second, we will see which topics do these parties use frequently in order appeal to the voters. Then, we will combine this data with the topic distribution dataset obtained from newspaper articles to analyze the role of media in facilitating the interaction between political parties and voters.
 
+The role of media is stronger than ever before in shaping people's political ideologies, which makes them one of the most important bridge between the voters and the politicians. A media is a powerful store house of information, that both sides can use for their benefit. While it is often easy to know precisely the belief or the mandate of a political party, it is not so often to make similar inferences about voters. Voters are enigmatic, they may or may not turn out to vote driven by a plethora of factors, and there is never a hard and fast way to know who they might vote for. In that regard, we assume that media can play the role of proxy for the voters. If certain topics are often repeated in the media, then that could mean that voters are interested in those topics. Through the manifesto dataset, we aim to analyze the differences "between" the parties, while through the topic distribution dataset, we aim to analyze the diffences "between" the parties and the media.   
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-setwd("C:/RajuPC/Content Analysis/Final")
+setwd("C:/RajuPC/Content Analysis/Final/QCA_Final_Project")
   
 library(manifestoR)
 library(knitr)
@@ -43,7 +44,7 @@ unique(df2$partyname)
 
 ```
 
-The following table shows the summary of descriptive statistics for the four following variables: rile, planeco, markeco, welfare.
+The following table shows the summary of descriptive statistics for the four following variables: rile, planeco, markeco, welfare for the three political parties in Germany. The parties considered here are: Social Democratic Party of Germany (SPD), Christian Democratic Union/ Christian Social Union (CDU/CSU), and Free Democratic Party (FDP).
 
 ```{r, echo = FALSE}
 df3 <- df2 %>%
@@ -54,9 +55,9 @@ kable(table3, align="c", caption="Summary of Descriptive Statistics", digits = 2
 
 ```
 
-In the graphs below, we can see the change in the above four variables across the timeperiod from 1949 to 2013 for both political parties for each election year. 
+In the graphs below, we can see the change in the above four variables across the time period from 1949 to 2013 for all three political parties for each election year. 
 
-Rile indicates the position of the party in the left-right index, left meaning liberal and right meaning conservative.  
+Rile indicates the position of the party in the left-right index, left meaning liberal and right meaning conservative. There are a few clear observations that can be made from the distribution of rile index. First, the two main parties CDU/CSU and SPD are true to their political identity and stay on the right and the left side respectively. However, they both show a tendency to fluctuate between extreme left/right and center every few years. This fluctuation and tendency to meet at the center often showcases the typical phenomenon of game theory. Second, the FDP is often seen to lie at the center, with perfect positioning to appeal the centrist voters and put themselves in the position to be a part of a coalition government.  
 
 ```{r, echo=FALSE}
 #For rile
