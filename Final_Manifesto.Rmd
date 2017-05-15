@@ -7,6 +7,334 @@ output: pdf_document
 
 #Introduction:
 
+In this paper, we aim to understand the intricate relationship between the political parties and news media based on the topics that political parties and media often touch upon. In a more philosophical sense, different political parties are entities with similar goals but different means of getting there. These means can be construed as the mandates of these parties. For example, the mandate of left-wing parties is to achieve social and economic justice through government intervention and welfare systems, while that of right-wing parties is to achieve social and economic justice through less intervention and allowing the market to function freely. While taking up these different approaches (means), the parties often reach out to the voters through a selection of ideas, topics, and verbiage that is unique to their philosophy. In this paper, we analyze these "contents" of political rhetoric of three main German national parties. We will use the Manifesto Dataset to first see the differences between the three parties in terms of different social and political agendas over the years. Second, we will see which topics do these parties use frequently in order to assess their approach in appealing to the voters. Then, we will combine this data with the topic distribution dataset obtained from newspaper articles to analyze the role of media in facilitating the interaction between political parties and voters.
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+setwd("C:/RajuPC/Content Analysis/Final")
+  
+library(manifestoR)
+library(knitr)
+library(fBasics)
+library(dplyr)
+library(ggplot2)
+
+```
+
+```{r, echo = FALSE}
+mp_setapikey("manifesto_apikey.txt")
+
+table1 <- mp_coreversions()
+kable(table1, align="c", caption="All the Manifesto versions available")
+
+```
+
+```{r, include = FALSE}
+df1 <- mp_maindataset(version = "current", south_america = FALSE, download_format = NULL, apikey = NULL)
+
+df2 <- df1 %>%
+  dplyr::filter(countryname == "Germany") %>%
+  dplyr::filter(partyname == "Social Democratic Party of Germany" | partyname == "Christian Democratic Union/Christian Social Union" | partyname == "Free Democratic Party")
+ 
+
+unique(df2$partyname)
+
+```
+
+The following table shows the summary of descriptive statistics for the four following variables: rile, planeco, markeco, welfare.
+
+```{r, echo = FALSE}
+df3 <- df2 %>%
+    select(rile, planeco, markeco, welfare)
+
+table3 <- basicStats(df3)
+kable(table3, align="c", caption="Summary of Descriptive Statistics", digits = 2)
+
+```
+
+In the graphs below, we can see the change in the above four variables across the timeperiod from 1949 to 2013 for both political parties for each election year. 
+
+Rile indicates the position of the party in the left-right index, left meaning liberal and right meaning conservative.  
+
+```{r, echo=FALSE}
+#For rile
+plot_rile <- ggplot(df2) +
+  geom_line(aes(x = edate, y = rile, colour = partyname)) 
+
+plot_rile
+```
+
+The variable planeco captures three important aspects: Market Regulation, Economing Planning, and Controlled Economy. Higher planeco score means that the government calls for increased consumer protection, increases competition, reduces monopoly, defends small businesses from big companies, takes an active role in economic planning, and introduces price control and minimum wage policies.
+
+```{r, echo = FALSE}
+#For planeco
+plot_planeco <- ggplot(df2) +
+  geom_line(aes(x = edate, y = planeco, colour = partyname)) 
+
+plot_planeco
+```
+ 
+The variable markeco represents the policies in favor of free market economy.
+
+```{r, echo = FALSE}
+#For markeco
+plot_markeco <- ggplot(df2) +
+  geom_line(aes(x = edate, y = markeco, colour = partyname)) 
+
+plot_markeco
+```
+
+The variable welfare captures equality and welfare state expansion.
+
+```{r, echo = FALSE}
+#For welfare
+plot_welfare <- ggplot(df2) +
+  geom_line(aes(x = edate, y = welfare, colour = partyname)) +
+  scale_x_date(date_breaks = "8 years")
+plot_welfare
+```
+
+
+#Part IV: Alternate left-right measures:
+One alternative way for rile as proposed by Lowe et al. 2010 suggests taking the log of the ratio of Right and Left. For this we combine as all the variables that make up Right and Left separately using the Codebook, then take a ratio of right to left and perform a log on it.
+
+Right (R) = per104 + per201 + per203 + per305 + per401 + per402 + per407 + per414 + per505 + per601 + per603 + per605 + per606
+
+Left (L) = per103 + per105 + per106 + per107 + per403 + per404 + per406 + per412 + per413 + per504 + per506 + per701 + per202
+
+Alternative Rile (alt) = log (R/L)
+
+The graph below does not show any significant change in comparison to normal rile calculated above in section II.
+```{r, echo=FALSE}
+alternate <- df2 %>%
+  mutate(R = per104 + per201 + per203 + per305 + per401 + per402 + per407 + per414 + 
+           per505 + per601 + per603 + per605 + per606) %>%
+  mutate (L = per103 + per105 + per106 + per107 + per403 + per404 + per406 + 
+                   per412 + per413 + per504 + per506 + per701 + per202) %>%
+  mutate(alt = log(R / L))
+```
+
+```{r, echo = FALSE}
+
+plot_altrile <- ggplot(alternate) +
+  geom_line(aes(x = edate, y = alt, colour = partyname)) 
+
+plot_altrile
+
+```
+
+#Part V: Most Unreliable categories:
+Mikhaylov et al. 2011 underscore the presence of several unreliable categories. For the left side of the rile scale they point out 202 and 701 as extremely unreliable and for the right side they point out 605 and 305 as extremely unreliable due to their extremley low kappa coefficient. After the removal of the unreliable categories, the rile graph below shows some significant changes.
+
+
+```{r, echo=FALSE}
+correction <- df2 %>%
+  mutate(R = per104 + per201 + per203 + per401 + per402 + per407 + per414 + 
+           per505 + per601 + per603 + per606) %>%
+  mutate (L = per103 + per105 + per106 + per107 + per403 + per404 + per406 + 
+                   per412 + per413 + per504 + per506) %>%
+  mutate(correct = log(R / L))
+```
+
+```{r, echo = FALSE}
+
+plot_correctrile <- ggplot(correction) +
+  geom_line(aes(x = edate, y = correct, colour = partyname)) 
+
+plot_correctrile
+
+```
+
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE,
+  error = FALSE, cache = 3, fig.pos = 'h', fig.align = 'center',
+  fig.width = 6, fig.height = 3)
+
+knitr::opts_chunk$set(echo = FALSE)
+
+try(setwd("C:/RajuPC/Content Analysis/Final"))
+  
+library(manifestoR)
+library(knitr)
+library(fBasics)
+library(dplyr)
+library(ggplot2)
+
+```
+
+```{r wd, echo = FALSE}
+mp_setapikey("manifesto_apikey.txt")
+
+source("packages.R")
+```
+
+# Introduction:
+
+In this paper, we aim to understand the intricate relationship between the political parties and news media based on the topics that political parties and media often touch upon. In a more philosophical sense, different political parties are entities with similar goals but different means of getting there. These means can be construed as the mandates of these parties. For example, the mandate of left-wing parties is to achieve social and economic justice through government intervention and welfare systems, while that of right-wing parties is to achieve social and economic justice through less intervention and allowing the market to function freely. While taking up these different approaches (means), the parties often reach out to the voters through a selection of ideas, topics, and verbiage that is unique to their philosophy. In this paper, we analyze these "contents" of political rhetoric of three main German national parties. We will use the Manifesto Dataset to first see the differences between the three parties in terms of different social and political agendas over the years. Second, we will see which topics do these parties use frequently in order to assess their approach in appealing to the voters. Then, we will combine this data with the topic distribution dataset obtained from newspaper articles to analyze the role of media in facilitating the interaction between political parties and voters.
+
+```{r, include = FALSE}
+df1 <- mp_maindataset(version = "current", south_america = FALSE, download_format = NULL, apikey = NULL)
+
+df2 <- df1 %>%
+  dplyr::filter(countryname == "Germany") %>%
+  dplyr::filter(partyname == "Social Democratic Party of Germany" | partyname == "Christian Democratic Union/Christian Social Union" | partyname == "Free Democratic Party")
+ 
+
+unique(df2$partyname)
+
+```
+
+# Data and Methodology
+
+## Data
+
+The data for this endevour is sourced from multiple sources. The primary dataset to analyse the differences in party ideology comes from the Comparative Manifesto Project. The project addresses the collection and the comparative content analysis of parties’ manifestos, covering over 1000 parties from 1945 onward in over 50 countries on five continents. The dataset is limited to the major political parties in Germany for our analysis. Furthermore, due to the lack of historical archives to media articles, as well as issues with storing and analysing the huge corpora of text, the data is further limited to elections post 2000 for comparison with trends in media.
+
+Dataset for media is collected from scraping Der Spiegel, a daily left-leaning German news publisher. Der Speigel is unique in their free access to their archives as well as their pre-categorization of the news articles. All articles on Der Spiegel are categorized into topics such as politics, sports, culture ..., with the topic of politics being further categorized into domestic and international political news. The pre-processing of data into broad categories, allows us to focus on collecting only the relevant dataset towards our analysis, without the risk of bias. Thus, we scrape all article which relate to domestic politics from 2000 onward.
+
+The dataset on news is further limited to only articles which were published 1 year before each election. Thus for the 2002 elections, articles published in between the periods September 2001 and 2002 were scraped, and so forth. This is led by the assumption of *limited memory*; voters and individuals are constrained by their limited memory when making decisions. Studies have noted the consumer choice to be bounded by small term memory and processing skills [@James1986, @Dick2017]. In a similar vein, voters are limited to recent memory when making a choice. Similarly, individuals do not focus on historical events, but on the events that occur closer to elections. Thus it would be imperative to assume that the events that are closer to elections, and the media coverage of these events, should drive the narrative of political parties as well. It is however important to note that the use of 1 year before each election is an assumption and may be violated. There are no studies which look at the limits of long-term memory when it concerns towards political choice, and the use of different data intervals are left to future research.
+
+The website is scraped using Scrapy, a web scraping framework written in Python. The dataset for news articles post 2000 onward is encompasses nearly 70000 observations, though they are limited to nearly 14000 for our analysis. The data as well as the scraping codes are available on Github. 
+
+## Methodology
+
+The analysis can be broken into two steps; the first step will look at analysing the differences withing the priorities for each major party in Germany. We will use the CMP dataset to work on the differences between the parties using both a measure of right-left slant of the topic, as well as the importance of that topic for the party, measured using the distribution of the different topics. 
+
+The next step would be to compare the individual distribution for the parties with the distributions derived from news articles. High correlations between the two would imply a convergence between the different parties on major topics, while low correlations would imply a dichotomy between the issues of the hour and the response to the parties to those issues. 
+
+A brief divergence must be made here to defend the methods followed by the paper. We use a topic model to differentiate the different topics in news across the different years, but we do not provide them with a left or a right leaning political score. There are two reasons for this approach; Firstly there is reason to believe that the scores might be biased for our dataset. As explained earlier, Der Spiegel is a left leaning daily news publisher in Germany. As such it is not difficult to believe that the scores may be biased against right and conservative parties in Germany. 
+
+Secondly, we believe that it is a difficult task to compare the political scores between media and political parties to explain the convergence or dichotomy between the parties and the general public. The act of comparison presumes a standard to which one or the other party must reach, in our case we presume that the media is a *vox populi*, and political parties will be driven towards addressing those voices. However by using political scores such as rile, we further assume the slant, and opinions, of the media to be a gold standard which other parties must concur towards. This is a dangerous notion, both for democracy and free speech. It is a better standard to allow the different parties to differ in their response to an issue, as long as the political parties follow the urgency of a particular issue. Thus by comparing the topic distributions between parties and media, we focus only on the *importance* accorded to each topic by the political parties, allowing them to differentiate the responses according to their political leanings.
+
+**Add LDA and lemmatisation**
+
+# Results
+
+## Inter-Party Differences
+
+The following table shows the summary of descriptive statistics for the four following variables: rile, planeco, markeco, welfare. **can we plot this?**
+
+```{r, echo = FALSE}
+df3 <- df2 %>%
+    select(rile, planeco, markeco, welfare)
+
+table3 <- basicStats(df3)
+kable(table3, align="c", caption="Summary of Descriptive Statistics", digits = 2)
+
+```
+
+In the graphs below, we can see the change in the above four variables across the timeperiod from 1949 to 2013 for both political parties for each election year. 
+
+Rile indicates the position of the party in the left-right index, left meaning liberal and right meaning conservative.  
+
+```{r, echo=FALSE}
+#For rile
+plot_rile <- ggplot(df2) +
+  geom_line(aes(x = edate, y = rile, colour = partyname)) 
+
+plot_rile
+```
+
+The variable planeco captures three important aspects: Market Regulation, Economing Planning, and Controlled Economy. Higher planeco score means that the government calls for increased consumer protection, increases competition, reduces monopoly, defends small businesses from big companies, takes an active role in economic planning, and introduces price control and minimum wage policies.
+
+```{r, echo = FALSE}
+#For planeco
+plot_planeco <- ggplot(df2) +
+  geom_line(aes(x = edate, y = planeco, colour = partyname)) 
+
+plot_planeco
+```
+ 
+The variable markeco represents the policies in favor of free market economy.
+
+```{r, echo = FALSE}
+#For markeco
+plot_markeco <- ggplot(df2) +
+  geom_line(aes(x = edate, y = markeco, colour = partyname)) 
+
+plot_markeco
+```
+
+The variable welfare captures equality and welfare state expansion.
+
+```{r, echo = FALSE}
+#For welfare
+plot_welfare <- ggplot(df2) +
+  geom_line(aes(x = edate, y = welfare, colour = partyname)) +
+  scale_x_date(date_breaks = "8 years")
+plot_welfare
+```
+
+
+### Part IV: Alternate left-right measures:
+One alternative way for rile as proposed by Lowe et al. 2010 suggests taking the log of the ratio of Right and Left. For this we combine as all the variables that make up Right and Left separately using the Codebook, then take a ratio of right to left and perform a log on it.
+
+Right (R) = per104 + per201 + per203 + per305 + per401 + per402 + per407 + per414 + per505 + per601 + per603 + per605 + per606
+
+Left (L) = per103 + per105 + per106 + per107 + per403 + per404 + per406 + per412 + per413 + per504 + per506 + per701 + per202
+
+Alternative Rile (alt) = log (R/L)
+
+The graph below does not show any significant change in comparison to normal rile calculated above in section II.
+```{r, echo=FALSE}
+alternate <- df2 %>%
+  mutate(R = per104 + per201 + per203 + per305 + per401 + per402 + per407 + per414 + 
+           per505 + per601 + per603 + per605 + per606) %>%
+  mutate (L = per103 + per105 + per106 + per107 + per403 + per404 + per406 + 
+                   per412 + per413 + per504 + per506 + per701 + per202) %>%
+  mutate(alt = log(R / L))
+```
+
+```{r, echo = FALSE}
+
+plot_altrile <- ggplot(alternate) +
+  geom_line(aes(x = edate, y = alt, colour = partyname)) 
+
+plot_altrile
+
+```
+
+### Part V: Most Unreliable categories:
+Mikhaylov et al. 2011 underscore the presence of several unreliable categories. For the left side of the rile scale they point out 202 and 701 as extremely unreliable and for the right side they point out 605 and 305 as extremely unreliable due to their extremley low kappa coefficient. After the removal of the unreliable categories, the rile graph below shows some significant changes.
+
+
+```{r, echo=FALSE}
+correction <- df2 %>%
+  mutate(R = per104 + per201 + per203 + per401 + per402 + per407 + per414 + 
+           per505 + per601 + per603 + per606) %>%
+  mutate (L = per103 + per105 + per106 + per107 + per403 + per404 + per406 + 
+                   per412 + per413 + per504 + per506) %>%
+  mutate(correct = log(R / L))
+```
+
+```{r, echo = FALSE}
+
+plot_correctrile <- ggplot(correction) +
+  geom_line(aes(x = edate, y = correct, colour = partyname)) 
+
+plot_correctrile
+
+```
+
+
+## Party and Media
+
+
+---
+title: "Final Manifesto"
+author: "Raju Adhikari and Devvart Poddar"
+date: "May 13, 2017"
+output: pdf_document
+---
+
+#Introduction:
+
 In this paper, we aim to understand the intricate relationship between the political parties and the voters based on the topics that political parties often use as a means to incentivize voters. From a more philosophical standpoint, different political parties are entities with similar goals but different means of achieving them. These means can be construed as the mandates of these parties. For example, the mandate of left-wing parties is to achieve social and economic justice through government intervention and welfare systems, while that of right-wing parties is to achieve social and economic justice through less intervention and allowing the market to function freely. While taking up these different approaches (means), the parties often reach out to the voters through a selection of ideas, topics, and verbiage that is unique to their philosophy. In this paper, we analyze these "contents" of political rhetoric of three main German national parties. We will use the Manifesto Dataset to first see the differences between the three parties in terms of different social and political agendas over the years. Second, we will see which topics do these parties use frequently in order appeal to the voters. Then, we will combine this data with the topic distribution dataset obtained from newspaper articles to analyze the role of media in facilitating the interaction between political parties and voters.
 
 The role of media is stronger than ever before in shaping people's political ideologies, which makes them one of the most important bridge between the voters and the politicians. A media is a powerful store house of information, that both sides can use for their benefit. While it is often easy to know precisely the belief or the mandate of a political party, it is not so often to make similar inferences about voters. Voters are enigmatic, they may or may not turn out to vote driven by a plethora of factors, and there is never a hard and fast way to know who they might vote for. In that regard, we assume that media can play the role of proxy for the voters. If certain topics are often repeated in the media, then that could mean that voters are interested in those topics. Through the manifesto dataset, we aim to analyze the differences "between" the parties, while through the topic distribution dataset, we aim to analyze the diffences "between" the parties and the media.   
@@ -150,4 +478,4 @@ plot_correctrile
 
 
 
-
+
