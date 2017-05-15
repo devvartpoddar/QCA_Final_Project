@@ -146,3 +146,26 @@ plot_correctrile
 
 ```
 
+#Corpus Dataset
+
+```{r}
+my_corpus <- mp_corpus(countryname == "Germany" & edate > as.Date("2001-01-01"))
+
+
+wanted_fdp <- data.frame(party=c(41420),
+                     date=c(200209, 200509, 200909, 201309))
+mp_corpus(wanted_fdp)
+
+
+wanted_cdu <- data.frame(party=c(41521),
+                     date=c(200209, 200509, 200909, 201309))
+mp_corpus(wanted_cdu)
+
+
+wanted_spd <- data.frame(party=c(41320),
+                     date=c(200209, 200509, 200909, 201309))
+mp_corpus(wanted_spd)
+
+```
+
+
