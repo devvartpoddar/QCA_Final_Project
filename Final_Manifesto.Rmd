@@ -54,9 +54,9 @@ The role of media is stronger than ever before in shaping people's political ide
 
 ## Data
 
-The data for this en devour is sourced from multiple sources. The primary dataset to analyse the differences in party ideology comes from the Comparative Manifesto Project. The project addresses the collection and the comparative content analysis of parties’ manifestos, covering over 1000 parties from 1945 onward in over 50 countries on five continents. The dataset is limited to the major political parties in Germany for our analysis. Furthermore, due to the lack of historical archives to media articles, as well as issues with storing and analysing the huge corpora of text, the data is further limited to elections post 2000 for comparison with trends in media.
+The data for this en devour is sourced from multiple sources. The primary dataset to analyse the differences in party ideology comes from the Comparative Manifesto Project. The project addresses the collection and the comparative content analysis of parties' manifestos, covering over 1000 parties from 1945 onward in over 50 countries on five continents. The dataset is limited to the major political parties in Germany for our analysis. Furthermore, due to the lack of historical archives to media articles, as well as issues with storing and analyzing the huge corpora of text, the data is further limited to elections post 2000 for comparison with trends in media.
 
-Dataset for media is collected from scraping Der Spiegel, a daily left-leaning German news publisher. Der Speigel is unique in their free access to their archives as well as their pre-categorization of the news articles. All articles on Der Spiegel are categorized into topics such as politics, sports, culture ..., with the topic of politics being further categorized into domestic and international political news. The pre-processing of data into broad categories, allows us to focus on collecting only the relevant dataset towards our analysis, without the risk of bias. Thus, we scrape all article which relate to domestic politics from 2000 onward.
+Dataset for media is collected from scraping Der Spiegel, a daily left-leaning German news publisher. Der Spiegel is unique in their free access to their archives as well as their pre-categorization of the news articles. All articles on Der Spiegel are categorized into topics such as politics, sports, culture ..., with the topic of politics being further categorized into domestic and international political news. The pre-processing of data into broad categories, allows us to focus on collecting only the relevant dataset towards our analysis, without the risk of bias. Thus, we scrape all article which relate to domestic politics from 2000 onward.
 
 The dataset on news is further limited to only articles which were published 1 year before each election. Thus for the 2002 elections, articles published in between the periods September 2001 and 2002 were scraped, and so forth. This is led by the assumption of *limited memory*; voters and individuals are constrained by their limited memory when making decisions. Studies have noted the consumer choice to be bounded by small term memory and processing skills [@James1986; @Dick2017]. In a similar vein, voters are limited to recent memory when making a choice. Similarly, individuals do not focus on historical events, but on the events that occur closer to elections. Thus it would be imperative to assume that the events that are closer to elections, and the media coverage of these events, should drive the narrative of political parties as well. It is however important to note that the use of 1 year before each election is an assumption and may be violated. There are no studies which look at the limits of long-term memory when it concerns towards political choice, and the use of different data intervals are left to future research.
 
@@ -64,7 +64,7 @@ The website is scraped using Scrapy, a web scraping framework written in Python.
 
 ## Methodology
 
-The analysis can be broken into two steps; the first step will look at analysing the differences withing the priorities for each major party in Germany. We will use the CMP dataset to work on the differences between the parties using both a measure of right-left slant of the topic, as well as the importance of that topic for the party, measured using the distribution of the different topics. 
+The analysis can be broken into two steps; the first step will look at analyzing the differences withing the priorities for each major party in Germany. We will use the CMP dataset to work on the differences between the parties using both a measure of right-left slant of the topic, as well as the importance of that topic for the party, measured using the distribution of the different topics. 
 
 The next step would be to compare the individual distribution for the parties with the distributions derived from news articles. High correlations between the two would imply a convergence between the different parties on major topics, while low correlations would imply a dichotomy between the issues of the hour and the response to the parties to those issues. 
 
@@ -74,7 +74,7 @@ Secondly, we believe that it is a difficult task to compare the political scores
 
 ## Topic Modelling News Articles
 
-The nearly 14000 news articles were then categorised using unsupervised learning methods. In particular, we used the Latent Dirichlet Allocation to determine the topic probabilities and the term-topic distribution. Formally the model is defined as follows;
+The nearly 14000 news articles were then categorized using unsupervised learning methods. In particular, we used the Latent Dirichlet Allocation to determine the topic probabilities and the term-topic distribution. Formally the model is defined as follows;
 
 Documents are represented as random mixtures over latent topics, where each topic is characterized by a distribution over words. LDA assumes the following generative process for a corpus $D$ consisting of $M$ documents each of length $N_{i}$. The topic distribution for each document $\theta_{i}$ is chosen such that $\theta_{i} \sim Dir(\alpha)$ where $i \in {1, ..., M}$ and $Dir(\alpha)$ is a Dirichlet distribution with the hyper parameter $\alpha$ measuring the *spread* or sparsity of topics. 
 
@@ -82,7 +82,7 @@ $\varphi_{k}$, the word distribution for topic $k$, is then chosen such that $\v
 
 We use the simple LDA framework, noted above, establish by @Blei2003 without adding a time parameter to allow for dynamic topic modelling. This *muddles the water* a bit, as LDA does not differentiate between the timings of the different topics, and thus may bias the result. Nonetheless, the use of dynamic topics are left for future research. Finally, we set the hyper parameters $\alpha$ as 0.8 and $K$ as 100. 100 topics should cover a breath of the articles, though we are left in the dark regarding the correct distribution. 
 
-Finally, before the text is categorised, all of the articles are cleaned to remove common stop words and punctuation. The words are further *lemmatised* using the Treetagger algorithms derived by @Schmid1994. Lemmatisation of text allows us to control for tenses within the text, as well as reduce the feature space. A brief demonstration of the lemmatisation is given below. 
+Finally, before the text is categorized, all of the articles are cleaned to remove common stop words and punctuation. The words are further *lemmatised* using the Treetagger algorithms derived by @Schmid1994. Lemmatisation of text allows us to control for tenses within the text, as well as reduce the feature space. A brief demonstration of the lemmatisation is given below. 
 
 **Before Lemmatisation;**
 
@@ -99,7 +99,7 @@ cat(paste(">", paste(temp[[1]][1:33], collapse = "")))
 cat(paste(">", paste(temp[[2]][1:20], collapse = "")))
 ```
 
-As seen, the lemmatised text returns all words to their root form, as well as removing digits and punctuation. All of these help in reducing feature space to categorise using LDA.
+As seen, the lemmatised text returns all words to their root form, as well as removing digits and punctuation. All of these help in reducing feature space to categorize using LDA.
 
 # Results
 
@@ -181,7 +181,7 @@ plot_welfare
 
 Before we move on to correlate the topic and party distributions, we first look at the breakdowns of the different topics. The 100 topics were labeled, and often spoke of similar topics, though we tried to be as specific as possible with regards to labeling of the different topics. A breakdown of the different topics are given below.
 
-As evident, the topics are unfortunately too broad to compare with political party manifestos. The papers often describe Eurozone policies or security concerns which may be picked up by the different political parties. However, the bulk of the topics tend towards Politics (Wether a party is going through turmoil), Elections (which party can expect how much votes) or Government (Coalitions, fall of coalitions etc.). The topics of elections are particularly interesting, since in may cases they occur months before the actual date of election. 
+As evident, the topics are unfortunately too broad to compare with political party manifestos. The papers often describe Eurozone policies or security concerns which may be picked up by the different political parties. However, the bulk of the topics tend towards Politics (whether a party is going through turmoil), Elections (which party can expect how much votes) or Government (Coalitions, fall of coalitions etc.). The topics of elections are particularly interesting, since in may cases they occur months before the actual date of election. 
 
 ```{r topic_breakdown}
 import("Data/term_breakdown.xlsx") %>%
@@ -240,8 +240,8 @@ There are a couple of interesting insights that may be gleamed from the graphs. 
 
 # Conclusion and Further Work
 
-The major political parties in Germany differ significantly in their approach towards the issue of welfare, market economy and their political positions. Unfortunately due to the limits of our analysis, we could not compare them to the topics of importance brought forward by the media. Nonetheless, there are two key takeaways from our analysis; *firstly* any further research must look at a media source in its entirety and not just a categorisation of these articles. This is unfortunate since it assures significantly greater issues with coding, storing and scraping of these data. 
+The major political parties in Germany differ significantly in their approach towards the issue of welfare, market economy and their political positions. Unfortunately due to the limits of our analysis, we could not compare them to the topics of importance brought forward by the media. Nonetheless, there are two key takeaways from our analysis; *firstly* any further research must look at a media source in its entirety and not just a categorization of these articles. This is unfortunate since it assures significantly greater issues with coding, storing, and scraping of these data. 
 
-Finally, the analysis, in some senses, breaks our assumption of media as a *vox populi*; articles in media were entirely focused on the issues of politics and government creation in a stark contrast with the policies undertaken by the government. Future research must therefor tread lightly when looking at the role media plays in informing political positions; while they undoubtedly help, with such focus on regional politics and elections, the question remains; how much? 
+Finally, the analysis, in some senses, breaks our assumption of media as a *vox populi*; articles in media were entirely focused on the issues of politics and government creation in a stark contrast with the policies undertaken by the government. Future research must therefore tread lightly when looking at the role media plays in informing political positions; while they undoubtedly help, with such focus on regional politics and elections, the question remains; how much? 
 
 # References
