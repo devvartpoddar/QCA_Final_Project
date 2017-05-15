@@ -103,3 +103,14 @@ for (x in 11383:nrow(news.data)) {
 }
 
 export(final.data, "Data/lemma_text.json")
+
+# Example
+example <- import("Data/election_news.json") %>%
+  select(-url) %>%
+  mutate(date = as.Date(date)) %>%
+  top_n(1)
+
+temp.text <- example$text
+clean.text <- text.lemma(temp.text)
+
+writeLines(c(temp.text, clean.text), "Data/example.txt")

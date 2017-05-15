@@ -1,7 +1,7 @@
 # Intialisation
 rm(list = ls())
 pkgs <- c('dplyr', 'magrittr', 'methods', 'rvest', 'stringi', 'rio', 'gmailr', 'koRpus',
-  'quanteda', 'topicmodels', 'tidytext', 'lubridate')
+  'quanteda', 'topicmodels', 'tidytext', 'lubridate', 'ggplot2', 'viridis')
 
 for (p in pkgs) {
   load <- require(p, character.only = T, quietly = T)

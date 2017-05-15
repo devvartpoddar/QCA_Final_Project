@@ -37,13 +37,98 @@ A brief divergence must be made here to defend the methods followed by the paper
 
 Secondly, we believe that it is a difficult task to compare the political scores between media and political parties to explain the convergence or dichotomy between the parties and the general public. The act of comparison presumes a standard to which one or the other party must reach, in our case we presume that the media is a *vox populi*, and political parties will be driven towards addressing those voices. However by using political scores such as rile, we further assume the slant, and opinions, of the media to be a gold standard which other parties must concur towards. This is a dangerous notion, both for democracy and free speech. It is a better standard to allow the different parties to differ in their response to an issue, as long as the political parties follow the urgency of a particular issue. Thus by comparing the topic distributions between parties and media, we focus only on the *importance* accorded to each topic by the political parties, allowing them to differentiate the responses according to their political leanings.
 
-**Add LDA and lemmatisation**
+## Topic Modelling News Articles
+
+The nearly 14000 news articles were then categorised using unsupervised learning methods. In particular, we used the Latent Dirchlett Allocation to determine the topic probabilities and the term-topic distribution. Formally the model is defined as follows;
+
+Documents are represented as random mixtures over latent topics, where each topic is characterized by a distribution over words. LDA assumes the following generative process for a corpus $D$ consisting of $M$ documents each of length $N_{i}$. The topic distribution for each documnet $\theta_{i}$ is chosen such that $\theta_{i} \sim Dir(\alpha)$ where $i \in {1, ..., M}$ and $Dir(\alpha)$ is a Dirchlet distribution with the hyperparameter $\alpha$ measuring the *spread* or sparsity of topics. 
+
+$\varphi_{k}$, the word distribution for topic $k$, is then chosen such that $\varphi_{k} \sim Dir(\beta)$  for $k \in {1,..., K}$. Finally for each of the word positions $i,j$, where $j \in {1, \dots ,N_{i}}$, and $i\in {1,\dots ,M}$, a topic $z_{i,j}$ and word $w_{i,j}$ is chosen such that $z_{i,j}\sim Multinomial(\theta _{i})$ and $w_{i,j} \sim Multinomial(\varphi _{z_{i,j}}).$
+
+We use the simple LDA framework, noted above, sestablish by @Blei2013 without adding a time parameter to allow for dynamic topic modelling. This *muddles the water* a bit, as LDA does not diffrentiate between the timings of the different topics, and thus may bias the result. Nonetheless, the use of dynamic topics are left for future research. Finally, we set the hyperparameters $\alpha$ as 0.8 and $K$ as 100. 100 topics should cover a breath of the articles, though we are left in the dark regarding the correct distribution. 
+
+Finally, before the text is categorised, all of the articles are cleaned to remove common stop words and punctuation. The words are further *lemmatised* using the Treetagger algorithims derived by [**xxxx**]. Lemmatisation of text allows us to control for tenses within the text, as well as reduce the feature space. A brief demonstration of the lemmatisation is given below. 
+
+**Before Lemmatisation;**
+
+```{r lemmatisation, results = "asis"}
+temp <- readLines("Data/example.txt") %>%
+  stri_split_boundaries()
+
+cat(paste(">", paste(temp[[1]][1:33], collapse = "")))
+```
+
+**After Lemmatisation;**
+
+```{r lemmatisation_after, results = "asis"}
+cat(paste(">", paste(temp[[2]][1:20], collapse = "")))
+```
+
+As seen, the lemmatised text returns all words to their root form, as well as removing digits and punctuation. All of these help in reducing feature space to categorise using LDA.
 
 # Results
 
 ## Inter-Party Differences
 
 ## Party and Media
+
+Before we move on to correlate the topic and party distributions, we first look at the breakdowns of the different topics. The 100 topics were labeled, and often spoke of similar topics, though we tried to be as specific as possible with regards to labelling of the different topics. A breakdown of the different topics are given below.
+
+As evident, the topics are unfortunately too broad to compare with political party manifestos. The papers often describe Eurozone policies or security concerns which may be picked up by the different political parties. However, the bulk of the topics tend towards Politics (Wether a party is going through turmoil), Elections (which party can expect how much votes) or Government (Coalitions, fall of coalitions etc.). The topics of elections are particularly interesting, since in may cases they occur months before the actual date of election. 
+
+```{r topic_breakdown}
+import("Data/term_breakdown.xlsx") %>%
+  filter(Topic != "NA") %>%
+  group_by(Topic) %>%
+  summarise(freq = n()) %>%
+  mutate(total = sum(freq),
+         freq = freq / total,
+         Topic = factor(Topic, levels = Topic[order(-freq)])) %>%
+  select(-total) %>%
+  ggplot() +
+  geom_col(aes(x = Topic, y = freq * 100)) +
+  labs(y = "% of Total Topics") +
+  coord_flip() +
+  theme_classic() +
+  theme(
+    axis.title.y = element_blank()
+  )
+```
+
+Nearly 30% of our topics talk of general politics, invalidating a bulk of our data. Nonetheless, it would be interesting to view the changes within these topics over time. The figure below plots out the changes in the distribution of these topics over time.
+
+```{r topic_dist, fig.width=7, fig.height=5}
+topics <- import("Data/term_breakdown.xlsx") %>%
+  filter(Topic != "NA") %>%
+  select(-term)
+
+import("Data/topic_dist.json") %>%
+  group_by(year, text_topics) %>%
+  summarise(freq = n()) %>%
+  rename(topic = text_topics) %>%
+  merge(topics, all.x = T) %>%
+  filter(!is.na(Topic)) %>%
+  ungroup() %>%
+  group_by(year) %>%
+  mutate(total = sum(freq),
+         freq = freq / total * 100) %>%
+  ungroup() %>%
+  mutate(year = as.factor(year)) %>%
+  select(-total) %>%
+  ggplot() +
+  geom_col(aes(x = year, y = freq, fill = Topic)) +
+  scale_fill_viridis(discrete = T) +
+  theme_minimal() +
+  labs(fill = "Topics") +
+  theme(
+    axis.title = element_blank(),
+    legend.position = "bottom",
+    legend.direction = "horizontal"
+  )
+
+```
+
+Thus while our topic models worked, the end result is too broad to be able to compare with the policies which parties should speak off.
 
 # Conclusion and Further Work
 
